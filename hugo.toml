@@ -1,0 +1,71 @@
+baseURL = "https://pendidikan360.my/"
+languageCode = "ms-MY"
+title = "Pendidikan360"
+theme = "PaperMod"
+paginate = 10
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+
+[params]
+  env = "production"
+  title = "Pendidikan360"
+  description = "Sumber rujukan pendidikan Malaysia — KPPB, Pentaksiran, Teknologi Pendidikan dan AI dalam Pendidikan."
+  author = "Pendidikan360"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+
+[params.homeInfoParams]
+  Title = "Selamat Datang ke Pendidikan360 🎓"
+  Content = "Sumber rujukan pendidikan Malaysia untuk guru, pensyarah dan pendidik — merangkumi KPPB, Pentaksiran, Teknologi Pendidikan dan AI dalam Pendidikan."
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:admin@pendidikan360.my"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "kppb"
+    name = "KPPB"
+    url = "/categories/kppb/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "pentaksiran"
+    name = "Pentaksiran"
+    url = "/categories/pentaksiran/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "teknologi"
+    name = "Teknologi Pendidikan"
+    url = "/categories/teknologi-pendidikan/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "ai"
+    name = "AI Pendidikan"
+    url = "/categories/ai-pendidikan/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Cari"
+    url = "/search/"
+    weight = 99
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pendidikan360</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Pendidikan360</description>
+    <generator>Hugo</generator>
+    <language>ms-MY</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Model 3E, 3R dan 6C dalam KPPB</title>
+      <link>http://localhost:1313/model-3e-3r-dan-6c-dalam-kppb/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/model-3e-3r-dan-6c-dalam-kppb/</guid>
+      <description>Penjelasan lengkap Model 3E, 3R dan Kompetensi 6C dalam Kurikulum Pendidikan Abad Ke-21 (KPPB) untuk guru Malaysia.</description>
+    </item>
+    <item>
+      <title>Penganjuran sebagai satu jenis Pentaksiran Berterusan: satu penjelasan mendalam</title>
+      <link>http://localhost:1313/pentaksiran-berterusan/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pentaksiran-berterusan/</guid>
+      <description>Panduan lengkap pentaksiran berterusan termasuk penganjuran, instrumen penilaian dan jenis-jenis pentaksiran dalam pendidikan Malaysia.</description>
+    </item>
+  </channel>
+</rss>
