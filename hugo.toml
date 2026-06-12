@@ -45,51 +45,51 @@ buildFuture = false
 
   [[menu.main]]
     identifier = "falsafah"
-    name = "falsafah"
+    name = "Falsafah"
     url = "/categories/falsafah/"
     weight = 20
 
 [[menu.main]]
     identifier = "psikologi"
-    name = "psikologi"
+    name = "Psikologi"
     url = "/categories/psikologi/"
     weight = 30
 
 [[menu.main]]
     identifier = "sosiologi"
-    name = "sosiologi"
+    name = "Sosiologi"
     url = "/categories/sosiologi/"
     weight = 40
 
 [[menu.main]]
     identifier = "pembelajaran"
-    name = "pembelajaran"
+    name = "Pembelajaran"
     url = "/categories/pembelajaran/"
     weight = 50
 
 [[menu.main]]
     identifier = "pedagogi"
-    name = "pedagogi"
+    name = "Pedagogi"
     url = "/categories/pedagogi/"
     weight = 60
 
 [[menu.main]]
     identifier = "pentaksiran"
-    name = "pentaksiran"
+    name = "Pentaksiran"
     url = "/categories/pentaksiran/"
     weight = 70
 
 [[menu.main]]
     identifier = "penyelidikan"
-    name = "penyelidikan"
+    name = "Penyelidikan"
     url = "/categories/penyelidikan/"
     weight = 80
 
 [[menu.main]]
     identifier = "teknologi"
-    name = "teknologi"
+    name = "Teknologi"
     url = "/categories/teknologi-pendidikan/"
-    weight = 40
+    weight = 90
 
   [[menu.main]]
     identifier = "search"
