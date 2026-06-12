@@ -10,7 +10,7 @@ buildFuture = false
 [params]
   env = "production"
   title = "Pendidikan360"
-  description = "Sumber rujukan pendidikan Malaysia — KPPB, Pentaksiran, Teknologi Pendidikan dan AI dalam Pendidikan."
+  description = "Sumber rujukan pendidikan Malaysia untuk guru, pensyarah dan pendidik merangkumi Pembelajaran Bermakna, Pentaksiran, Pembelajaran Digital, Teknologi Pendidikan dan AI dalam Pendidikan."
   author = "Pendidikan360"
   defaultTheme = "auto"
   ShowReadingTime = true
@@ -24,8 +24,8 @@ buildFuture = false
   ShowRssButtonInSectionTermList = true
 
 [params.homeInfoParams]
-  Title = "Selamat Datang ke Pendidikan360 🎓"
-  Content = "Sumber rujukan pendidikan Malaysia untuk guru, pensyarah dan pendidik — merangkumi KPPB, Pentaksiran, Teknologi Pendidikan dan AI dalam Pendidikan."
+  Title = "Dunia Pendidikan. Global dan Lokal. 🎓"
+  Content = "Sumber rujukan pendidikan Malaysia untuk guru, pensyarah dan pendidik merangkumi Pembelajaran Bermakna, Pentaksiran, Pembelajaran Digital, Teknologi Pendidikan dan AI dalam Pendidikan."
 
 [[params.socialIcons]]
   name = "email"
