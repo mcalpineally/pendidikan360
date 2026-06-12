@@ -38,27 +38,57 @@ buildFuture = false
 [menu]
 
   [[menu.main]]
-    identifier = "kppb"
-    name = "KPPB"
-    url = "/categories/kppb/"
+    identifier = "sejarah"
+    name = "Sejarah"
+    url = "/categories/sejarah-pendidikan/"
     weight = 10
 
   [[menu.main]]
-    identifier = "pentaksiran"
-    name = "Pentaksiran"
-    url = "/categories/pentaksiran/"
+    identifier = "falsafah"
+    name = "falsafah"
+    url = "/categories/falsafah/"
     weight = 20
 
-  [[menu.main]]
-    identifier = "teknologi"
-    name = "Teknologi Pendidikan"
-    url = "/categories/teknologi-pendidikan/"
+[[menu.main]]
+    identifier = "psikologi"
+    name = "psikologi"
+    url = "/categories/psikologi/"
     weight = 30
 
-  [[menu.main]]
-    identifier = "ai"
-    name = "AI Pendidikan"
-    url = "/categories/ai-pendidikan/"
+[[menu.main]]
+    identifier = "sosiologi"
+    name = "sosiologi"
+    url = "/categories/sosiologi/"
+    weight = 40
+
+[[menu.main]]
+    identifier = "pembelajaran"
+    name = "pembelajaran"
+    url = "/categories/pembelajaran/"
+    weight = 50
+
+[[menu.main]]
+    identifier = "pedagogi"
+    name = "pedagogi"
+    url = "/categories/pedagogi/"
+    weight = 60
+
+[[menu.main]]
+    identifier = "pentaksiran"
+    name = "pentaksiran"
+    url = "/categories/pentaksiran/"
+    weight = 70
+
+[[menu.main]]
+    identifier = "penyelidikan"
+    name = "penyelidikan"
+    url = "/categories/penyelidikan/"
+    weight = 80
+
+[[menu.main]]
+    identifier = "teknologi"
+    name = "teknologi"
+    url = "/categories/teknologi-pendidikan/"
     weight = 40
 
   [[menu.main]]
