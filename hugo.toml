@@ -38,60 +38,6 @@ buildFuture = false
 [menu]
 
   [[menu.main]]
-    identifier = "sejarah"
-    name = "Sejarah"
-    url = "/categories/sejarah-pendidikan/"
-    weight = 10
-
-  [[menu.main]]
-    identifier = "falsafah"
-    name = "Falsafah"
-    url = "/categories/falsafah/"
-    weight = 20
-
-[[menu.main]]
-    identifier = "psikologi"
-    name = "Psikologi"
-    url = "/categories/psikologi/"
-    weight = 30
-
-[[menu.main]]
-    identifier = "sosiologi"
-    name = "Sosiologi"
-    url = "/categories/sosiologi/"
-    weight = 40
-
-[[menu.main]]
-    identifier = "pembelajaran"
-    name = "Pembelajaran"
-    url = "/categories/pembelajaran/"
-    weight = 50
-
-[[menu.main]]
-    identifier = "pedagogi"
-    name = "Pedagogi"
-    url = "/categories/pedagogi/"
-    weight = 60
-
-[[menu.main]]
-    identifier = "pentaksiran"
-    name = "Pentaksiran"
-    url = "/categories/pentaksiran/"
-    weight = 70
-
-[[menu.main]]
-    identifier = "penyelidikan"
-    name = "Penyelidikan"
-    url = "/categories/penyelidikan/"
-    weight = 80
-
-[[menu.main]]
-    identifier = "teknologi"
-    name = "Teknologi"
-    url = "/categories/teknologi-pendidikan/"
-    weight = 90
-
-  [[menu.main]]
     identifier = "search"
     name = "Cari"
     url = "/search/"
