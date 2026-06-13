@@ -4,6 +4,11 @@
     <title>Kppbs on Pendidikan360</title>
     <link>http://localhost:1313/kppb/</link>
     <description>Recent content in Kppbs on Pendidikan360</description>
+    <image>
+      <title>Pendidikan360</title>
+      <url>http://localhost:1313/logo.png</url>
+      <link>http://localhost:1313/logo.png</link>
+    </image>
     <generator>Hugo</generator>
     <language>ms-MY</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>

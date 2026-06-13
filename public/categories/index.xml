@@ -4,10 +4,22 @@
     <title>Categories on Pendidikan360</title>
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Pendidikan360</description>
+    <image>
+      <title>Pendidikan360</title>
+      <url>http://localhost:1313/logo.png</url>
+      <link>http://localhost:1313/logo.png</link>
+    </image>
     <generator>Hugo</generator>
     <language>ms-MY</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teknologi Pendidikan</title>
+      <link>http://localhost:1313/categories/teknologi-pendidikan/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/teknologi-pendidikan/</guid>
+      <description></description>
+    </item>
     <item>
       <title>KPPB</title>
       <link>http://localhost:1313/categories/kppb/</link>

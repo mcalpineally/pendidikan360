@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Google Classroom on Pendidikan360</title>
+    <link>http://localhost:1313/tags/google-classroom/</link>
+    <description>Recent content in Google Classroom on Pendidikan360</description>
+    <image>
+      <title>Pendidikan360</title>
+      <url>http://localhost:1313/logo.png</url>
+      <link>http://localhost:1313/logo.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>ms-MY</language>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/google-classroom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Platform Pembelajaran Digital Percuma Terbaik untuk Guru Malaysia (2026)</title>
+      <link>http://localhost:1313/5-platform-pembelajaran-digital-percuma/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/5-platform-pembelajaran-digital-percuma/</guid>
+      <description>5 platform pembelajaran digital yang 100% percuma untuk guru Malaysia — dengan data pengguna terkini, kelebihan, had, dan panduan mana satu sesuai untuk anda mula hari ini.</description>
+    </item>
+  </channel>
+</rss>

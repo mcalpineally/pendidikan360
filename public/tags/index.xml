@@ -4,10 +4,99 @@
     <title>Tags on Pendidikan360</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Pendidikan360</description>
+    <image>
+      <title>Pendidikan360</title>
+      <url>http://localhost:1313/logo.png</url>
+      <link>http://localhost:1313/logo.png</link>
+    </image>
     <generator>Hugo</generator>
     <language>ms-MY</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alat Percuma Guru</title>
+      <link>http://localhost:1313/tags/alat-percuma-guru/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/alat-percuma-guru/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canva for Education</title>
+      <link>http://localhost:1313/tags/canva-for-education/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/canva-for-education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dasar Pendidikan Digital</title>
+      <link>http://localhost:1313/tags/dasar-pendidikan-digital/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dasar-pendidikan-digital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DELIMa</title>
+      <link>http://localhost:1313/tags/delima/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/delima/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Classroom</title>
+      <link>http://localhost:1313/tags/google-classroom/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/google-classroom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guru Digital</title>
+      <link>http://localhost:1313/tags/guru-digital/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/guru-digital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KPM</title>
+      <link>http://localhost:1313/tags/kpm/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kpm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pembelajaran Digital</title>
+      <link>http://localhost:1313/tags/pembelajaran-digital/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pembelajaran-digital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Platform Pembelajaran Digital</title>
+      <link>http://localhost:1313/tags/platform-pembelajaran-digital/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/platform-pembelajaran-digital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PPPM</title>
+      <link>http://localhost:1313/tags/pppm/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pppm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quizizz</title>
+      <link>http://localhost:1313/tags/quizizz/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quizizz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordwall</title>
+      <link>http://localhost:1313/tags/wordwall/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wordwall/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Instrumen Penilaian</title>
       <link>http://localhost:1313/tags/instrumen-penilaian/</link>
@@ -69,13 +158,6 @@
       <link>http://localhost:1313/tags/pentaksiran-formatif/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/pentaksiran-formatif/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pentaksiran</title>
-      <link>http://localhost:1313/tags/pentaksiran/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pentaksiran/</guid>
       <description></description>
     </item>
   </channel>

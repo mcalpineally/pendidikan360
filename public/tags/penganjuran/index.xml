@@ -4,12 +4,17 @@
     <title>Penganjuran on Pendidikan360</title>
     <link>http://localhost:1313/tags/penganjuran/</link>
     <description>Recent content in Penganjuran on Pendidikan360</description>
+    <image>
+      <title>Pendidikan360</title>
+      <url>http://localhost:1313/logo.png</url>
+      <link>http://localhost:1313/logo.png</link>
+    </image>
     <generator>Hugo</generator>
     <language>ms-MY</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/penganjuran/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pentaksiran Berterusan</title>
+      <title>Penganjuran sebagai satu jenis Pentaksiran Berterusan: satu penjelasan mendalam</title>
       <link>http://localhost:1313/pentaksiran-berterusan/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pentaksiran-berterusan/</guid>
