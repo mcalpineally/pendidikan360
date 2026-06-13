@@ -29,7 +29,7 @@ buildFuture = false
 [params.profileMode]
   enabled = true
   title = "Pendidikan360"
-  subtitle = "Sumber rujukan pendidikan Malaysia untuk guru, pensyarah dan pendidik — merangkumi Pembelajaran Bermakna, Pentaksiran, Teknologi Pendidikan dan AI dalam Pendidikan."
+  subtitle = "Dunia Pendidikan. Global dan Lokal."
   imageUrl = "logo.png"
   imageWidth = 160
   imageHeight = 160
