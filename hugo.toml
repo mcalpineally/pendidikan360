@@ -24,11 +24,7 @@ buildFuture = false
   ShowRssButtonInSectionTermList = true
   images = ["logo.png"]
 
-[params]
-  favicon = "favicon.ico"
-  favicon16x16 = "favicon-16x16.png"
-  favicon32x32 = "favicon-32x32.png"
-  appleTouchIcon = "apple-touch-icon.png"
+
 
 [params.profileMode]
   enabled = true
