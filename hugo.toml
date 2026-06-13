@@ -22,20 +22,69 @@ buildFuture = false
   TocOpen = false
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
+  images = ["logo.png"]
 
-[params.homeInfoParams]
-  Title = "Dunia Pendidikan. Global dan Lokal. 🎓"
-  Content = "Sumber rujukan pendidikan Malaysia untuk guru, pensyarah dan pendidik merangkumi Pembelajaran Bermakna, Pentaksiran, Pembelajaran Digital, Teknologi Pendidikan dan AI dalam Pendidikan."
+[params.profileMode]
+  enabled = true
+  title = "Pendidikan360"
+  subtitle = "Sumber rujukan pendidikan Malaysia untuk guru, pensyarah dan pendidik — merangkumi Pembelajaran Bermakna, Pentaksiran, Teknologi Pendidikan dan AI dalam Pendidikan."
+  imageUrl = "logo.png"
+  imageWidth = 160
+  imageHeight = 160
+  imageTitle = "Pendidikan360"
+
+  [[params.profileMode.buttons]]
+    name = "📚 KPPB"
+    url = "/categories/kppb/"
+
+  [[params.profileMode.buttons]]
+    name = "📝 Pentaksiran"
+    url = "/categories/pentaksiran/"
+
+  [[params.profileMode.buttons]]
+    name = "💻 Teknologi Pendidikan"
+    url = "/categories/teknologi-pendidikan/"
+
+  [[params.profileMode.buttons]]
+    name = "🤖 AI Pendidikan"
+    url = "/categories/ai-pendidikan/"
 
 [[params.socialIcons]]
   name = "email"
   url = "mailto:admin@pendidikan360.my"
+
+[[params.socialIcons]]
+  name = "rss"
+  url = "/index.xml"
 
 [taxonomies]
   category = "categories"
   tag = "tags"
 
 [menu]
+  [[menu.main]]
+    identifier = "kppb"
+    name = "KPPB"
+    url = "/categories/kppb/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "pentaksiran"
+    name = "Pentaksiran"
+    url = "/categories/pentaksiran/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "teknologi"
+    name = "Teknologi Pendidikan"
+    url = "/categories/teknologi-pendidikan/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "ai"
+    name = "AI Pendidikan"
+    url = "/categories/ai-pendidikan/"
+    weight = 40
 
   [[menu.main]]
     identifier = "search"
