@@ -79,111 +79,20 @@ buildFuture = false
   [[menu.main]]
     identifier = "teknologi"
     name = "Teknologi Pendidikan"
-    url = "#"
+    url = "/categories/teknologi-pendidikan/"
     weight = 30
-
-  [[menu.main]]
-    identifier = "canva"
-    name = "Canva"
-    url = "/tags/canva/"
-    weight = 31
-    parent = "teknologi"
-
-  [[menu.main]]
-    identifier = "quizizz"
-    name = "Quizizz"
-    url = "/tags/quizizz/"
-    weight = 32
-    parent = "teknologi"
-
-  [[menu.main]]
-    identifier = "kahoot"
-    name = "Kahoot"
-    url = "/tags/kahoot/"
-    weight = 33
-    parent = "teknologi"
-
-  [[menu.main]]
-    identifier = "padlet"
-    name = "Padlet"
-    url = "/tags/padlet/"
-    weight = 34
-    parent = "teknologi"
-
-  [[menu.main]]
-    identifier = "google-classroom"
-    name = "Google Classroom"
-    url = "/tags/google-classroom/"
-    weight = 35
-    parent = "teknologi"
-
-  [[menu.main]]
-    identifier = "delima"
-    name = "DELIMa"
-    url = "/tags/delima/"
-    weight = 36
-    parent = "teknologi"
 
   [[menu.main]]
     identifier = "ai"
     name = "AI Pendidikan"
-    url = "#"
+    url = "/categories/ai-pendidikan/"
     weight = 40
-
-  [[menu.main]]
-    identifier = "chatgpt"
-    name = "ChatGPT"
-    url = "/tags/chatgpt/"
-    weight = 41
-    parent = "ai"
-
-  [[menu.main]]
-    identifier = "claude"
-    name = "Claude"
-    url = "/tags/claude/"
-    weight = 42
-    parent = "ai"
-
-  [[menu.main]]
-    identifier = "gemini"
-    name = "Gemini"
-    url = "/tags/gemini/"
-    weight = 43
-    parent = "ai"
-
-  [[menu.main]]
-    identifier = "prompt"
-    name = "Prompt Engineering"
-    url = "/tags/prompt-engineering/"
-    weight = 44
-    parent = "ai"
 
   [[menu.main]]
     identifier = "pembelajaran-digital"
     name = "Pembelajaran Digital"
-    url = "#"
+    url = "/categories/pembelajaran-digital/"
     weight = 50
-
-  [[menu.main]]
-    identifier = "blended"
-    name = "Blended Learning"
-    url = "/tags/blended-learning/"
-    weight = 51
-    parent = "pembelajaran-digital"
-
-  [[menu.main]]
-    identifier = "flipped"
-    name = "Flipped Classroom"
-    url = "/tags/flipped-classroom/"
-    weight = 52
-    parent = "pembelajaran-digital"
-
-  [[menu.main]]
-    identifier = "lms"
-    name = "LMS"
-    url = "/tags/lms/"
-    weight = 53
-    parent = "pembelajaran-digital"
 
   [[menu.main]]
     identifier = "search"
