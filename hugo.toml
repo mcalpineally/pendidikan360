@@ -66,7 +66,7 @@ buildFuture = false
 [menu]
   [[menu.main]]
     identifier = "kppb"
-    name = "KPPB"
+    name = "Pembelajaran Bermakna"
     url = "/categories/kppb/"
     weight = 10
 
@@ -89,9 +89,9 @@ buildFuture = false
     weight = 40
 
   [[menu.main]]
-    identifier = "pembelajaran-digital"
-    name = "Pembelajaran Digital"
-    url = "/categories/pembelajaran-digital/"
+    identifier = "pedagogi"
+    name = "Pedagogi"
+    url = "/categories/pedagogi/"
     weight = 50
 
   [[menu.main]]
