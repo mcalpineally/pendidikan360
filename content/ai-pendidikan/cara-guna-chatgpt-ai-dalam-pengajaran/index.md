@@ -3,7 +3,7 @@ title: "Cara Guna ChatGPT dan AI dalam Pengajaran — Panduan Guru Malaysia 2026
 date: 2026-06-14
 url: "/cara-guna-chatgpt-ai-dalam-pengajaran/"
 draft: false
-categories: ["AI Pendidikan", "AI dalam Pendidikan"]
+categories: ["AI Pendidikan"]
 tags: ["ChatGPT", "AI dalam Pengajaran", "Kecerdasan Buatan", "Prompt Guru", "Rancangan Pengajaran", "Soalan Latihan", "Guru Malaysia"]
 description: "Panduan lengkap cara guna ChatGPT dan alat AI dalam pengajaran untuk guru Malaysia — termasuk 8 prompt siap guna dalam Bahasa Malaysia, had yang perlu diketahui, dan tips etika penggunaan AI."
 ShowToc: true
