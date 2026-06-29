@@ -3,7 +3,7 @@ title: "10 Prompt AI Terbaik untuk Guru Hasilkan Bahan Pengajaran (2026)"
 date: 2026-06-15
 url: "/10-prompt-ai-bahan-pengajaran-guru/"
 draft: false
-categories: ["Teknologi Pendidikan", "AI dalam Pendidikan"]
+categories: ["Teknologi Pendidikan", "AI Pendidikan"]
 tags: ["Prompt AI", "Bahan Pengajaran", "Lembaran Kerja", "Pembezaan Pengajaran", "ChatGPT Guru", "Rubrik Penilaian"]
 description: "10 prompt AI siap guna untuk hasilkan lembaran kerja, soalan ujian, rubrik, dan bahan pengajaran lain dalam masa minit — lengkap dengan rangka kerja prompt yang berkesan untuk guru Malaysia."
 ShowToc: true
