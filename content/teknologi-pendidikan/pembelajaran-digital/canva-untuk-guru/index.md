@@ -9,7 +9,7 @@ description: "Canva for Education 100% percuma untuk guru sekolah rendah dan men
 ShowToc: true
 TocOpen: true
 cover:
-  image: "featured.jpg"
+  image: "featured.png"
   alt: "Canva untuk Guru — Cara Buat Bahan PDPC Menarik"
   caption: "Panduan lengkap Canva for Education untuk guru Malaysia — percuma dan mudah digunakan"
   relative: true
