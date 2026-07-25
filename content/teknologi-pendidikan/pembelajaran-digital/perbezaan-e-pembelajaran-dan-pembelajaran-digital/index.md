@@ -1,11 +1,11 @@
 ---
-title: "Perbezaan e-Pembelajaran dan Pembelajaran Digital — Panduan Mudah untuk Guru (2026)"
+title: "Perbezaan e-Pembelajaran dan Pembelajaran Digital — Jadual Perbandingan Lengkap"
 date: 2026-06-13
 url: "/perbezaan-e-pembelajaran-dan-pembelajaran-digital/"
 draft: false
 categories: ["Teknologi Pendidikan"]
 tags: ["e-Pembelajaran", "Pembelajaran Digital", "Online Learning", "Istilah Pendidikan", "PDPC", "Guru Malaysia"]
-description: "Keliru dengan istilah e-pembelajaran, pembelajaran digital, dan online learning? Panduan ringkas ini jelaskan perbezaan ketiga-tiga istilah dengan contoh praktikal untuk guru Malaysia."
+description: "e-Pembelajaran, pembelajaran digital, online learning — apa bezanya? Lihat jadual perbandingan lengkap tiga istilah ini dengan contoh alat, keperluan internet, dan kesesuaian untuk PDPC guru Malaysia."
 ShowToc: true
 TocOpen: true
 cover:

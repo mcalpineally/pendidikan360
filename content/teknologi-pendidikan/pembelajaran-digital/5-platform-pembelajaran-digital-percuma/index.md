@@ -1,11 +1,11 @@
 ---
-title: "5 Platform Pembelajaran Digital Percuma Terbaik untuk Guru Malaysia (2026)"
+title: "5 Platform Pembelajaran Digital PERCUMA untuk Guru Malaysia (2026) — DELIMa, Canva & Lain-lain"
 date: 2026-06-12
 url: "/5-platform-pembelajaran-digital-percuma/"
 draft: false
 categories: ["Teknologi Pendidikan"]
 tags: ["Platform Pembelajaran Digital", "DELIMa", "Google Classroom", "Quizizz", "Canva for Education", "Wordwall", "Alat Percuma Guru"]
-description: "5 platform pembelajaran digital yang 100% percuma untuk guru Malaysia — dengan data pengguna terkini, kelebihan, had, dan panduan mana satu sesuai untuk anda mula hari ini."
+description: "5 platform pembelajaran digital 100% percuma untuk guru Malaysia — DELIMa (89% guru aktif), Google Classroom, Canva for Education, Quizizz, dan Wordwall. Perbandingan lengkap dengan panduan cara mula."
 ShowToc: true
 TocOpen: true
 cover:

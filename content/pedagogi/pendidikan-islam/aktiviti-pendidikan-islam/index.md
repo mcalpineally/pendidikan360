@@ -1,11 +1,11 @@
 ---
-title: "30 Aktiviti Pendidikan Islam Menarik untuk Semua Peringkat (Tadika hingga Menengah)"
+title: "30 Aktiviti Pendidikan Islam Menarik untuk Guru — Tadika hingga Sekolah Menengah"
 date: 2026-06-16
 url: "/aktiviti-pendidikan-islam/"
 draft: false
 categories: ["Pedagogi"]
 tags: ["Aktiviti Pendidikan Islam", "Akidah", "Ibadah", "Sirah", "Akhlak", "KSSR", "KSSM", "Guru Pendidikan Islam"]
-description: "Senarai induk 30 aktiviti pendidikan Islam mengikut tujuh bidang KSSR/KSSM — Al-Quran, Hadis, Akidah, Ibadah, Sirah, Adab, dan Jawi — sesuai untuk tadika, sekolah rendah, dan sekolah menengah."
+description: "Senarai induk 30 aktiviti pendidikan Islam mengikut 7 bidang KSSR/KSSM — Al-Quran, Hadis, Akidah, Ibadah, Sirah, Adab, dan Jawi. Sesuai untuk guru tadika, sekolah rendah, dan sekolah menengah."
 ShowToc: true
 TocOpen: true
 cover:
