@@ -1,5 +1,5 @@
 ---
-title: "Penganjuran sebagai satu jenis Pentaksiran Berterusan: satu penjelasan mendalam"
+title: "Penganjuran dalam Pentaksiran Berterusan — Maksud, Jenis, Tujuan dan Instrumen Penilaian"
 date: 2024-01-01
 url: "/pentaksiran-berterusan/"
 draft: false

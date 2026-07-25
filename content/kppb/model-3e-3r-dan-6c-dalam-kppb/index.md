@@ -1,5 +1,5 @@
 ---
-title: "Model 3E, 3R dan 6C dalam KPPB"
+title: "3 Model KPPB: 3E, 3R dan 6C — Panduan Lengkap untuk Guru & Pelajar IPG (2026)"
 date: 2024-01-01
 url: "/model-3e-3r-dan-6c-dalam-kppb/"
 draft: false
