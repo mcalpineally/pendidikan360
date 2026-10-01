@@ -1,0 +1,16 @@
+{{- /*
+  Letak banner di tengah artikel:
+    {{< banner >}}                 → pilih automatik ikut kategori
+    {{< banner id="contoh-ebook" >}} → banner tertentu
+*/ -}}
+{{- $cfg := site.Data.banners -}}
+{{- if and $cfg $cfg.enabled -}}
+  {{- with .Get "id" -}}
+    {{- $id := . -}}
+    {{- range $cfg.banners -}}
+      {{- if and (eq .id $id) .enabled -}}{{- partial "banner-card.html" (dict "b" .) -}}{{- end -}}
+    {{- end -}}
+  {{- else -}}
+    {{- with partial "banner-pick.html" .Page -}}{{- partial "banner-card.html" (dict "b" .) -}}{{- end -}}
+  {{- end -}}
+{{- end -}}

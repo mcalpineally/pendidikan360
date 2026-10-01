@@ -1,0 +1,60 @@
+# =============================================================
+#  BANNER PRODUK DIGITAL — pendidikan360.my
+#  Ubah fail ini sahaja untuk tambah / tukar / matikan banner.
+# =============================================================
+#
+#  enabled: false  → matikan SEMUA banner di seluruh laman.
+#  label           → teks kecil di atas setiap banner.
+#
+#  Setiap banner:
+#    id          : nama pendek unik (huruf kecil, tanpa ruang)
+#    enabled     : true = papar, false = sorok
+#    title       : tajuk banner
+#    text        : 1 ayat ringkas
+#    url         : pautan produk (pautan affiliate pun boleh)
+#    button      : teks butang
+#    image       : (pilihan) gambar dalam folder static/banners/
+#                  contoh: /banners/ebook-kppb.png  — saiz cadangan 600x400
+#    categories  : (pilihan) papar hanya dalam kategori ini,
+#                  cth ["KPPB", "Pentaksiran", "Teknologi Pendidikan", "Pedagogi"]
+#                  kosongkan [] untuk papar di semua artikel
+#    affiliate   : true jika pautan affiliate (label "Pautan affiliate" dipaparkan)
+#
+#  Banner di hujung artikel dipilih automatik daripada banner yang
+#  sepadan dengan kategori artikel. Untuk sorok banner dalam satu
+#  artikel, tambah  hideBanner: true  dalam frontmatter artikel itu.
+# =============================================================
+
+enabled: true
+label: "Produk digital pilihan"
+
+banners:
+  - id: math-kids
+    enabled: true
+    title: "Math Kids: 8 Permainan Math Interaktif (Tadika–Tahun 3)"
+    text: "Latihan nombor, tambah, tolak dan sifir dalam bentuk permainan. Selaras KSPK dan KSSR, boleh guna di PC, tablet dan telefon."
+    url: "https://sellhiz.win/p/math-kids-230/r/ALPIAAJ4"
+    button: "Lihat Math Kids"
+    image: "/banners/math-kids.jpg"
+    categories: ["Teknologi Pendidikan", "Pedagogi"]
+    affiliate: true
+
+  - id: contoh-ebook
+    enabled: false
+    title: "Contoh: eBook Nota Ringkas KPPB"
+    text: "Tukar teks ini kepada penerangan produk anda."
+    url: "https://contoh.com/produk"
+    button: "Lihat eBook"
+    image: ""
+    categories: ["KPPB"]
+    affiliate: false
+
+  - id: contoh-permainan
+    enabled: false
+    title: "Contoh: Permainan Pendidikan Dalam Talian"
+    text: "Tukar teks ini kepada penerangan permainan / platform."
+    url: "https://contoh.com/permainan"
+    button: "Cuba sekarang"
+    image: ""
+    categories: []
+    affiliate: true

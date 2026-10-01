@@ -1,0 +1,29 @@
+{{- /* Pilih banner yang sesuai untuk halaman ini. Pulangkan banner atau nil. */ -}}
+{{- $page := . -}}
+{{- $result := false -}}
+{{- $cfg := site.Data.banners -}}
+{{- if and $cfg $cfg.enabled (not ($page.Param "hideBanner")) -}}
+  {{- $pageCats := slice -}}
+  {{- range ($page.Params.categories | default slice) }}{{ $pageCats = $pageCats | append (lower .) }}{{ end -}}
+  {{- $matches := slice -}}
+  {{- range $cfg.banners -}}
+    {{- if .enabled -}}
+      {{- $cats := .categories | default slice -}}
+      {{- if eq (len $cats) 0 -}}
+        {{- $matches = $matches | append . -}}
+      {{- else -}}
+        {{- $hit := false -}}
+        {{- range $cats }}{{ if in $pageCats (lower .) }}{{ $hit = true }}{{ end }}{{ end -}}
+        {{- if $hit }}{{ $matches = $matches | append . }}{{ end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with $matches -}}
+    {{- /* Pilihan tetap bagi setiap artikel, tetapi berbeza antara artikel */ -}}
+    {{- $n := len . -}}
+    {{- $seed := len $page.RelPermalink -}}
+    {{- range (split (md5 $page.RelPermalink) "") }}{{ $seed = add $seed (len (findRE "[0-9]" .)) }}{{ end -}}
+    {{- $result = index . (mod $seed $n) -}}
+  {{- end -}}
+{{- end -}}
+{{- return $result -}}

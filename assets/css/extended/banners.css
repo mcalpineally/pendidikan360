@@ -1,0 +1,20 @@
+/* Banner produk digital — ikut warna tema PaperMod (cerah & gelap) */
+.p360-banner { margin: 2rem 0; }
+.p360-banner__label { font-size: 0.75rem; color: var(--secondary); margin-bottom: 0.4rem; letter-spacing: 0.02em; }
+.p360-banner__card {
+  display: flex; gap: 1rem; align-items: center;
+  padding: 1rem; border: 1px solid var(--border); border-radius: var(--radius, 8px);
+  background: var(--entry); text-decoration: none; box-shadow: none;
+  transition: border-color .15s ease, transform .15s ease;
+}
+.p360-banner__card:hover { border-color: var(--primary); transform: translateY(-1px); }
+.post-content .p360-banner__card, .p360-banner__card * { box-shadow: none !important; text-decoration: none; }
+.p360-banner__img { width: 160px; height: auto; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 6px; flex-shrink: 0; margin: 0 !important; }
+.p360-banner__body { display: flex; flex-direction: column; gap: 0.3rem; min-width: 0; }
+.p360-banner__title { color: var(--primary); font-size: 1.05rem; line-height: 1.35; }
+.p360-banner__text { color: var(--secondary); font-size: 0.92rem; line-height: 1.5; }
+.p360-banner__btn { align-self: flex-start; margin-top: 0.3rem; padding: 0.4rem 0.9rem; border-radius: 6px; background: var(--primary); color: var(--theme); font-size: 0.88rem; font-weight: 600; }
+@media (max-width: 560px) {
+  .p360-banner__card { flex-direction: column; align-items: stretch; }
+  .p360-banner__img { width: 100%; }
+}

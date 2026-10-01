@@ -1,0 +1,6 @@
+{{- /* Banner produk digital di hujung setiap artikel (sebelum tag). */ -}}
+{{- if .IsPage -}}
+  {{- with partial "banner-pick.html" . -}}
+    {{- partial "banner-card.html" (dict "b" .) -}}
+  {{- end -}}
+{{- end -}}

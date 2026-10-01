@@ -1,0 +1,16 @@
+{{- /* Satu kad banner. Dipanggil dengan dict "b" (banner) */ -}}
+{{- $b := .b -}}
+{{- $label := site.Data.banners.label | default "Produk digital pilihan" -}}
+<aside class="p360-banner" aria-label="{{ $label }}">
+  <div class="p360-banner__label">{{ $label }}{{ if $b.affiliate }} · <span>Pautan affiliate</span>{{ end }}</div>
+  <a class="p360-banner__card" href="{{ $b.url }}" target="_blank" rel="noopener{{ if $b.affiliate }} sponsored{{ end }}">
+    {{- with $b.image }}
+    <img class="p360-banner__img" src="{{ . }}" alt="{{ $b.title }}" loading="lazy" width="600" height="400">
+    {{- end }}
+    <span class="p360-banner__body">
+      <strong class="p360-banner__title">{{ $b.title }}</strong>
+      {{- with $b.text }}<span class="p360-banner__text">{{ . }}</span>{{ end }}
+      <span class="p360-banner__btn">{{ $b.button | default "Lihat" }} →</span>
+    </span>
+  </a>
+</aside>
