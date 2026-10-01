@@ -95,6 +95,12 @@ buildFuture = false
     weight = 50
 
   [[menu.main]]
+    identifier = "kedai"
+    name = "Kedai"
+    url = "https://kedai.pendidikan360.my/"
+    weight = 90
+
+  [[menu.main]]
     identifier = "search"
     name = "Cari"
     url = "/search/"

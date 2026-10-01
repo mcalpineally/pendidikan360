@@ -33,11 +33,11 @@ banners:
     enabled: true
     title: "Math Kids: 8 Permainan Math Interaktif (Tadika–Tahun 3)"
     text: "Latihan nombor, tambah, tolak dan sifir dalam bentuk permainan. Selaras KSPK dan KSSR, boleh guna di PC, tablet dan telefon."
-    url: "https://sellhiz.win/p/math-kids-230/r/ALPIAAJ4"
-    button: "Lihat Math Kids"
+    url: "https://kedai.pendidikan360.my/product/math-kids-8-permainan-math-interaktif-tadika-hingga-tahun-3"
+    button: "Dapatkan Math Kids"
     image: "/banners/math-kids.jpg"
     categories: ["Teknologi Pendidikan", "Pedagogi"]
-    affiliate: true
+    affiliate: false
 
   - id: contoh-ebook
     enabled: false
