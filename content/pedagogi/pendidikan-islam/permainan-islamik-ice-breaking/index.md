@@ -19,7 +19,7 @@ Selepas waktu rehat atau di awal sesi pembelajaran, kelas Pendidikan Islam serin
 
 Ice-breaking yang bertemakan Islam menyelesaikan dua masalah sekaligus: ia **mengembalikan fokus pelajar** kepada pembelajaran, dan pada masa yang sama **mengukuhkan pengetahuan Islam** melalui permainan yang menyeronokkan.
 
-<cite index="79-1">Kajian menunjukkan bahawa ice breaking berbasis permainan edukatif — seperti tebak ayat, sambung kata Islamik, kuiz kumpulan, dan permainan konsentrasi — mampu menciptakan suasana pembelajaran yang lebih hidup, menarik, dan tidak membosankan, serta terbukti membantu meningkatkan motivasi intrinsik pelajar.</cite>
+Kajian menunjukkan bahawa ice breaking berbasis permainan edukatif — seperti tebak ayat, sambung kata Islamik, kuiz kumpulan, dan permainan konsentrasi — mampu menciptakan suasana pembelajaran yang lebih hidup, menarik, dan tidak membosankan, serta terbukti membantu meningkatkan motivasi intrinsik pelajar.
 
 Artikel ini menyenaraikan 10 permainan islamik untuk ice-breaking — semuanya boleh dilaksanakan dalam **5 hingga 10 minit**, tanpa memerlukan bahan atau peralatan khas.
 
@@ -27,7 +27,7 @@ Artikel ini menyenaraikan 10 permainan islamik untuk ice-breaking — semuanya b
 
 ## Mengapa Ice-Breaking Penting dalam Kelas PI?
 
-<cite index="81-1">Penerapan teknik ice breaking dalam Pendidikan Agama Islam terbukti mampu meningkatkan motivasi belajar pelajar, menjadikan pelajar aktif berperan dalam kegiatan diskusi dan kuiz, dan pelajar lebih antusias mengikuti pembelajaran.</cite>
+Penerapan teknik ice breaking dalam Pendidikan Agama Islam terbukti mampu meningkatkan motivasi belajar pelajar, menjadikan pelajar aktif berperan dalam kegiatan diskusi dan kuiz, dan pelajar lebih antusias mengikuti pembelajaran.
 
 Ice-breaking dalam kelas Pendidikan Islam berbeza sedikit daripada ice-breaking biasa — ia bukan sekadar aktiviti hiburan. Ia adalah **transisi pedagogi** yang membawa pelajar daripada mod sosial kepada mod pembelajaran, sambil mengingatkan mereka tentang kandungan Islam yang pernah dipelajari.
 
@@ -61,7 +61,7 @@ Tepuk Islam adalah ice-breaking paling mudah dan paling universal — boleh dila
 
 **Masa:** 5–7 minit | **Peringkat:** Sekolah menengah | **Bilangan:** Kelas penuh atau kumpulan
 
-<cite index="79-1">Sambung kata Islamik adalah antara aktiviti ice breaking yang berkesan dalam pembelajaran Pendidikan Agama Islam.</cite>
+Sambung kata Islamik adalah antara aktiviti ice breaking yang berkesan dalam pembelajaran Pendidikan Agama Islam.
 
 **Cara bermain:**
 - Guru baca bahagian pertama sebuah ayat Al-Quran
@@ -190,7 +190,7 @@ Tepuk Islam adalah ice-breaking paling mudah dan paling universal — boleh dila
 - Jawapan betul: 1 mata. Jawapan salah: 0 mata, kumpulan lain boleh cuba
 - 10 soalan, kumpulan dengan mata terbanyak menang
 
-<cite index="79-1">Kuiz kumpulan adalah antara aktiviti ice breaking yang terbukti berkesan dalam meningkatkan motivasi dan penglibatan pelajar dalam pembelajaran Pendidikan Agama Islam.</cite>
+Kuiz kumpulan adalah antara aktiviti ice breaking yang terbukti berkesan dalam meningkatkan motivasi dan penglibatan pelajar dalam pembelajaran Pendidikan Agama Islam.
 
 **Petua:** Soalan perlu berkaitan topik yang baru atau akan diajar — bukan soalan rawak. Ini menjadikan kuiz bermakna dari segi pedagogi.
 
@@ -250,7 +250,7 @@ Mulakan dengan permainan yang mudah dan tidak memerlukan pelajar ke hadapan kela
 
 ### Apakah kajian yang menyokong penggunaan ice-breaking dalam Pendidikan Islam?
 
-<cite index="81-1">Kajian "Penerapan Teknik Ice Breaking pada Pembelajaran Pendidikan Agama Islam" (Jurnal Budi Pekerti Agama Islam, 2025) mendapati bahawa teknik ice breaking dapat menumbuhkan semangat belajar pelajar, meningkatkan motivasi, menjadikan pelajar aktif dalam perbincangan, serta menciptakan pembelajaran yang bergerak dari pasif kepada aktif.</cite>
+Kajian "Penerapan Teknik Ice Breaking pada Pembelajaran Pendidikan Agama Islam" (Jurnal Budi Pekerti Agama Islam, 2025) mendapati bahawa teknik ice breaking dapat menumbuhkan semangat belajar pelajar, meningkatkan motivasi, menjadikan pelajar aktif dalam perbincangan, serta menciptakan pembelajaran yang bergerak dari pasif kepada aktif.
 
 ---
 

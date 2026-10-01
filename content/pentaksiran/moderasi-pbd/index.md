@@ -25,7 +25,7 @@ Artikel ini menjelaskan maksud moderasi, empat tujuan rasminya, tiga model pelak
 
 ## Apa Maksud Moderasi PBD?
 
-<cite index="114-1">Moderasi adalah proses penetapan aspek atau kriteria dalam pentaksiran. Moderasi dilaksanakan oleh guru mata pelajaran yang sama atau dalam panitia yang sama. Moderasi penting bagi mengurangkan jurang pertimbangan profesional antara seorang guru dengan guru yang lain. Moderasi juga adalah untuk memastikan keesahan dan kesaksamaan dalam pertimbangan profesional dan pentaksiran yang dilakukan.</cite>
+Moderasi adalah proses penetapan aspek atau kriteria dalam pentaksiran. Moderasi dilaksanakan oleh guru mata pelajaran yang sama atau dalam panitia yang sama. Moderasi penting bagi mengurangkan jurang pertimbangan profesional antara seorang guru dengan guru yang lain. Moderasi juga adalah untuk memastikan keesahan dan kesaksamaan dalam pertimbangan profesional dan pentaksiran yang dilakukan.
 
 Dalam bahasa yang lebih mudah: moderasi adalah **sesi perbincangan antara guru-guru dalam panitia yang sama** untuk memastikan mereka menggunakan standard yang sama apabila memberi TP kepada pelajar.
 
@@ -39,7 +39,7 @@ Definisi rasmi dari Buku Panduan PBD KPM menyatakan moderasi sebagai:
 
 Tanpa moderasi, pertimbangan profesional boleh berbeza-beza antara guru — bergantung kepada interpretasi Standard Prestasi masing-masing. Ini mewujudkan ketidakadilan kepada pelajar: pelajar A mungkin dapat TP4 dari Cikgu X untuk hasil kerja yang sama yang akan diberi TP3 oleh Cikgu Y.
 
-<cite index="113-1">Guru dalam panitia yang sama melakukan moderasi (perbincangan) sesama mereka dalam melakukan pertimbangan profesional terhadap murid.</cite>
+Guru dalam panitia yang sama melakukan moderasi (perbincangan) sesama mereka dalam melakukan pertimbangan profesional terhadap murid.
 
 Moderasi bukan bermakna semua guru perlu bersetuju sepenuhnya — tetapi ia memastikan **jurang antara pertimbangan diminimumkan** melalui rujukan bersama kepada Standard Prestasi yang sama.
 
@@ -47,7 +47,7 @@ Moderasi bukan bermakna semua guru perlu bersetuju sepenuhnya — tetapi ia mema
 
 ## 4 Tujuan Moderasi PBD
 
-<cite index="111-1">Tujuan moderasi adalah untuk: memastikan pertimbangan yang dibuat adil, konsisten, sah, dan boleh dipercayai; meningkatkan komunikasi profesional dalam kalangan guru; mewujudkan pembelajaran profesional dalam kalangan guru; dan meningkatkan pengajaran dan pembelajaran (PdP).</cite>
+Tujuan moderasi adalah untuk: memastikan pertimbangan yang dibuat adil, konsisten, sah, dan boleh dipercayai; meningkatkan komunikasi profesional dalam kalangan guru; mewujudkan pembelajaran profesional dalam kalangan guru; dan meningkatkan pengajaran dan pembelajaran (PdP).
 
 Empat tujuan ini perlu difahami dengan mendalam kerana ia menunjukkan bahawa moderasi bukan sekadar aktiviti pentadbiran — ia adalah **proses pembangunan profesional** yang memberi manfaat kepada guru dan pelajar sekaligus.
 
@@ -71,11 +71,11 @@ Apabila guru lebih jelas tentang standard yang perlu dicapai pelajar, mereka dap
 
 ## 3 Model Moderasi PBD
 
-<cite index="110-1">Terdapat tiga model moderasi yang diiktiraf dalam Buku Panduan PBD KPM.</cite>
+Terdapat tiga model moderasi yang diiktiraf dalam Buku Panduan PBD KPM.
 
 ### Model 1: Kalibrasi
 
-<cite index="110-1">Guru menaksir beberapa sampel hasil kerja murid. Kemudian berbincang untuk mencapai persetujuan dan pemahaman yang sama terhadap standard atau pertimbangan yang telah dilakukan. Tujuan kalibrasi ialah untuk mendapatkan persetujuan dan pemahaman yang sama terhadap standard atau pertimbangan yang telah dilakukan.</cite>
+Guru menaksir beberapa sampel hasil kerja murid. Kemudian berbincang untuk mencapai persetujuan dan pemahaman yang sama terhadap standard atau pertimbangan yang telah dilakukan. Tujuan kalibrasi ialah untuk mendapatkan persetujuan dan pemahaman yang sama terhadap standard atau pertimbangan yang telah dilakukan.
 
 **Cara pelaksanaan:**
 1. Setiap guru dalam panitia menaksir 2–3 sampel hasil kerja murid secara berasingan
@@ -89,7 +89,7 @@ Apabila guru lebih jelas tentang standard yang perlu dicapai pelajar, mereka dap
 
 ### Model 2: Persidangan
 
-<cite index="110-1">Dalam model persidangan, hasil kerja murid ditaksir secara sendirian oleh guru. Beberapa sampel hasil kerja murid yang mewakili pelbagai tahap penguasaan dipilih secara kolaboratif dan dibincangkan (dilakukan moderasi). Tujuan kaedah ini ialah untuk mendapatkan persetujuan dan pemahaman yang sama dalam pemberian tahap penguasaan tersebut.</cite>
+Dalam model persidangan, hasil kerja murid ditaksir secara sendirian oleh guru. Beberapa sampel hasil kerja murid yang mewakili pelbagai tahap penguasaan dipilih secara kolaboratif dan dibincangkan (dilakukan moderasi). Tujuan kaedah ini ialah untuk mendapatkan persetujuan dan pemahaman yang sama dalam pemberian tahap penguasaan tersebut.
 
 **Cara pelaksanaan:**
 1. Setiap guru menaksir keseluruhan hasil kerja murid kelas masing-masing secara individu
@@ -103,7 +103,7 @@ Apabila guru lebih jelas tentang standard yang perlu dicapai pelajar, mereka dap
 
 ### Model 3: Merujuk Pakar
 
-<cite index="110-1">Dalam model rujuk pakar, guru melakukan pentaksiran kepada murid masing-masing. Seterusnya hasil pentaksiran tersebut diserahkan kepada pakar untuk mendapatkan maklum balas sama ada guru telah menterjemah dan menggunakan standard seperti yang dihasratkan.</cite>
+Dalam model rujuk pakar, guru melakukan pentaksiran kepada murid masing-masing. Seterusnya hasil pentaksiran tersebut diserahkan kepada pakar untuk mendapatkan maklum balas sama ada guru telah menterjemah dan menggunakan standard seperti yang dihasratkan.
 
 **Cara pelaksanaan:**
 1. Guru selesaikan pentaksiran dan tentukan TP
@@ -117,7 +117,7 @@ Apabila guru lebih jelas tentang standard yang perlu dicapai pelajar, mereka dap
 
 ## Apa yang Dibincangkan Semasa Moderasi?
 
-<cite index="114-1">Moderasi melibatkan perbincangan, penyelarasan, dan persetujuan sesama rakan sejawat dalam panitia atau mata pelajaran yang sama. Perkara yang dibincangkan merangkumi: penentuan kaedah pentaksiran, pemilihan instrumen pentaksiran, kriteria pertimbangan profesional, dan penentuan Tahap Penguasaan (TP).</cite>
+Moderasi melibatkan perbincangan, penyelarasan, dan persetujuan sesama rakan sejawat dalam panitia atau mata pelajaran yang sama. Perkara yang dibincangkan merangkumi: penentuan kaedah pentaksiran, pemilihan instrumen pentaksiran, kriteria pertimbangan profesional, dan penentuan Tahap Penguasaan (TP).
 
 Empat perkara utama yang perlu diputuskan dalam sesi moderasi:
 

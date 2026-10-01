@@ -34,7 +34,7 @@ Sebelum memahami OBA secara konseptual, penting untuk mengetahui bahawa ia bukan
 
 ### 1. Akta Universiti dan Kolej Universiti 1971 (Akta 30, Pindaan 2019)
 
-<cite index="38-1">Akta Universiti dan Kolej Universiti 1971 (Akta 30) adalah merupakan akta utama yang menjadi asas penubuhan Institusi Pengajian Tinggi Awam Malaysia.</cite> Akta ini telah dipinda beberapa kali, dengan pindaan terakhir pada 2019. Dalam konteks OBA, Akta 30 memberikan kuasa kepada Senat universiti untuk menetapkan dasar penilaian pelajar, yang mesti selari dengan keperluan akreditasi MQA dan Kerangka Kelayakan Malaysia (MQF).
+Akta Universiti dan Kolej Universiti 1971 (Akta 30) adalah merupakan akta utama yang menjadi asas penubuhan Institusi Pengajian Tinggi Awam Malaysia. Akta ini telah dipinda beberapa kali, dengan pindaan terakhir pada 2019. Dalam konteks OBA, Akta 30 memberikan kuasa kepada Senat universiti untuk menetapkan dasar penilaian pelajar, yang mesti selari dengan keperluan akreditasi MQA dan Kerangka Kelayakan Malaysia (MQF).
 
 ### 2. Akta Institusi Pendidikan Tinggi Swasta 1996 (Akta 555)
 
@@ -56,11 +56,11 @@ Dengan kata lain, **OBA bukan pilihan** untuk institusi yang ingin mendapat dan 
 
 **Pentaksiran Berasaskan Hasil** (Outcome-Based Assessment, OBA) ialah pendekatan penilaian yang selari dengan prinsip Pendidikan Berasaskan Hasil (Outcome-Based Education, OBE).
 
-Mengikut Advisory Note MQA Bil. 1/2026, <cite index="3-1">Penilaian Berasaskan Hasil (Outcome-Based Assessment, OBA) merupakan pendekatan yang selari dengan prinsip OBE. Pelaksanaan penilaian adalah berasaskan konsep penjajaran konstruktif yang menuntut semua aktiviti pengajaran, pembelajaran dan penilaian direka bentuk secara sistematik bagi memastikan keselarasan serta keberkesanan dalam mengukur pencapaian hasil pembelajaran.</cite>
+Mengikut Advisory Note MQA Bil. 1/2026, Penilaian Berasaskan Hasil (Outcome-Based Assessment, OBA) merupakan pendekatan yang selari dengan prinsip OBE. Pelaksanaan penilaian adalah berasaskan konsep penjajaran konstruktif yang menuntut semua aktiviti pengajaran, pembelajaran dan penilaian direka bentuk secara sistematik bagi memastikan keselarasan serta keberkesanan dalam mengukur pencapaian hasil pembelajaran.
 
 Dalam bahasa yang lebih mudah: OBA bermakna **penilaian direka bentuk BERDASARKAN hasil pembelajaran yang ingin dicapai** bukan berdasarkan kebiasaan atau konvensyen semata-mata.
 
-Manakala OBE secara menyeluruh didefinisikan sebagai <cite index="34-1">suatu pendekatan pendidikan yang dimulakan dengan fokus yang jelas dan nyata mengenai perolehan akhiran pembelajaran yang signifikan dan kontekstual serta berkualiti tinggi dan seterusnya merancang atau menyusun segala persekitaran sistem pendidikan agar apa yang penting mampu dilakukan dengan jayanya oleh semua pelajar pada akhir pengalaman pembelajaran mereka.</cite>
+Manakala OBE secara menyeluruh didefinisikan sebagai suatu pendekatan pendidikan yang dimulakan dengan fokus yang jelas dan nyata mengenai perolehan akhiran pembelajaran yang signifikan dan kontekstual serta berkualiti tinggi dan seterusnya merancang atau menyusun segala persekitaran sistem pendidikan agar apa yang penting mampu dilakukan dengan jayanya oleh semua pelajar pada akhir pengalaman pembelajaran mereka.
 
 Definisi ini selaras dengan takrifan asal yang diperkenalkan oleh **William Spady (1994)**, tokoh yang paling berpengaruh dalam pembangunan konsep OBE. Menurut Spady (1994, hlm. 12), OBE bermaksud *"clearly focusing and organizing everything in an educational system around what is essential for all students to be able to do successfully at the end of their learning experiences."* Spady menekankan bahawa "demonstration is the key word: an outcome is not a score or a grade, but the end product of a clearly defined process that students carry out" (Spady, 1994, hlm. 18). Hal ini bermakna OBE dan dengan sendirinya OBA menuntut pelajar **menunjukkan** penguasaan mereka melalui tindakan sebenar, bukan sekadar menjawab soalan peperiksaan.
 
@@ -76,7 +76,7 @@ Sebelum memahami prinsip-prinsip teknikal OBA, penting untuk menghayati **4 prin
 
 ### Prinsip 1: Clarity of Focus (Kejelasan Fokus)
 
-<cite index="75-1">Esensi "clarity of focus" ialah pendidik mesti menetapkan gambaran yang jelas tentang pembelajaran yang ingin ditunjukkan oleh pelajar; menjadikan ini sebagai keutamaan utama dalam perancangan, pengajaran, dan pentaksiran; berkongsi hasil ini dengan pelajar; dan mengekalkan penjajaran antara hasil dengan segala usaha pengajaran.</cite>
+Esensi "clarity of focus" ialah pendidik mesti menetapkan gambaran yang jelas tentang pembelajaran yang ingin ditunjukkan oleh pelajar; menjadikan ini sebagai keutamaan utama dalam perancangan, pengajaran, dan pentaksiran; berkongsi hasil ini dengan pelajar; dan mengekalkan penjajaran antara hasil dengan segala usaha pengajaran.
 
 Dalam konteks praktikal pensyarah, ini bermakna:
 
@@ -155,31 +155,31 @@ Keempat-empat prinsip Spady membentuk **logik dalaman** yang menjelaskan mengapa
 
 ## Empat Prinsip Teras OBA (Berdasarkan Advisory Note MQA Bil. 1/2026)
 
-<cite index="3-1">Proses penilaian berasaskan hasil dapat dirumuskan berdasarkan empat prinsip penjajaran konstruktif:</cite>
+Proses penilaian berasaskan hasil dapat dirumuskan berdasarkan empat prinsip penjajaran konstruktif:
 
 Perspektif pensyarah terhadap OBA dihuraikan dengan baik oleh **Driscoll dan Wood (2007)** dalam buku *Developing Outcomes-Based Assessment for Learner-Centered Education: A Faculty Introduction*. Kedua-dua penulis ialah seorang pensyarah kimia yang awalnya skeptikal terhadap OBA, dan seorang pengarah pentaksiran yang sensitif kepada kebimbangan rakan sejawat serta menekankan bahawa tujuan OBA adalah untuk **memberdayakan pensyarah** dalam memiliki dan menentukan pentaksiran yang sesuai bagi kursus dan program mereka. Menurut Driscoll dan Wood (2007), proses OBA melibatkan artikulasi hasil pembelajaran, penentuan kriteria dan standard, serta penjajaran kandungan kursus secara konsisten dengan hasil yang dihasratkan dan bukan proses yang sentiasa kemas dan linear, tetapi proses yang dinamik dan memerlukan refleksi berterusan.
 
 ### Prinsip 1: Hasil Pembelajaran sebagai Kriteria
 
-<cite index="3-1">Penilaian dijalankan dengan merujuk kepada kriteria yang ditentukan oleh hasil pembelajaran yang telah ditetapkan terlebih dahulu.</cite>
+Penilaian dijalankan dengan merujuk kepada kriteria yang ditentukan oleh hasil pembelajaran yang telah ditetapkan terlebih dahulu.
 
 Ini adalah perbezaan asas antara OBA dan penilaian tradisional. Dalam OBA, soalan yang perlu dijawab pensyarah sebelum membina sebarang instrumen penilaian ialah: *"Apakah hasil pembelajaran yang ingin dicapai?"*, bukan *"Apakah yang mudah untuk diuji?"*
 
 ### Prinsip 2: Kriteria Prestasi
 
-<cite index="3-1">Hasil pembelajaran yang bersifat umum dipecahkan kepada pernyataan lebih spesifik yang boleh diukur bagi menjelaskan pengetahuan, kemahiran dan tingkah laku yang perlu ditunjukkan oleh pelajar sebagai penunjuk pencapaian.</cite>
+Hasil pembelajaran yang bersifat umum dipecahkan kepada pernyataan lebih spesifik yang boleh diukur bagi menjelaskan pengetahuan, kemahiran dan tingkah laku yang perlu ditunjukkan oleh pelajar sebagai penunjuk pencapaian.
 
 Contoh: Jika Hasil Pembelajaran Kursus (CLO) menyatakan "pelajar boleh menganalisis isu pendidikan kontemporari," maka kriteria prestasi perlu menyatakan dengan lebih spesifik tentang apa yang dimaksudkan dengan "menganalisis"? Pada tahap Taksonomi Bloom yang mana? Dalam konteks yang mana?
 
 ### Prinsip 3: Instrumen/Rubrik Penilaian
 
-<cite index="3-1">Kriteria prestasi yang lazimnya disusun dalam bentuk rubrik penilaian, iaitu instrumen pemarkahan berstruktur yang menerangkan tahap kualiti prestasi berbeza bagi setiap kriteria yang ditetapkan. Penggunaan instrumen/rubrik membolehkan proses pemarkahan dijalankan secara objektif, konsisten dan telus.</cite>
+Kriteria prestasi yang lazimnya disusun dalam bentuk rubrik penilaian, iaitu instrumen pemarkahan berstruktur yang menerangkan tahap kualiti prestasi berbeza bagi setiap kriteria yang ditetapkan. Penggunaan instrumen/rubrik membolehkan proses pemarkahan dijalankan secara objektif, konsisten dan telus.
 
 Rubrik adalah jantung OBA dalam pelaksanaan harian. Ia mengubah penilaian daripada pertimbangan subjektif ("ini rasa macam B+") kepada pertimbangan berasaskan bukti ("prestasi ini menepati deskriptor tahap 4 dalam kriteria analisis").
 
 ### Prinsip 4: Pengesahan Pencapaian dan Penggredan
 
-<cite index="3-1">Penggunaan instrumen/rubrik membantu penilai dapat mengesahkan tahap pencapaian pelajar, menetapkan markah dan memberikan gred selaras dengan kriteria prestasi yang telah ditentukan secara sistematik dan berintegriti.</cite>
+Penggunaan instrumen/rubrik membantu penilai dapat mengesahkan tahap pencapaian pelajar, menetapkan markah dan memberikan gred selaras dengan kriteria prestasi yang telah ditentukan secara sistematik dan berintegriti.
 
 ---
 
@@ -198,7 +198,7 @@ Ini adalah salah satu soalan yang paling kerap ditanya oleh pensyarah yang baru 
 | **Rujukan standard** | Normatif — berbanding dengan pelajar lain | Kriteria — berbanding dengan standard yang ditetapkan |
 | **Kaitan dengan CLO** | Jarang dipetakan secara eksplisit | Setiap item penilaian dipetakan kepada CLO tertentu |
 
-<cite index="4-1">Penilaian berasaskan ujian dan peperiksaan akhir tidak berkesan untuk menilai domain pembelajaran psikomotor, afektif dan sosial termasuk kemahiran insaniah. Penilaian terhadap domain pembelajaran sedemikian memerlukan kaedah yang autentik dan secara langsung.</cite>
+Penilaian berasaskan ujian dan peperiksaan akhir tidak berkesan untuk menilai domain pembelajaran psikomotor, afektif dan sosial termasuk kemahiran insaniah. Penilaian terhadap domain pembelajaran sedemikian memerlukan kaedah yang autentik dan secara langsung.
 
 ---
 
@@ -223,7 +223,7 @@ Ini adalah hubungan langsung antara falsafah pendidikan yang diisytiharkan pada 
 
 ## MQF dan 5 Kluster Hasil Pembelajaran
 
-OBA di Malaysia dilaksanakan dalam konteks **Kerangka Kelayakan Malaysia (Malaysian Qualifications Framework, MQF)**. <cite index="81-1">MQF mengekalkan lapan tahap pencapaian pembelajaran — Sijil (Tahap 1–3), Diploma dan Diploma Lanjutan (Tahap 4–5), serta Ijazah Sarjana Muda, Sarjana, dan Doktor Falsafah (Tahap 6, 7, dan 8).</cite>
+OBA di Malaysia dilaksanakan dalam konteks **Kerangka Kelayakan Malaysia (Malaysian Qualifications Framework, MQF)**. MQF mengekalkan lapan tahap pencapaian pembelajaran — Sijil (Tahap 1–3), Diploma dan Diploma Lanjutan (Tahap 4–5), serta Ijazah Sarjana Muda, Sarjana, dan Doktor Falsafah (Tahap 6, 7, dan 8).
 
 Berikut adalah 8 tahap MQF dan kelayakan yang berkaitan:
 
@@ -238,13 +238,13 @@ Berikut adalah 8 tahap MQF dan kelayakan yang berkaitan:
 | **Tahap 7** | Ijazah Sarjana | Sarjana & Diploma Pascasiswazah |
 | **Tahap 8** | Doktor Falsafah | PhD & Doktor Profesional |
 
-**Tahap 6 (Ijazah Sarjana Muda)** adalah tahap yang paling relevan kepada pensyarah IPG dan IPTA/IPTS yang mengajar program prasiswazah. <cite index="81-1">Kelayakan pada Tahap 6 ini membawa beban pembelajaran minimum 120 kredit dan menyediakan pelajar untuk pekerjaan dalam kerjaya, pekerjaan, atau bidang profesional tertentu, serta untuk mengikuti pendidikan pascasiswazah.</cite> Semua CLO dalam program Ijazah Sarjana Muda mesti menunjukkan pencapaian pada tahap kognitif, kemahiran, dan nilai yang sepadan dengan deskriptor Tahap 6 MQF.
+**Tahap 6 (Ijazah Sarjana Muda)** adalah tahap yang paling relevan kepada pensyarah IPG dan IPTA/IPTS yang mengajar program prasiswazah. Kelayakan pada Tahap 6 ini membawa beban pembelajaran minimum 120 kredit dan menyediakan pelajar untuk pekerjaan dalam kerjaya, pekerjaan, atau bidang profesional tertentu, serta untuk mengikuti pendidikan pascasiswazah. Semua CLO dalam program Ijazah Sarjana Muda mesti menunjukkan pencapaian pada tahap kognitif, kemahiran, dan nilai yang sepadan dengan deskriptor Tahap 6 MQF.
 
 MQF menetapkan bahawa semua program pengajian tinggi perlu mencapai hasil pembelajaran yang distrukturkan mengikut kelompok (kluster) tertentu. Namun penting untuk difahami bahawa **struktur ini telah mengalami semakan** antara edisi MQF pertama (2007) dan edisi kedua (2017/2024).
 
 ### MQF Edisi Pertama (2007) — 8 Domain Hasil Pembelajaran
 
-<cite index="100-1">MQF edisi pertama menekankan lapan domain hasil pembelajaran untuk graduan Malaysia:</cite>
+MQF edisi pertama menekankan lapan domain hasil pembelajaran untuk graduan Malaysia:
 
 | Domain | Nama Domain |
 |---|---|
@@ -261,19 +261,19 @@ MQF menetapkan bahawa semua program pengajian tinggi perlu mencapai hasil pembel
 
 ### MQF Edisi Kedua (2017) — Dikemas kini 2024: 5 Kluster, 11 Komponen Hasil Pembelajaran
 
-<cite index="91-1">Dalam MQF edisi kedua, lapan domain hasil pembelajaran dalam MQF edisi pertama telah dikumpulkan semula (clustered), diprofil semula dan dikekalkan.</cite> Hasilnya, 8 domain tersebut disusun ke dalam **5 kluster** yang mengandungi **11 komponen hasil pembelajaran** yang lebih terperinci:
+Dalam MQF edisi kedua, lapan domain hasil pembelajaran dalam MQF edisi pertama telah dikumpulkan semula (clustered), diprofil semula dan dikekalkan. Hasilnya, 8 domain tersebut disusun ke dalam **5 kluster** yang mengandungi **11 komponen hasil pembelajaran** yang lebih terperinci:
 
 ---
 
 #### Kluster 1: Pengetahuan dan Kefahaman (Knowledge and Understanding)
 
-<cite index="105-1">Pengetahuan dan kefahaman merujuk kepada pemahaman sistematik tentang fakta, idea, maklumat, prinsip, konsep, teori, pengetahuan teknikal, peraturan, numerasi, kemahiran praktikal, alat, proses dan sistem. Ia bermula daripada pengetahuan umum asas dan berkembang kepada pengetahuan yang lebih pelbagai, luas, khusus dan lanjutan. Pengetahuan menyediakan asas bagi aplikasi semua hasil pembelajaran yang lain.</cite>
+Pengetahuan dan kefahaman merujuk kepada pemahaman sistematik tentang fakta, idea, maklumat, prinsip, konsep, teori, pengetahuan teknikal, peraturan, numerasi, kemahiran praktikal, alat, proses dan sistem. Ia bermula daripada pengetahuan umum asas dan berkembang kepada pengetahuan yang lebih pelbagai, luas, khusus dan lanjutan. Pengetahuan menyediakan asas bagi aplikasi semua hasil pembelajaran yang lain.
 
 ---
 
 #### Kluster 2: Kemahiran Kognitif (Cognitive Skills)
 
-<cite index="105-1">Kemahiran kognitif berkaitan dengan keupayaan berfikir atau intelek dan keupayaan untuk mengaplikasikan pengetahuan dan kemahiran. Kapasiti untuk membangunkan tahap kemahiran intelek secara progresif bermula daripada kefahaman, pemikiran kritikal/kreatif, penilaian, dan mengaplikasikan, menganalisis, menyelesaikan masalah serta mensintesis untuk mencipta idea, penyelesaian, strategi atau amalan baharu.</cite>
+Kemahiran kognitif berkaitan dengan keupayaan berfikir atau intelek dan keupayaan untuk mengaplikasikan pengetahuan dan kemahiran. Kapasiti untuk membangunkan tahap kemahiran intelek secara progresif bermula daripada kefahaman, pemikiran kritikal/kreatif, penilaian, dan mengaplikasikan, menganalisis, menyelesaikan masalah serta mensintesis untuk mencipta idea, penyelesaian, strategi atau amalan baharu.
 
 ---
 
@@ -283,29 +283,29 @@ Kluster 3 adalah kluster paling luas dengan enam sub-komponen:
 
 **3a. Kemahiran Praktikal (Practical Skills)**
 
-<cite index="105-1">Kemahiran ini merangkumi kemahiran kerja dan operasional yang terpakai dalam persekitaran pekerjaan biasa seperti perancangan; kemahiran organisasi; pemilihan alat, bahan, kaedah dan prosedur teknologi. Dalam konteks pengajian, ia boleh merangkumi kemahiran belajar dan persediaan, menjalankan prosedur, kemahiran saintifik, reka bentuk, penyelidikan, dan sebagainya. Ia juga merangkumi kemahiran khusus yang ditetapkan oleh disiplin atau pekerjaan tertentu yang meningkatkan kompetensi profesional.</cite>
+Kemahiran ini merangkumi kemahiran kerja dan operasional yang terpakai dalam persekitaran pekerjaan biasa seperti perancangan; kemahiran organisasi; pemilihan alat, bahan, kaedah dan prosedur teknologi. Dalam konteks pengajian, ia boleh merangkumi kemahiran belajar dan persediaan, menjalankan prosedur, kemahiran saintifik, reka bentuk, penyelidikan, dan sebagainya. Ia juga merangkumi kemahiran khusus yang ditetapkan oleh disiplin atau pekerjaan tertentu yang meningkatkan kompetensi profesional.
 
 **3b. Kemahiran Interpersonal (Interpersonal Skills)**
 
-<cite index="105-1">Kemahiran interpersonal merujuk kepada pelbagai kemahiran yang merangkumi komunikasi interaktif; hubungan dan kemahiran kolaboratif dalam mengurus hubungan dalam pasukan dan dalam organisasi; rangkaian dengan orang dari pelbagai budaya; serta kemahiran sosial dan etiket.</cite>
+Kemahiran interpersonal merujuk kepada pelbagai kemahiran yang merangkumi komunikasi interaktif; hubungan dan kemahiran kolaboratif dalam mengurus hubungan dalam pasukan dan dalam organisasi; rangkaian dengan orang dari pelbagai budaya; serta kemahiran sosial dan etiket.
 
 **3c. Kemahiran Komunikasi (Communication Skills)**
 
-<cite index="105-1">Kemahiran komunikasi merujuk kepada keupayaan untuk berkomunikasi atau menyampaikan maklumat, idea, dan laporan secara tepat dan profesional dalam bahasa yang sesuai. Komunikasi mesti berkesan dan dalam bentuk yang sesuai, dalam pelbagai medium, kepada pelbagai audien dan situasi yang berbeza. Keupayaan berkomunikasi dalam lebih daripada satu bahasa digalakkan.</cite>
+Kemahiran komunikasi merujuk kepada keupayaan untuk berkomunikasi atau menyampaikan maklumat, idea, dan laporan secara tepat dan profesional dalam bahasa yang sesuai. Komunikasi mesti berkesan dan dalam bentuk yang sesuai, dalam pelbagai medium, kepada pelbagai audien dan situasi yang berbeza. Keupayaan berkomunikasi dalam lebih daripada satu bahasa digalakkan.
 
 **3d. Kemahiran Digital (Digital Skills)**
 
-<cite index="105-1">Kemahiran digital secara umum merujuk kepada keupayaan menggunakan teknologi maklumat atau digital untuk menyokong kerja dan pengajian. Kemahiran ini merangkumi mendapatkan dan menyimpan maklumat, memproses data, menggunakan aplikasi untuk penyelesaian masalah dan komunikasi, serta etika dalam mengaplikasikan kemahiran digital.</cite>
+Kemahiran digital secara umum merujuk kepada keupayaan menggunakan teknologi maklumat atau digital untuk menyokong kerja dan pengajian. Kemahiran ini merangkumi mendapatkan dan menyimpan maklumat, memproses data, menggunakan aplikasi untuk penyelesaian masalah dan komunikasi, serta etika dalam mengaplikasikan kemahiran digital.
 
 > **Nota:** Kemahiran Digital adalah **penambahan baharu** dalam MQF Edisi Kedua — ia tidak wujud sebagai domain berasingan dalam MQF 2007, mencerminkan keperluan semasa untuk memastikan CLO merangkumi kompetensi digital pelajar secara eksplisit.
 
 **3e. Kemahiran Numerasi (Numeracy Skills)**
 
-<cite index="105-1">Kemahiran numerasi adalah kemahiran kuantitatif yang memerlukan pelajar memperoleh tahap kemahiran numerik yang semakin tinggi. Ia diiktiraf sebagai kemahiran hidup yang penting dan relevan dalam pengajian, kerja, dan kehidupan harian. Kemahiran numerasi mungkin tidak dinyatakan secara khusus untuk setiap tahap, tetapi dijangka hadir sebagai hasil dalam setiap program tertentu.</cite>
+Kemahiran numerasi adalah kemahiran kuantitatif yang memerlukan pelajar memperoleh tahap kemahiran numerik yang semakin tinggi. Ia diiktiraf sebagai kemahiran hidup yang penting dan relevan dalam pengajian, kerja, dan kehidupan harian. Kemahiran numerasi mungkin tidak dinyatakan secara khusus untuk setiap tahap, tetapi dijangka hadir sebagai hasil dalam setiap program tertentu.
 
 **3f. Kepimpinan, Autonomi dan Tanggungjawab (Leadership, Autonomy and Responsibility)**
 
-<cite index="105-1">Kelompok kemahiran ini merujuk kepada keupayaan individu untuk membina hubungan dan bekerja dengan pasukan yang terdiri daripada rakan sebaya atau dalam kapasiti pengurusan dengan pelbagai tahap autonomi untuk membuat keputusan atau menetapkan matlamat; mengambil tanggungjawab dan memberikan akauntabiliti; bersikap yakin, berpengetahuan, berterus terang, jujur, profesional, penyayang, berdaya tahan, pengambil risiko, dan memiliki kemahiran intrapersonal lain termasuk bekerja dan memimpin pasukan.</cite>
+Kelompok kemahiran ini merujuk kepada keupayaan individu untuk membina hubungan dan bekerja dengan pasukan yang terdiri daripada rakan sebaya atau dalam kapasiti pengurusan dengan pelbagai tahap autonomi untuk membuat keputusan atau menetapkan matlamat; mengambil tanggungjawab dan memberikan akauntabiliti; bersikap yakin, berpengetahuan, berterus terang, jujur, profesional, penyayang, berdaya tahan, pengambil risiko, dan memiliki kemahiran intrapersonal lain termasuk bekerja dan memimpin pasukan.
 
 ---
 
@@ -313,17 +313,17 @@ Kluster 3 adalah kluster paling luas dengan enam sub-komponen:
 
 **4a. Kemahiran Personal — Pengurusan Diri dan Perkembangan (Personal Skills: Self-Management and Development)**
 
-<cite index="105-1">Kemahiran personal adalah kemahiran hidup yang dijangka digunakan pelajar setiap hari. Ia biasanya dicerminkan melalui semangat untuk pembelajaran kendiri, perkembangan intelek dan diri; dengan menunjukkan keyakinan, kawalan diri; kemahiran sosial dan etiket yang betul; dan komitmen kepada profesionalisme di tempat kerja. Ia juga merangkumi keupayaan untuk merancang pembangunan kerjaya atau pendidikan lanjutan. Aspek watak seperti kejujuran, ketepatan masa, pengurusan masa, serta mematuhi dan mengekalkan tarikh akhir yang penting dalam persekitaran kerja, juga merupakan kemahiran personal yang penting.</cite>
+Kemahiran personal adalah kemahiran hidup yang dijangka digunakan pelajar setiap hari. Ia biasanya dicerminkan melalui semangat untuk pembelajaran kendiri, perkembangan intelek dan diri; dengan menunjukkan keyakinan, kawalan diri; kemahiran sosial dan etiket yang betul; dan komitmen kepada profesionalisme di tempat kerja. Ia juga merangkumi keupayaan untuk merancang pembangunan kerjaya atau pendidikan lanjutan. Aspek watak seperti kejujuran, ketepatan masa, pengurusan masa, serta mematuhi dan mengekalkan tarikh akhir yang penting dalam persekitaran kerja, juga merupakan kemahiran personal yang penting.
 
 **4b. Kemahiran Keusahawanan (Entrepreneurial Skills)**
 
-<cite index="105-1">Kemahiran keusahawanan memerlukan pengetahuan, kemahiran, dan kepakaran yang relevan dalam bidang utama sesuatu perusahaan. Kualiti personal yang penting termasuk kreativiti, ketabahan, dan dorongan. Dorongan untuk menjadi usahawan adalah kemahiran personal tetapi juga memerlukan pengetahuan, kemahiran kognitif, dan fungsian yang berkaitan.</cite>
+Kemahiran keusahawanan memerlukan pengetahuan, kemahiran, dan kepakaran yang relevan dalam bidang utama sesuatu perusahaan. Kualiti personal yang penting termasuk kreativiti, ketabahan, dan dorongan. Dorongan untuk menjadi usahawan adalah kemahiran personal tetapi juga memerlukan pengetahuan, kemahiran kognitif, dan fungsian yang berkaitan.
 
 ---
 
 #### Kluster 5: Etika dan Profesionalisme (Ethics and Professionalism)
 
-<cite index="105-1">Etika dan nilai adalah penting pada peringkat personal, organisasi, kemasyarakatan/komuniti, dan global kerana ia membimbing tindakan peribadi, interaksi, di tempat kerja, dan dalam komuniti. Kesedaran, kefahaman, dan penghormatan terhadap perbezaan dan isu etika, sosial, dan budaya adalah penting dalam pelaksanaan kemahiran dan tanggungjawab profesional: integriti, tingkah laku profesional (profesionalisme), dan standard tingkah laku seperti menjunjung peraturan, undang-undang, dan kod amalan baik atau kod tingkah laku profesional.</cite>
+Etika dan nilai adalah penting pada peringkat personal, organisasi, kemasyarakatan/komuniti, dan global kerana ia membimbing tindakan peribadi, interaksi, di tempat kerja, dan dalam komuniti. Kesedaran, kefahaman, dan penghormatan terhadap perbezaan dan isu etika, sosial, dan budaya adalah penting dalam pelaksanaan kemahiran dan tanggungjawab profesional: integriti, tingkah laku profesional (profesionalisme), dan standard tingkah laku seperti menjunjung peraturan, undang-undang, dan kod amalan baik atau kod tingkah laku profesional.
 
 ---
 
@@ -344,11 +344,11 @@ Kluster 3 adalah kluster paling luas dengan enam sub-komponen:
 
 ### Penambahan Baharu MQF 2024 — Kompetensi Teras Kelestarian (ESD)
 
-<cite index="108-1">MQF 2.0 (2024) mewajibkan pengintegrasian Education for Sustainable Development (ESD) dan Values-Based Education (VBE) ke dalam kurikulum pendidikan tinggi.</cite>
+MQF 2.0 (2024) mewajibkan pengintegrasian Education for Sustainable Development (ESD) dan Values-Based Education (VBE) ke dalam kurikulum pendidikan tinggi.
 
-<cite index="132-1">UNESCO (2017) telah mengenal pasti lapan kompetensi utama yang diperlukan oleh individu bagi membolehkan kita sebagai masyarakat mencapai Matlamat Pembangunan Lestari (SDGs). UNESCO membayangkan bahawa kompetensi-kompetensi ini akan dibangunkan melalui pendidikan untuk pelajar dari semua peringkat umur, di seluruh dunia.</cite>
+UNESCO (2017) telah mengenal pasti lapan kompetensi utama yang diperlukan oleh individu bagi membolehkan kita sebagai masyarakat mencapai Matlamat Pembangunan Lestari (SDGs). UNESCO membayangkan bahawa kompetensi-kompetensi ini akan dibangunkan melalui pendidikan untuk pelajar dari semua peringkat umur, di seluruh dunia.
 
-<cite index="90-1">Kompetensi ESD boleh dianggap sebagai sub-atribut bagi Hasil Pembelajaran MQF. Ia dinilai pada peringkat kursus (CLO) dan akan menyumbang secara kolektif kepada PLO yang disokongnya.</cite>
+Kompetensi ESD boleh dianggap sebagai sub-atribut bagi Hasil Pembelajaran MQF. Ia dinilai pada peringkat kursus (CLO) dan akan menyumbang secara kolektif kepada PLO yang disokongnya.
 
 Berikut adalah **8 Kompetensi Teras Kelestarian** dengan definisi, kemahiran utama (*key abilities*), dan penjajaran kepada kluster MQF:
 
@@ -360,7 +360,7 @@ Berikut adalah **8 Kompetensi Teras Kelestarian** dengan definisi, kemahiran uta
 
 *Pandangan holistik tentang elemen yang saling berhubungan.*
 
-<cite index="132-1">Keupayaan untuk mengenal pasti dan memahami hubungan; menganalisis sistem yang kompleks; memikirkan bagaimana sistem dibenamkan dalam domain dan skala yang berbeza; serta menangani ketidakpastian.</cite>
+Keupayaan untuk mengenal pasti dan memahami hubungan; menganalisis sistem yang kompleks; memikirkan bagaimana sistem dibenamkan dalam domain dan skala yang berbeza; serta menangani ketidakpastian.
 
 **Kemahiran utama (*key abilities*):**
 - Menganalisis sistem yang kompleks merentasi domain berbeza (alam sekitar, sosial, ekonomi) dan skala berbeza (tempatan hingga global)
@@ -375,7 +375,7 @@ Berikut adalah **8 Kompetensi Teras Kelestarian** dengan definisi, kemahiran uta
 
 *Pemikiran proaktif untuk perancangan masa depan.*
 
-<cite index="132-1">Keupayaan untuk memahami dan menilai pelbagai masa depan dari sudut yang mungkin, yang berkemungkinan, dan yang diingini; mencipta visi sendiri untuk masa depan; mengaplikasikan prinsip berjaga-jaga; menilai akibat tindakan; serta menangani risiko dan perubahan.</cite>
+Keupayaan untuk memahami dan menilai pelbagai masa depan dari sudut yang mungkin, yang berkemungkinan, dan yang diingini; mencipta visi sendiri untuk masa depan; mengaplikasikan prinsip berjaga-jaga; menilai akibat tindakan; serta menangani risiko dan perubahan.
 
 **Kemahiran utama (*key abilities*):**
 - Membina dan menguji simulasi, ramalan, senario, dan visi
@@ -390,7 +390,7 @@ Berikut adalah **8 Kompetensi Teras Kelestarian** dengan definisi, kemahiran uta
 
 *Membuat keputusan berasaskan nilai dan standard etika.*
 
-<cite index="132-1">Keupayaan untuk memahami dan merefleksikan norma dan nilai yang mendasari tindakan seseorang; serta merunding nilai, prinsip, matlamat, dan sasaran kelestarian dalam konteks konflik kepentingan dan pertukaran nilai, pengetahuan yang tidak pasti, dan kontradiksi.</cite>
+Keupayaan untuk memahami dan merefleksikan norma dan nilai yang mendasari tindakan seseorang; serta merunding nilai, prinsip, matlamat, dan sasaran kelestarian dalam konteks konflik kepentingan dan pertukaran nilai, pengetahuan yang tidak pasti, dan kontradiksi.
 
 **Kemahiran utama (*key abilities*):**
 - Mengenal pasti, memetakan, menentukan, merunding, dan mengaplikasikan nilai dan prinsip kelestarian
@@ -405,7 +405,7 @@ Berikut adalah **8 Kompetensi Teras Kelestarian** dengan definisi, kemahiran uta
 
 *Menyelaraskan tindakan dengan matlamat jangka panjang.*
 
-<cite index="132-1">Keupayaan untuk secara kolektif membangunkan dan melaksanakan tindakan inovatif yang memajukan kelestarian di peringkat tempatan dan lebih jauh.</cite>
+Keupayaan untuk secara kolektif membangunkan dan melaksanakan tindakan inovatif yang memajukan kelestarian di peringkat tempatan dan lebih jauh.
 
 **Kemahiran utama (*key abilities*):**
 - Membina dan menguji strategi (pelan tindakan) yang viable untuk intervensi, peralihan, dan transformasi ke arah kelestarian
@@ -419,7 +419,7 @@ Berikut adalah **8 Kompetensi Teras Kelestarian** dengan definisi, kemahiran uta
 
 *Bekerja secara berkesan dalam pasukan yang pelbagai.*
 
-<cite index="132-1">Keupayaan untuk belajar daripada orang lain; memahami dan menghormati keperluan, perspektif, dan tindakan orang lain (empati); memahami, berkait rapat, dan peka terhadap orang lain (kepimpinan empatik); menangani konflik dalam kumpulan; serta memudahkan penyelesaian masalah secara kolaboratif dan penyertaan.</cite>
+Keupayaan untuk belajar daripada orang lain; memahami dan menghormati keperluan, perspektif, dan tindakan orang lain (empati); memahami, berkait rapat, dan peka terhadap orang lain (kepimpinan empatik); menangani konflik dalam kumpulan; serta memudahkan penyelesaian masalah secara kolaboratif dan penyertaan.
 
 **Kemahiran utama (*key abilities*):**
 - Bekerjasama dengan jayanya dalam pasukan antara disiplin dan antara profesion
@@ -434,7 +434,7 @@ Berikut adalah **8 Kompetensi Teras Kelestarian** dengan definisi, kemahiran uta
 
 *Menganalisis maklumat untuk membuat keputusan bermaklumat.*
 
-<cite index="132-1">Keupayaan untuk mempersoalkan norma, amalan, dan pendapat; merefleksikan nilai, persepsi, dan tindakan diri sendiri; serta mengambil pendirian dalam wacana kelestarian. Ini menggalakkan pelajar berfikir secara kritikal tentang isu kelestarian dan peranan mereka sendiri dalam menanganinya.</cite>
+Keupayaan untuk mempersoalkan norma, amalan, dan pendapat; merefleksikan nilai, persepsi, dan tindakan diri sendiri; serta mengambil pendirian dalam wacana kelestarian. Ini menggalakkan pelajar berfikir secara kritikal tentang isu kelestarian dan peranan mereka sendiri dalam menanganinya.
 
 **Kemahiran utama (*key abilities*):**
 - Mempersoalkan andaian dan norma yang mendasari amalan semasa
@@ -449,7 +449,7 @@ Berikut adalah **8 Kompetensi Teras Kelestarian** dengan definisi, kemahiran uta
 
 *Memahami kekuatan dan kelemahan peribadi.*
 
-<cite index="132-1">Keupayaan untuk merefleksikan peranan diri dalam komuniti tempatan dan masyarakat (global); menilai dan memotivasi tindakan diri secara berterusan; serta menangani perasaan dan keinginan diri sendiri.</cite>
+Keupayaan untuk merefleksikan peranan diri dalam komuniti tempatan dan masyarakat (global); menilai dan memotivasi tindakan diri secara berterusan; serta menangani perasaan dan keinginan diri sendiri.
 
 **Kemahiran utama (*key abilities*):**
 - Mengelakkan cabaran kesihatan peribadi dan keletihan (*burnout*) dalam memajukan transformasi kelestarian
@@ -464,7 +464,7 @@ Berikut adalah **8 Kompetensi Teras Kelestarian** dengan definisi, kemahiran uta
 
 *Menggabungkan pelbagai disiplin untuk penyelesaian komprehensif.*
 
-<cite index="132-1">Keupayaan menyeluruh untuk mengaplikasikan pelbagai rangka kerja penyelesaian masalah kepada masalah kelestarian yang kompleks dan membangunkan pilihan penyelesaian yang viable, inklusif, dan saksama yang menggalakkan pembangunan lestari, dengan mengintegrasikan semua kompetensi yang disebutkan di atas.</cite>
+Keupayaan menyeluruh untuk mengaplikasikan pelbagai rangka kerja penyelesaian masalah kepada masalah kelestarian yang kompleks dan membangunkan pilihan penyelesaian yang viable, inklusif, dan saksama yang menggalakkan pembangunan lestari, dengan mengintegrasikan semua kompetensi yang disebutkan di atas.
 
 **Kemahiran utama (*key abilities*):**
 - Mengaplikasikan prosedur penyelesaian masalah kolektif kepada masalah kelestarian yang kompleks
@@ -475,7 +475,7 @@ Berikut adalah **8 Kompetensi Teras Kelestarian** dengan definisi, kemahiran uta
 
 #### Domain Pembelajaran ESD — Kepala, Hati, dan Tangan
 
-<cite index="132-1">Kompetensi UNESCO digunakan secara meluas apabila mereka bentuk kurikulum untuk pendidikan tinggi. Objektif-objektif ini menangani satu atau lebih domain pembelajaran kognitif, sosio-emosional, dan tingkah laku.</cite>
+Kompetensi UNESCO digunakan secara meluas apabila mereka bentuk kurikulum untuk pendidikan tinggi. Objektif-objektif ini menangani satu atau lebih domain pembelajaran kognitif, sosio-emosional, dan tingkah laku.
 
 Kerangka "Kepala, Hati, dan Tangan" (*Head, Heart, and Hands*) menggambarkan tiga domain yang perlu diintegrasikan dalam pengajaran dan pentaksiran ESD:
 
@@ -487,7 +487,7 @@ Kerangka "Kepala, Hati, dan Tangan" (*Head, Heart, and Hands*) menggambarkan tig
 
 #### Tahap Kemahiran ESD dalam OBA
 
-<cite index="132-1">Terdapat empat tahap kemahiran yang boleh digunakan untuk menentukan tahap penguasaan kompetensi ESD berdasarkan Taksonomi Bloom:</cite>
+Terdapat empat tahap kemahiran yang boleh digunakan untuk menentukan tahap penguasaan kompetensi ESD berdasarkan Taksonomi Bloom:
 
 | Tahap | Asas Taksonomi Bloom | Huraian |
 |---|---|---|
@@ -521,7 +521,7 @@ Selain ESD, MQF 2024 turut menguatkan **Pendidikan Berteraskan Nilai** atau *Val
 
 #### Definisi VBE vs VE — Perbezaan Asas
 
-<cite index="19-1">VBE adalah pendekatan pendidikan yang menumpukan kepada penanaman nilai moral dan etika serta pemupukan watak, sikap dan tingkah laku. Ia dipandu oleh nilai-nilai kemanusiaan, kemasyarakatan dan komuniti melalui pengintegrasian nilai teras ke dalam pengajaran, pembelajaran dan budaya institusi supaya nilai-nilai tersebut benar-benar dihayati.</cite>
+VBE adalah pendekatan pendidikan yang menumpukan kepada penanaman nilai moral dan etika serta pemupukan watak, sikap dan tingkah laku. Ia dipandu oleh nilai-nilai kemanusiaan, kemasyarakatan dan komuniti melalui pengintegrasian nilai teras ke dalam pengajaran, pembelajaran dan budaya institusi supaya nilai-nilai tersebut benar-benar dihayati.
 
 Perbezaan kritikal antara VE dan VBE yang perlu difahami pensyarah:
 
@@ -533,19 +533,19 @@ Perbezaan kritikal antara VE dan VBE yang perlu difahami pensyarah:
 | **Matlamat** | Memahami konsep moral dan membuat keputusan etika | Membentuk watak dan menghayati nilai dalam tingkah laku harian |
 | **Pentaksiran** | Berasaskan pengetahuan | Refleksi berterusan, pemerhatian tingkah laku, maklum balas komuniti |
 
-<cite index="19-1">VBE bukan sekadar kefahaman teoritikal; ia tentang mewujudkan persekitaran di mana nilai-nilai itu dihayati, dialami, dicontohi dan diinternalisasikan melalui setiap aspek perjalanan pendidikan.</cite>
+VBE bukan sekadar kefahaman teoritikal; ia tentang mewujudkan persekitaran di mana nilai-nilai itu dihayati, dialami, dicontohi dan diinternalisasikan melalui setiap aspek perjalanan pendidikan.
 
 ---
 
 #### 6 Nilai Teras MQF yang Dicadangkan (MQF Proposed Core Values)
 
-<cite index="19-1">Nilai-nilai teras ini dibangunkan berdasarkan Kebajikan Cardinal dan perbincangan kumpulan fokus, dengan tujuan membimbing perkembangan holistik individu, mempromosikan tingkah laku etika, tanggungjawab sivik dan integriti peribadi.</cite>
+Nilai-nilai teras ini dibangunkan berdasarkan Kebajikan Cardinal dan perbincangan kumpulan fokus, dengan tujuan membimbing perkembangan holistik individu, mempromosikan tingkah laku etika, tanggungjawab sivik dan integriti peribadi.
 
 Berikut adalah **definisi rasmi** setiap nilai teras mengikut GVBE 2026:
 
 **1. Maruah (Dignity)**
 
-<cite index="19-1">Maruah sebagai nilai teras mengiktiraf nilai intrinsik, kehormatan dan penghormatan yang diberikan kepada setiap individu semata-mata kerana kemanusiaan mereka. Ia menjadi asas untuk melanjutkan belas kasih, keadilan dan keperimanusiaan kepada diri sendiri dan orang lain, tanpa mengira status, latar belakang atau keadaan.</cite>
+Maruah sebagai nilai teras mengiktiraf nilai intrinsik, kehormatan dan penghormatan yang diberikan kepada setiap individu semata-mata kerana kemanusiaan mereka. Ia menjadi asas untuk melanjutkan belas kasih, keadilan dan keperimanusiaan kepada diri sendiri dan orang lain, tanpa mengira status, latar belakang atau keadaan.
 
 *Sub-nilai:* Empati, Kesetiaan, Belas Kasih, Kewarganegaraan Demokratik, Pengurusan Hubungan, Bukan Keganasan, Kemaafan, Timbal Balik, Kesedaran Transpersonal
 
@@ -555,7 +555,7 @@ Berikut adalah **definisi rasmi** setiap nilai teras mengikut GVBE 2026:
 
 **2. Keadilan (Justice)**
 
-<cite index="19-1">Keadilan sebagai nilai teras merujuk kepada prinsip keadilan, ekuiti dan kebenaran moral dalam layanan terhadap individu dan pengagihan sumber, peluang dan tanggungjawab dalam masyarakat. Ia melibatkan pemberian hak kepada setiap individu, melindungi hak dan membetulkan ketidakadilan dengan cara yang tidak berat sebelah dan telus.</cite>
+Keadilan sebagai nilai teras merujuk kepada prinsip keadilan, ekuiti dan kebenaran moral dalam layanan terhadap individu dan pengagihan sumber, peluang dan tanggungjawab dalam masyarakat. Ia melibatkan pemberian hak kepada setiap individu, melindungi hak dan membetulkan ketidakadilan dengan cara yang tidak berat sebelah dan telus.
 
 *Sub-nilai:* Kesetiaan, Kesaksamaan, Amanah, Inklusiviti, Keharmonian, Kerjasama, Wacana Sivik, Keadilan, Solidariti, Pemerkasaan
 
@@ -565,7 +565,7 @@ Berikut adalah **definisi rasmi** setiap nilai teras mengikut GVBE 2026:
 
 **3. Integriti (Integrity)**
 
-<cite index="19-1">Integriti sebagai nilai teras merujuk kepada kualiti kejujuran, teguh secara moral dan konsisten dalam prinsip, tingkah laku dan kata-kata seseorang — walaupun tiada yang memerhatikan. Ia melibatkan pematuhan norma etika, bertindak dengan betul atas sebab yang boleh dibenarkan, dan mengekalkan kebolehpercayaan dan kebolehpercayaan dalam mana-mana situasi.</cite>
+Integriti sebagai nilai teras merujuk kepada kualiti kejujuran, teguh secara moral dan konsisten dalam prinsip, tingkah laku dan kata-kata seseorang — walaupun tiada yang memerhatikan. Ia melibatkan pematuhan norma etika, bertindak dengan betul atas sebab yang boleh dibenarkan, dan mengekalkan kebolehpercayaan dan kebolehpercayaan dalam mana-mana situasi.
 
 *Sub-nilai:* Kejujuran, Tanggungjawab Sosial/Bersama, Kewarganegaraan yang Bertanggungjawab, Akauntabiliti, Kepimpinan, Kerja Berpasukan, Etiket, Kejujuran Intelektual, Ketelusan, Penaakulan Etika, Keterbukaan Perspektif
 
@@ -575,7 +575,7 @@ Berikut adalah **definisi rasmi** setiap nilai teras mengikut GVBE 2026:
 
 **4. Kesyukuran (Gratitude)**
 
-<cite index="19-1">Kesyukuran sebagai nilai teras merujuk kepada penghargaan dan pengiktirafan mendalam atas belas kasih, sokongan dan nikmat yang diterima daripada orang lain dan kehidupan. Ia adalah satu sikap dan moral yang mengiktiraf aspek positif kehidupan serta mempromosikan kerendahan hati, kemurahan hati dan keredaan.</cite>
+Kesyukuran sebagai nilai teras merujuk kepada penghargaan dan pengiktirafan mendalam atas belas kasih, sokongan dan nikmat yang diterima daripada orang lain dan kehidupan. Ia adalah satu sikap dan moral yang mengiktiraf aspek positif kehidupan serta mempromosikan kerendahan hati, kemurahan hati dan keredaan.
 
 *Sub-nilai:* Rasa Hormat, Kesedarantenang (Mindfulness), Kecerdasan Emosi, Kemampanan, Keperimanusiaan, Kepelbagaian, Kesedaran Multikultural, Kepaduan Sosial, Kesabaran, Kesopanan, Keharmonian, Kepekaan Etika
 
@@ -585,7 +585,7 @@ Berikut adalah **definisi rasmi** setiap nilai teras mengikut GVBE 2026:
 
 **5. Keberanian (Courage)**
 
-<cite index="19-1">Keberanian sebagai nilai teras merujuk kepada kekuatan dalaman dan sikap positif yang membolehkan individu atau komuniti mengatasi cabaran dan menyesuaikan diri dengan perubahan sambil terus berkembang dan menegakkan prinsip mereka. Keupayaan ini melibatkan kekal kuat, positif dan produktif ketika menghadapi kesukaran, ketidakpastian atau kegagalan.</cite>
+Keberanian sebagai nilai teras merujuk kepada kekuatan dalaman dan sikap positif yang membolehkan individu atau komuniti mengatasi cabaran dan menyesuaikan diri dengan perubahan sambil terus berkembang dan menegakkan prinsip mereka. Keupayaan ini melibatkan kekal kuat, positif dan produktif ketika menghadapi kesukaran, ketidakpastian atau kegagalan.
 
 *Sub-nilai:* Daya Tahan, Disiplin, Berdikari, Motivasi Intrinsik
 
@@ -595,7 +595,7 @@ Berikut adalah **definisi rasmi** setiap nilai teras mengikut GVBE 2026:
 
 **6. Altruisme (Altruism)**
 
-<cite index="19-1">Altruisme sebagai nilai teras merujuk kepada keprihatinan tanpa mementingkan diri terhadap kesejahteraan orang lain, di mana individu bertindak atas dasar keprihatinan, belas kasih dan kemurahan hati yang tulen, tanpa menjangkakan keuntungan atau ganjaran peribadi. Ia menjelmakan semangat membantu, berkhidmat dan berkorban untuk orang lain, yang sering didorong oleh empati, kasih sayang atau keyakinan moral.</cite>
+Altruisme sebagai nilai teras merujuk kepada keprihatinan tanpa mementingkan diri terhadap kesejahteraan orang lain, di mana individu bertindak atas dasar keprihatinan, belas kasih dan kemurahan hati yang tulen, tanpa menjangkakan keuntungan atau ganjaran peribadi. Ia menjelmakan semangat membantu, berkhidmat dan berkorban untuk orang lain, yang sering didorong oleh empati, kasih sayang atau keyakinan moral.
 
 *Sub-nilai:* Kuotien Rohani, Kemurahan Hati, Kepedulian, Kerendahan Hati, Semangat Komuniti, Rasionaliti, Pencarian Kebenaran, Kesedaran Diri dan Sosial, Menyuruh Kebaikan
 
@@ -618,7 +618,7 @@ Berikut adalah **definisi rasmi** setiap nilai teras mengikut GVBE 2026:
 
 #### Kedalaman Pelaksanaan VBE dalam Kurikulum
 
-<cite index="19-1">GVBE 2026 membezakan tiga tahap kedalaman pelaksanaan VBE:</cite>
+GVBE 2026 membezakan tiga tahap kedalaman pelaksanaan VBE:
 
 | Tahap | Definisi | Kedalaman | Contoh |
 |---|---|---|---|
@@ -632,7 +632,7 @@ HEPs yang baru mula disarankan bermula dengan **Infuse**, kemudian berkembang ke
 
 #### Penjajaran VBE dengan Kemahiran Insaniah IPG
 
-Bagi pensyarah IPG khususnya: <cite index="115-1">IPGM menerapkan VBE melalui sub-atribut Kemahiran Insaniah. Ini menunjukkan kurikulum IPG telah memenuhi keperluan VBE seperti yang ditekankan dalam MQA sejak Jun 2022. Sehubungan dengan itu, tiada keperluan penjajaran VBE yang baharu kepada kurikulum IPG KPM.</cite>
+Bagi pensyarah IPG khususnya: IPGM menerapkan VBE melalui sub-atribut Kemahiran Insaniah. Ini menunjukkan kurikulum IPG telah memenuhi keperluan VBE seperti yang ditekankan dalam MQA sejak Jun 2022. Sehubungan dengan itu, tiada keperluan penjajaran VBE yang baharu kepada kurikulum IPG KPM.
 
 | Nilai Teras VBE | Komponen Kemahiran Insaniah IPG |
 |---|---|
@@ -669,7 +669,7 @@ Dalam konteks OBA, VBE bermakna instrumen penilaian perlu direka bentuk untuk tu
 
 Bagi pensyarah IPG yang mengajar program PISMP atau program lain di bawah MQF, penting untuk memastikan PLO program dan CLO kursus **merujuk kepada 11 komponen MQF 2017/2024** bukan lagi 8 domain edisi pertama 2007 yang sudah digantikan.
 
-<cite index="8-1">MQF melaksanakan pendekatan OBE dengan menetapkan lapan tahap kelayakan (Tahap 1 hingga 8) dan menghuraikan hasil pembelajaran yang diharapkan bagi setiap tahap. Hasil pembelajaran ini distrukturkan kepada lima kluster utama.</cite>
+MQF melaksanakan pendekatan OBE dengan menetapkan lapan tahap kelayakan (Tahap 1 hingga 8) dan menghuraikan hasil pembelajaran yang diharapkan bagi setiap tahap. Hasil pembelajaran ini distrukturkan kepada lima kluster utama.
 
 Implikasi langsung kepada pensyarah: setiap kursus yang diajar perlu mempunyai Hasil Pembelajaran Kursus (CLO) yang **dipetakan kepada sekurang-kurangnya satu kluster** daripada lima kluster MQF ini. Dan setiap CLO perlu dinilai melalui instrumen penilaian yang sesuai — inilah OBA dalam tindakan.
 
@@ -677,7 +677,7 @@ Implikasi langsung kepada pensyarah: setiap kursus yang diajar perlu mempunyai H
 
 ## OBA dalam Konteks COPPA dan Akreditasi MQA
 
-<cite index="8-1">Dokumen utama MQA seperti Kod Amalan Akreditasi Program (COPPA) mewajibkan semua program direka bentuk dan disampaikan selari dengan OBE dan MQF.</cite>
+Dokumen utama MQA seperti Kod Amalan Akreditasi Program (COPPA) mewajibkan semua program direka bentuk dan disampaikan selari dengan OBE dan MQF.
 
 Ini bermakna semasa proses akreditasi MQA, panel penilai akan menyemak:
 
@@ -702,7 +702,7 @@ Ya, secara efektifnya. Melalui Akta MQA 2007 (Akta 679) dan keperluan COPPA, sem
 
 ### Mengapa ramai pensyarah masih tidak melaksanakan OBA sepenuhnya?
 
-<cite index="6-1">Banyak kajian menunjukkan tenaga pengajar di IPT Malaysia masih tidak memahami cara melaksanakan pentaksiran berasaskan hasil pembelajaran. MQA juga pernah melaporkan bahawa Proses Penambahbaikan Kualiti Berterusan (CQI) masih belum dilaksanakan sepenuhnya dan tenaga pengajar memerlukan lebih bimbingan dalam melaksanakan pentaksiran kerana tiada mekanisme yang sesuai untuk menyokong pentaksiran dan penilaian CQI.</cite>
+Banyak kajian menunjukkan tenaga pengajar di IPT Malaysia masih tidak memahami cara melaksanakan pentaksiran berasaskan hasil pembelajaran. MQA juga pernah melaporkan bahawa Proses Penambahbaikan Kualiti Berterusan (CQI) masih belum dilaksanakan sepenuhnya dan tenaga pengajar memerlukan lebih bimbingan dalam melaksanakan pentaksiran kerana tiada mekanisme yang sesuai untuk menyokong pentaksiran dan penilaian CQI.
 
 Cabaran utama termasuk: kekurangan latihan praktikal, beban kerja pensyarah yang tinggi, dan sistem sokongan institusi yang masih lemah.
 

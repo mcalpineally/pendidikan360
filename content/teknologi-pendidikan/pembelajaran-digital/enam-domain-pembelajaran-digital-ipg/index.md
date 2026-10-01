@@ -23,7 +23,7 @@ Artikel ini menyenaraikan kesemua enam domain, menghuraikan tiga skop bidang set
 
 ## Apakah 6 Domain Pembelajaran Digital IPG KPM?
 
-<cite index="132-1">Enam domain pembelajaran digital IPG KPM ialah: Domain 1 — Infrastruktur & Infostruktur; Domain 2 — Governans; Domain 3 — Pedagogi Dalam Talian; Domain 4 — Kandungan Digital; Domain 5 — Perkembangan Profesional; Domain 6 — Pembudayaan.</cite>
+Enam domain pembelajaran digital IPG KPM ialah: Domain 1 — Infrastruktur & Infostruktur; Domain 2 — Governans; Domain 3 — Pedagogi Dalam Talian; Domain 4 — Kandungan Digital; Domain 5 — Perkembangan Profesional; Domain 6 — Pembudayaan.
 
 Keenam-enam domain ini membentuk **kerangka holistik** yang memastikan pembelajaran digital dilaksanakan secara menyeluruh — bukan hanya dari aspek teknologi, tetapi juga dari aspek pengurusan, pedagogi, kandungan, pembangunan sumber manusia, dan pembudayaan.
 
@@ -33,7 +33,7 @@ Keenam-enam domain ini membentuk **kerangka holistik** yang memastikan pembelaja
 
 ### Tiga Skop Bidang
 
-<cite index="139-1">Tiga skop bidang Domain Infrastruktur & Infostruktur ialah: Internet dan WiFi, Pelantar Pembelajaran Digital, serta Alat dan Sumber Teknologi Digital.</cite>
+Tiga skop bidang Domain Infrastruktur & Infostruktur ialah: Internet dan WiFi, Pelantar Pembelajaran Digital, serta Alat dan Sumber Teknologi Digital.
 
 **Internet dan WiFi** — Memastikan capaian internet yang stabil dan mencukupi di seluruh kampus IPG sebagai prasyarat asas untuk pembelajaran digital.
 
@@ -43,7 +43,7 @@ Keenam-enam domain ini membentuk **kerangka holistik** yang memastikan pembelaja
 
 ### Kepentingan Domain Infrastruktur
 
-<cite index="139-1">Domain Infrastruktur memastikan infrastruktur teknologi yang mencukupi seperti WiFi, internet, dan platform pembelajaran digital sentiasa tersedia bagi membantu penggunaan teknologi dalam bidang pembelajaran.</cite>
+Domain Infrastruktur memastikan infrastruktur teknologi yang mencukupi seperti WiFi, internet, dan platform pembelajaran digital sentiasa tersedia bagi membantu penggunaan teknologi dalam bidang pembelajaran.
 
 Tanpa infrastruktur yang kukuh, semua inisiatif pembelajaran digital lain tidak dapat dilaksanakan. Domain ini adalah **asas fizikal** kepada keseluruhan ekosistem pembelajaran digital IPG.
 
@@ -53,7 +53,7 @@ Tanpa infrastruktur yang kukuh, semua inisiatif pembelajaran digital lain tidak 
 
 ### Tiga Skop Bidang
 
-<cite index="139-1">Tiga skop bidang Domain Governans ialah: Polisi dan Pelan Tindakan, Kepimpinan dan Jabatan/Unit Pembelajaran Digital, serta Sumber Manusia dan Peruntukan Kewangan.</cite>
+Tiga skop bidang Domain Governans ialah: Polisi dan Pelan Tindakan, Kepimpinan dan Jabatan/Unit Pembelajaran Digital, serta Sumber Manusia dan Peruntukan Kewangan.
 
 **Polisi dan Pelan Tindakan** — Garis panduan, dasar rasmi, dan pelan pelaksanaan yang mengawal cara pembelajaran digital diuruskan di IPG.
 
@@ -63,7 +63,7 @@ Tanpa infrastruktur yang kukuh, semua inisiatif pembelajaran digital lain tidak 
 
 ### Kepentingan Domain Governans
 
-<cite index="139-1">Domain Governans mewujudkan perancangan yang teratur dan efektif dari aspek kepimpinan dan kewangan bagi menyokong pelaksanaan pembelajaran digital.</cite>
+Domain Governans mewujudkan perancangan yang teratur dan efektif dari aspek kepimpinan dan kewangan bagi menyokong pelaksanaan pembelajaran digital.
 
 Governans yang kukuh memastikan pembelajaran digital dilaksanakan **secara terancang, bukan secara ad-hoc** — dengan hala tuju yang jelas, sumber yang mencukupi, dan kepimpinan yang berkesan.
 
@@ -73,7 +73,7 @@ Governans yang kukuh memastikan pembelajaran digital dilaksanakan **secara teran
 
 ### Tiga Skop Bidang
 
-<cite index="139-1">Tiga skop bidang Domain Pedagogi Dalam Talian ialah: Pembelajaran Teradun (Blended Learning), Kursus Terbuka, dan Pentaksiran Digital.</cite>
+Tiga skop bidang Domain Pedagogi Dalam Talian ialah: Pembelajaran Teradun (Blended Learning), Kursus Terbuka, dan Pentaksiran Digital.
 
 **Pembelajaran Teradun** — Penggabungan pembelajaran bersemuka dengan pembelajaran dalam talian secara strategik untuk mengoptimumkan pengalaman pembelajaran.
 
@@ -83,7 +83,7 @@ Governans yang kukuh memastikan pembelajaran digital dilaksanakan **secara teran
 
 ### Kepentingan Domain Pedagogi Dalam Talian
 
-<cite index="139-1">Domain Pedagogi Dalam Talian mengaplikasikan penggunaan kaedah pembelajaran yang selaras dengan perkembangan teknologi seperti pembelajaran teradun, kursus terbuka, dan penilaian digital bagi memastikan kualiti pembelajaran dapat meningkat dengan pesat.</cite>
+Domain Pedagogi Dalam Talian mengaplikasikan penggunaan kaedah pembelajaran yang selaras dengan perkembangan teknologi seperti pembelajaran teradun, kursus terbuka, dan penilaian digital bagi memastikan kualiti pembelajaran dapat meningkat dengan pesat.
 
 Domain ini memastikan bahawa teknologi digunakan **secara pedagogi yang berkesan** — bukan sekadar menggantikan buku teks dengan fail PDF, tetapi benar-benar mengubah cara pembelajaran berlaku.
 
@@ -93,7 +93,7 @@ Domain ini memastikan bahawa teknologi digunakan **secara pedagogi yang berkesan
 
 ### Tiga Skop Bidang
 
-<cite index="139-1">Tiga skop bidang Domain Kandungan Digital ialah: Kandungan Digital Asli, Kandungan Digital Terbuka, dan Piawaian Kandungan Digital.</cite>
+Tiga skop bidang Domain Kandungan Digital ialah: Kandungan Digital Asli, Kandungan Digital Terbuka, dan Piawaian Kandungan Digital.
 
 **Kandungan Digital Asli** — Bahan pembelajaran digital yang dihasilkan sendiri oleh pensyarah IPG — video pengajaran, modul interaktif, OPD (Objek Pembelajaran Digital) — yang disesuaikan dengan kurikulum dan keperluan pelajar tempatan.
 
@@ -103,7 +103,7 @@ Domain ini memastikan bahawa teknologi digunakan **secara pedagogi yang berkesan
 
 ### Kepentingan Domain Kandungan Digital
 
-<cite index="139-1">Domain Kandungan Digital memastikan kandungan digital yang diperoleh adalah asli dan relevan selaras perkembangan zaman bagi menyokong pembelajaran secara digital.</cite>
+Domain Kandungan Digital memastikan kandungan digital yang diperoleh adalah asli dan relevan selaras perkembangan zaman bagi menyokong pembelajaran secara digital.
 
 Tanpa kandungan yang berkualiti, platform dan infrastruktur terbaik sekalipun tidak bermakna. Domain ini memastikan **apa yang dipelajari** adalah setara hebatnya dengan **bagaimana ia dipelajari**.
 
@@ -113,7 +113,7 @@ Tanpa kandungan yang berkualiti, platform dan infrastruktur terbaik sekalipun ti
 
 ### Tiga Skop Bidang
 
-<cite index="139-1">Tiga skop bidang Domain Perkembangan Profesional ialah: Pengetahuan, Kemahiran, dan Amalan.</cite>
+Tiga skop bidang Domain Perkembangan Profesional ialah: Pengetahuan, Kemahiran, dan Amalan.
 
 **Pengetahuan** — Pensyarah dan kakitangan IPG perlu mempunyai pengetahuan yang mencukupi tentang teknologi pendidikan, pedagogi digital, dan alat-alat pembelajaran digital terkini.
 
@@ -123,7 +123,7 @@ Tanpa kandungan yang berkualiti, platform dan infrastruktur terbaik sekalipun ti
 
 ### Kepentingan Domain Perkembangan Profesional
 
-<cite index="139-1">Domain Perkembangan Profesional memberikan peluang untuk membangun kemahiran dan pengetahuan bagi para pendidik dalam menggunakan teknologi untuk meningkatkan kualiti pengajaran.</cite>
+Domain Perkembangan Profesional memberikan peluang untuk membangun kemahiran dan pengetahuan bagi para pendidik dalam menggunakan teknologi untuk meningkatkan kualiti pengajaran.
 
 Ini adalah domain yang paling rapat dengan kerja harian pensyarah IPG. Tanpa perkembangan profesional yang berterusan, pensyarah tidak dapat memaksimumkan manfaat daripada infrastruktur, kandungan, dan platform yang disediakan.
 
@@ -133,7 +133,7 @@ Ini adalah domain yang paling rapat dengan kerja harian pensyarah IPG. Tanpa per
 
 ### Tiga Skop Bidang
 
-<cite index="139-1">Tiga skop bidang Domain Pembudayaan ialah: Pembudayaan, Pengiktirafan, dan Penyetaraan (serta Penerbitan).</cite>
+Tiga skop bidang Domain Pembudayaan ialah: Pembudayaan, Pengiktirafan, dan Penyetaraan (serta Penerbitan).
 
 **Pembudayaan** — Menjadikan penggunaan teknologi dalam pengajaran dan pembelajaran sebagai norma dan amalan harian — bukan sesuatu yang dilakukan hanya apabila dipantau.
 
@@ -143,7 +143,7 @@ Ini adalah domain yang paling rapat dengan kerja harian pensyarah IPG. Tanpa per
 
 ### Kepentingan Domain Pembudayaan
 
-<cite index="139-1">Domain Pembudayaan memupuk semangat dalam bidang pembudayaan yang menjuruskan kepada penggunaan teknologi dalam pengajaran dan pembelajaran, memastikan sifat sama rata dalam pengiktirafan, dalam pencapaian, atau sumber pendidikan berasaskan digital.</cite>
+Domain Pembudayaan memupuk semangat dalam bidang pembudayaan yang menjuruskan kepada penggunaan teknologi dalam pengajaran dan pembelajaran, memastikan sifat sama rata dalam pengiktirafan, dalam pencapaian, atau sumber pendidikan berasaskan digital.
 
 Pembudayaan adalah domain yang **mengukuhkan semua domain lain** — ia memastikan perubahan yang dibawa oleh pembelajaran digital bukan sekadar sementara, tetapi menjadi sebahagian daripada identiti dan budaya institusi.
 
@@ -178,7 +178,7 @@ Ini menunjukkan bahawa 6 Domain Pembelajaran Digital IPG dan KPPB bukan dua inis
 
 ### Apakah 6 domain pembelajaran digital IPG KPM?
 
-<cite index="132-1">Enam domain pembelajaran digital IPG KPM ialah Domain 1 — Infrastruktur & Infostruktur, Domain 2 — Governans, Domain 3 — Pedagogi Dalam Talian, Domain 4 — Kandungan Digital, Domain 5 — Perkembangan Profesional, dan Domain 6 — Pembudayaan.</cite>
+Enam domain pembelajaran digital IPG KPM ialah Domain 1 — Infrastruktur & Infostruktur, Domain 2 — Governans, Domain 3 — Pedagogi Dalam Talian, Domain 4 — Kandungan Digital, Domain 5 — Perkembangan Profesional, dan Domain 6 — Pembudayaan.
 
 ### Apakah kursus IPG yang mempelajari 6 domain ini?
 

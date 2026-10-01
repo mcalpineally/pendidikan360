@@ -25,9 +25,9 @@ Artikel ini menjelaskan definisi EdTech dengan tepat, membezakannya daripada ist
 
 **EdTech** adalah singkatan bagi **Educational Technology** — atau dalam Bahasa Malaysia, **Teknologi Pendidikan**.
 
-<cite index="108-1">Educational Technology (EdTech) adalah pemanfaatan teknologi maklumat dan komunikasi untuk mendukung serta meningkatkan proses pembelajaran. EdTech tidak hanya sebatas penggunaan komputer di dalam kelas, tetapi mencakup pelbagai inovasi seperti platform e-learning, aplikasi pembelajaran, dan banyak lagi.</cite>
+Educational Technology (EdTech) adalah pemanfaatan teknologi maklumat dan komunikasi untuk mendukung serta meningkatkan proses pembelajaran. EdTech tidak hanya sebatas penggunaan komputer di dalam kelas, tetapi mencakup pelbagai inovasi seperti platform e-learning, aplikasi pembelajaran, dan banyak lagi.
 
-Definisi yang lebih komprehensif: <cite index="106-1">Teknologi pendidikan, atau yang sering disebut sebagai EdTech, merangkumi pelbagai alat dan sumber digital yang direka untuk meningkatkan pengalaman belajar. Ini termasuk perisian pembelajaran, platform dalam talian, aplikasi mudah alih, dan banyak lagi.</cite>
+Definisi yang lebih komprehensif: Teknologi pendidikan, atau yang sering disebut sebagai EdTech, merangkumi pelbagai alat dan sumber digital yang direka untuk meningkatkan pengalaman belajar. Ini termasuk perisian pembelajaran, platform dalam talian, aplikasi mudah alih, dan banyak lagi.
 
 Ringkasnya, EdTech adalah **gabungan teknologi + pendidikan** — di mana teknologi digunakan sebagai alat untuk menjadikan pengajaran dan pembelajaran lebih berkesan, menarik, dan mudah diakses.
 
@@ -99,7 +99,7 @@ Pasaran EdTech Malaysia menunjukkan pertumbuhan yang signifikan dan konsisten. B
 
 ### DELIMa — Tulang Belakang EdTech Sekolah Malaysia
 
-<cite index="103-1">DELIMa berfungsi sebagai hab digital utama yang menyatukan alat pengurusan pembelajaran (LMS), kandungan digital, dan aplikasi pedagogi untuk guru dan pelajar di seluruh negara. Ia adalah tulang belakang digital yang membolehkan trend-trend terkini berkembang.</cite>
+DELIMa berfungsi sebagai hab digital utama yang menyatukan alat pengurusan pembelajaran (LMS), kandungan digital, dan aplikasi pedagogi untuk guru dan pelajar di seluruh negara. Ia adalah tulang belakang digital yang membolehkan trend-trend terkini berkembang.
 
 Setakat Julai 2024, DELIMa mencatat:
 - **89%** guru aktif menggunakannya
@@ -120,7 +120,7 @@ Tiga dokumen dasar utama yang membentuk landskap EdTech Malaysia:
 
 ## Mengapa EdTech Penting untuk Guru?
 
-<cite index="103-1">Teknologi pendidikan, atau EdTech, dilihat sebagai pemangkin utama untuk mencapai matlamat ini, mengubah bilik darjah dari model berpusatkan guru kepada ekosistem pembelajaran yang berpusatkan pelajar, interaktif, dan menarik.</cite>
+Teknologi pendidikan, atau EdTech, dilihat sebagai pemangkin utama untuk mencapai matlamat ini, mengubah bilik darjah dari model berpusatkan guru kepada ekosistem pembelajaran yang berpusatkan pelajar, interaktif, dan menarik.
 
 Untuk guru di peringkat sekolah, EdTech penting kerana tiga sebab utama:
 
@@ -136,7 +136,7 @@ Untuk guru di peringkat sekolah, EdTech penting kerana tiga sebab utama:
 
 Walaupun potensinya besar, pelaksanaan EdTech di Malaysia masih menghadapi beberapa cabaran nyata:
 
-<cite index="103-1">Beberapa cabaran utama termasuk: (1) Jurang Digital dari segi akses infrastruktur dan peranti, (2) Kesiapan dan Latihan Guru untuk menggunakan teknologi dengan berkesan dalam pedagogi, (3) Kos Penyelenggaraan dan Kemas Kinian perisian dan perkakasan, dan (4) Isu Privasi dan Keselamatan Data pelajar.</cite>
+Beberapa cabaran utama termasuk: (1) Jurang Digital dari segi akses infrastruktur dan peranti, (2) Kesiapan dan Latihan Guru untuk menggunakan teknologi dengan berkesan dalam pedagogi, (3) Kos Penyelenggaraan dan Kemas Kinian perisian dan perkakasan, dan (4) Isu Privasi dan Keselamatan Data pelajar.
 
 Data DPD KPM 2023 menguatkan realiti ini:
 - **36%** murid Malaysia tiada peranti digital
@@ -181,7 +181,7 @@ Berdasarkan laporan IMARC Group (2024), pasaran EdTech Malaysia bernilai **USD 1
 
 ### Adakah EdTech akan menggantikan guru?
 
-Tidak. <cite index="103-1">Trend terbaik adalah pendekatan blended learning yang menggabungkan kekuatan teknologi dengan nilai interaksi manusia secara bersemuka. Perbincangan kelas, eksperimen hands-on, dan hubungan guru-pelajar tetap tidak ternilai. Teknologi adalah alat — bukan pengganti guru.</cite>
+Tidak. Trend terbaik adalah pendekatan blended learning yang menggabungkan kekuatan teknologi dengan nilai interaksi manusia secara bersemuka. Perbincangan kelas, eksperimen hands-on, dan hubungan guru-pelajar tetap tidak ternilai. Teknologi adalah alat — bukan pengganti guru.
 
 ---
 

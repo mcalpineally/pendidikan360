@@ -1,11 +1,11 @@
 ---
-title: "Definisi Pentaksiran: Maksud, Rekod Berterusan dan Pertimbangan Profesional dalam PBD"
+title: "Maksud Pentaksiran: Definisi KPM dan Istilah Asas PBD"
 date: 2026-06-21
 url: "/definisi-pentaksiran/"
 draft: false
 categories: ["Pentaksiran"]
 tags: ["Pentaksiran", "Definisi Pentaksiran", "Pentaksiran Berterusan", "Rekod Berterusan", "Pertimbangan Profesional", "PBD", "Penilaian Berterusan"]
-description: "Pentaksiran ialah proses mendapatkan maklumat dan membuat pertimbangan tentang hasil pendidikan. Ketahui definisi rasmi KPM, maksud rekod berterusan, pentaksiran berterusan, dan pertimbangan profesional dalam PBD."
+description: "Maksud pentaksiran ialah proses mendapatkan maklumat dan membuat pertimbangan tentang hasil pendidikan. Definisi KPM, rekod berterusan dan pertimbangan profesional."
 ShowToc: true
 TocOpen: true
 cover:

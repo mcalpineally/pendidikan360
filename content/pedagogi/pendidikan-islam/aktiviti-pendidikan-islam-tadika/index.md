@@ -17,7 +17,7 @@ cover:
 
 Kanak-kanak berumur 4 hingga 6 tahun belajar paling baik melalui **pengalaman langsung, main, nyanyian, dan cerita** — bukan melalui ceramah atau hafazan semata-mata. Pendidikan Islam di peringkat prasekolah dan tadika perlu mengambil kira hakikat ini: ia bukan sekadar mengajar fakta agama, tetapi menanam **rasa cinta kepada Islam** sejak usia paling awal.
 
-<cite index="59-1">Kajian membuktikan bahawa kelakuan akhlak kanak-kanak dapat dipengaruhi oleh aktiviti pendidikan yang diatur oleh guru-guru di sekolah dengan efektif serta amalan dan pengetahuan guru tersebut.</cite>
+Kajian membuktikan bahawa kelakuan akhlak kanak-kanak dapat dipengaruhi oleh aktiviti pendidikan yang diatur oleh guru-guru di sekolah dengan efektif serta amalan dan pengetahuan guru tersebut.
 
 Artikel ini menyenaraikan 10 aktiviti Pendidikan Islam yang sesuai untuk peringkat prasekolah dan tadika — semuanya praktikal, menyeronokkan, dan selaras dengan **Kurikulum Standard Prasekolah Kebangsaan (KSPK)** tunjang Perkembangan Kerohanian.
 
@@ -55,7 +55,7 @@ Lagu adalah cara paling semula jadi kanak-kanak belajar. Nasyid ringkas tentang 
 
 **Peringkat:** 5–6 tahun | **Masa:** 10–15 minit | **Tunjang KSPK:** Kerohanian
 
-<cite index="57-1">Teknik pengajaran secara visual dan ilustrasi yang menarik serta berwarna-warni bagi menarik minat kanak-kanak adalah antara pendekatan yang berkesan di peringkat prasekolah.</cite>
+Teknik pengajaran secara visual dan ilustrasi yang menarik serta berwarna-warni bagi menarik minat kanak-kanak adalah antara pendekatan yang berkesan di peringkat prasekolah.
 
 Hafazan tidak perlu dilakukan secara bergema dan membosankan. Dengan irama dan gerakan mudah, kanak-kanak boleh hafal surah pendek sambil berseronok.
 
@@ -74,7 +74,7 @@ Hafazan tidak perlu dilakukan secara bergema dan membosankan. Dengan irama dan g
 
 **Peringkat:** 4–6 tahun | **Masa:** 15 minit | **Tunjang KSPK:** Kerohanian, Kognitif
 
-<cite index="60-1">Aktiviti Asmaul Husna dalam Modul Pendidikan Islam Prasekolah mengajar kanak-kanak menyebut nama-nama Allah melalui aktiviti yang menggabungkan Tunjang Kerohanian, Literasi Sains dan Teknologi, dan Bahasa Malaysia.</cite>
+Aktiviti Asmaul Husna dalam Modul Pendidikan Islam Prasekolah mengajar kanak-kanak menyebut nama-nama Allah melalui aktiviti yang menggabungkan Tunjang Kerohanian, Literasi Sains dan Teknologi, dan Bahasa Malaysia.
 
 Pengenalan kepada nama-nama Allah tidak perlu menghafal 99 nama sekaligus. Mulakan dengan 5–10 nama yang mudah dan ada kaitan langsung dengan kehidupan kanak-kanak.
 
@@ -224,7 +224,7 @@ Jadual ini hanya cadangan — guru boleh ubah suai mengikut keperluan, tema ming
 
 ### Berapa umur sesuai untuk mulakan Pendidikan Islam secara formal di tadika?
 
-<cite index="58-1">Prasekolah atau Taman Didikan Kanak-kanak (TADIKA) adalah untuk kanak-kanak yang berumur empat hingga enam tahun.</cite> Pada peringkat ini, pendekatan paling sesuai adalah melalui bermain, nyanyian, cerita, dan lakonan — bukan hafazan atau pengajaran formal yang panjang.
+Prasekolah atau Taman Didikan Kanak-kanak (TADIKA) adalah untuk kanak-kanak yang berumur empat hingga enam tahun. Pada peringkat ini, pendekatan paling sesuai adalah melalui bermain, nyanyian, cerita, dan lakonan — bukan hafazan atau pengajaran formal yang panjang.
 
 ### Bolehkah aktiviti ini digunakan di TABIKA KEMAS atau TABIKA Perpaduan?
 

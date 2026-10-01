@@ -34,9 +34,9 @@ Sebelum masuk ke teknik, penting untuk faham perbezaan dua jenis pentaksiran dal
 | **Contoh** | Kuiz ringkas, soal jawab lisan, pemerhatian, latihan harian | UASA, peperiksaan akhir tahun, ujian penggal |
 | **Impak kepada markah** | Tidak semestinya — lebih kepada maklum balas | Ya — menyumbang kepada rekod pencapaian rasmi |
 
-<cite index="47-1">Pentaksiran Formatif adalah penilaian berterusan yang berlaku semasa PdP berlangsung — seperti pemerhatian, kuiz lisan, projek, dan latihan buku tulis.</cite>
+Pentaksiran Formatif adalah penilaian berterusan yang berlaku semasa PdP berlangsung — seperti pemerhatian, kuiz lisan, projek, dan latihan buku tulis.
 
-<cite index="46-1">PBD berlaku secara formatif dan sumatif; sebagai pembelajaran, untuk pembelajaran, dan tentang pembelajaran. PBD bukanlah untuk membandingkan tahap penguasaan antara seorang murid dengan murid yang lain, tetapi untuk melihat perkembangan kemajuan murid dalam pembelajaran di samping membantu guru menambah baik pengajaran mereka.</cite>
+PBD berlaku secara formatif dan sumatif; sebagai pembelajaran, untuk pembelajaran, dan tentang pembelajaran. PBD bukanlah untuk membandingkan tahap penguasaan antara seorang murid dengan murid yang lain, tetapi untuk melihat perkembangan kemajuan murid dalam pembelajaran di samping membantu guru menambah baik pengajaran mereka.
 
 ---
 
@@ -172,7 +172,7 @@ Simpan data kuiz sebagai sebahagian rekod pentaksiran formatif anda. Google Form
 
 ### Adakah kuiz online dikira sebagai bukti PBD?
 
-Ya. <cite index="46-1">PBD dilaksanakan melalui pelbagai kaedah pentaksiran seperti kerja projek, kuiz, pembentangan, dan lain-lain aktiviti pembelajaran, berdasarkan Standard Prestasi dan pertimbangan profesional guru.</cite> Rekod kuiz online (laporan Google Forms atau Quizizz) boleh disimpan sebagai bukti pentaksiran formatif dalam fail PBD guru.
+Ya. PBD dilaksanakan melalui pelbagai kaedah pentaksiran seperti kerja projek, kuiz, pembentangan, dan lain-lain aktiviti pembelajaran, berdasarkan Standard Prestasi dan pertimbangan profesional guru. Rekod kuiz online (laporan Google Forms atau Quizizz) boleh disimpan sebagai bukti pentaksiran formatif dalam fail PBD guru.
 
 ### Berapa kerap patut guru jalankan kuiz formatif?
 

@@ -25,7 +25,7 @@ Artikel ini merumuskan enam trend terbesar yang akan membentuk landskap pendidik
 
 ## Trend 1: AI Menjadi Sebahagian Kurikulum, Bukan Hanya Alat
 
-<cite index="48-1">Rancangan Pendidikan Malaysia (RPM) 2026–2035 meletakkan transformasi digital dan kecerdasan buatan (AI) sebagai pemacu utama pembaharuan pendidikan untuk menyediakan pelajar bagi dunia yang semakin kompleks.</cite>
+Rancangan Pendidikan Malaysia (RPM) 2026–2035 meletakkan transformasi digital dan kecerdasan buatan (AI) sebagai pemacu utama pembaharuan pendidikan untuk menyediakan pelajar bagi dunia yang semakin kompleks.
 
 Ini bermakna AI bukan sekadar alat yang guru boleh pilih untuk guna atau tidak — ia akan menjadi sebahagian daripada kurikulum itu sendiri. Murid akan belajar *tentang* AI, belajar *menggunakan* AI, dan belajar berfikir secara kritis *tentang* impak AI.
 
@@ -42,7 +42,7 @@ Menjelang 2030, dijangkakan semua pelajar sekolah menengah Malaysia akan didedah
 
 ## Trend 2: Pembelajaran Peribadi Berasaskan Data (Personalized Learning)
 
-<cite index="48-1">Sistem yang didayakan AI boleh menganalisis data pelajar untuk menyesuaikan kandungan pengajaran — mampu menangani kebolehan yang pelbagai, mengurangkan jurang pencapaian, dan meningkatkan ekuiti dalam pendidikan khususnya antara konteks bandar dan luar bandar.</cite>
+Sistem yang didayakan AI boleh menganalisis data pelajar untuk menyesuaikan kandungan pengajaran — mampu menangani kebolehan yang pelbagai, mengurangkan jurang pencapaian, dan meningkatkan ekuiti dalam pendidikan khususnya antara konteks bandar dan luar bandar.
 
 Pada masa ini, seorang guru mengajar 30-40 pelajar dengan kandungan dan rentak yang sama. Teknologi AI membolehkan setiap pelajar menerima pengalaman pembelajaran yang disesuaikan dengan tahap keupayaan, gaya belajar, dan keperluan mereka secara individu.
 
@@ -54,7 +54,7 @@ Platform seperti Khan Academy sudah menggunakan AI untuk menyesuaikan soalan lat
 
 ## Trend 3: Peranan Guru Ditakrifkan Semula
 
-<cite index="48-1">Peranan guru perlu ditakrifkan semula daripada pemberi kandungan kepada fasilitator dan pereka bentuk pengajaran yang menggunakan analitik pembelajaran untuk menyokong pengajaran yang berbeza dan memupuk pemikiran aras tinggi, kreativiti, dan kemahiran sosio-emosi.</cite>
+Peranan guru perlu ditakrifkan semula daripada pemberi kandungan kepada fasilitator dan pereka bentuk pengajaran yang menggunakan analitik pembelajaran untuk menyokong pengajaran yang berbeza dan memupuk pemikiran aras tinggi, kreativiti, dan kemahiran sosio-emosi.
 
 Ini adalah perubahan paradigma yang paling mendalam — dan yang paling perlu difahami oleh guru.
 
@@ -71,9 +71,9 @@ Kajian terkini menunjukkan jurulatih manusia masih boleh membaca keadaan emosi p
 
 ## Trend 4: Dasar "Negara AI 2030" — Impak kepada Sekolah
 
-<cite index="55-1">Malaysia Digital 2030 (MD2030) adalah pelan tindakan Malaysia untuk mempercepatkan penggunaan AI merentas kerajaan, industri, dan masyarakat — menyokong aspirasi negara untuk menjadi negara AI yang inklusif dan mampan menjelang 2030.</cite>
+Malaysia Digital 2030 (MD2030) adalah pelan tindakan Malaysia untuk mempercepatkan penggunaan AI merentas kerajaan, industri, dan masyarakat — menyokong aspirasi negara untuk menjadi negara AI yang inklusif dan mampan menjelang 2030.
 
-<cite index="53-1">Kementerian Digital sedang membangunkan Pelan Tindakan AI Negara 2026–2030 untuk menyokong dan mempercepatkan aspirasi Malaysia menjadi Negara AI menjelang 2030.</cite>
+Kementerian Digital sedang membangunkan Pelan Tindakan AI Negara 2026–2030 untuk menyokong dan mempercepatkan aspirasi Malaysia menjadi Negara AI menjelang 2030.
 
 Apa maksud "Negara AI" untuk sistem pendidikan?
 
@@ -93,7 +93,7 @@ Data semasa menunjukkan masih ada jurang digital yang perlu dirapatkan:
 - **Hanya 21%** ibu bapa melaporkan internet rumah berkelajuan tinggi (DPD KPM, 2023)
 - **52.7%** sekolah masih pada tahap kebestarian rendah (baseline 2019)
 
-<cite index="50-1">Dasar Pendidikan Digital digubal agar sejajar dengan pelbagai agenda nasional termasuk Jalinan Digital Negara (JENDELA), MyDIGITAL, dan Dasar 4IR Negara — untuk memastikan usaha yang berstruktur dan terancang bagi mendepani cabaran 5IR.</cite>
+Dasar Pendidikan Digital digubal agar sejajar dengan pelbagai agenda nasional termasuk Jalinan Digital Negara (JENDELA), MyDIGITAL, dan Dasar 4IR Negara — untuk memastikan usaha yang berstruktur dan terancang bagi mendepani cabaran 5IR.
 
 Program JENDELA (Jalinan Digital Negara) bertujuan memastikan capaian internet berkelajuan tinggi merentas seluruh Malaysia menjelang 2025 dan seterusnya. Menjelang 2030, dijangkakan jurang infrastruktur digital antara bandar dan luar bandar akan dapat dikurangkan secara signifikan.
 
@@ -103,7 +103,7 @@ Program JENDELA (Jalinan Digital Negara) bertujuan memastikan capaian internet b
 
 ## Trend 6: Etika Digital dan Keselamatan Siber Menjadi Keutamaan
 
-<cite index="52-1">Pengurusan privasi data pelajar, keselamatan siber, serta risiko penyalahgunaan AI perlu ditangani melalui dasar dan garis panduan yang jelas. Pendidikan berkaitan etika digital dan tanggungjawab penggunaan teknologi juga harus diterapkan sejak peringkat awal agar pelajar mampu menggunakan AI secara berhemah dan berintegriti.</cite>
+Pengurusan privasi data pelajar, keselamatan siber, serta risiko penyalahgunaan AI perlu ditangani melalui dasar dan garis panduan yang jelas. Pendidikan berkaitan etika digital dan tanggungjawab penggunaan teknologi juga harus diterapkan sejak peringkat awal agar pelajar mampu menggunakan AI secara berhemah dan berintegriti.
 
 Semakin banyak teknologi digunakan dalam pendidikan, semakin penting pelajar memahami cara menggunakannya secara bertanggungjawab. Isu yang akan semakin kritikal menjelang 2030:
 

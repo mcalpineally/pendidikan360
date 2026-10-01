@@ -17,7 +17,7 @@ cover:
 
 Sambutan Maal Hijrah atau Awal Muharram adalah antara program tahunan paling bermakna yang boleh dianjurkan oleh Panitia Pendidikan Islam. Ia bukan sekadar majlis formal — ia adalah peluang terbaik untuk mendidik pelajar tentang **sejarah dan hikmah hijrah Rasulullah SAW**, sambil memupuk semangat perubahan positif dalam diri setiap pelajar.
 
-<cite index="74-1">Sambutan Maal Hijrah Peringkat Kebangsaan 1448H/2026M diadakan di Masjid Putra, Putrajaya, dengan tema "MADANI Dihayati, Ummah Diberkati."</cite> Tema kebangsaan ini boleh dijadikan panduan atau inspirasi untuk tema sambutan di peringkat sekolah.
+Sambutan Maal Hijrah Peringkat Kebangsaan 1448H/2026M diadakan di Masjid Putra, Putrajaya, dengan tema "MADANI Dihayati, Ummah Diberkati." Tema kebangsaan ini boleh dijadikan panduan atau inspirasi untuk tema sambutan di peringkat sekolah.
 
 Artikel ini menyediakan panduan lengkap — dari perancangan awal hingga atur cara majlis — supaya guru penasihat dan AJK persatuan boleh melaksanakan program yang bermakna dan teratur.
 
@@ -25,7 +25,7 @@ Artikel ini menyediakan panduan lengkap — dari perancangan awal hingga atur ca
 
 ## Objektif Sambutan Maal Hijrah di Sekolah
 
-<cite index="72-1">Program Sambutan Maal Hijrah di sekolah mempunyai empat objektif utama: menyampaikan pengetahuan mengenai sejarah Hijrah Nabi Muhammad SAW kepada murid; meningkatkan penghayatan terhadap nilai-nilai Islam seperti kesabaran, keikhlasan, dan pengorbanan; menggalakkan semangat perpaduan dan kerjasama antara murid serta warga sekolah; dan membina sahsiah dan jati diri murid melalui penghayatan sejarah Islam.</cite>
+Program Sambutan Maal Hijrah di sekolah mempunyai empat objektif utama: menyampaikan pengetahuan mengenai sejarah Hijrah Nabi Muhammad SAW kepada murid; meningkatkan penghayatan terhadap nilai-nilai Islam seperti kesabaran, keikhlasan, dan pengorbanan; menggalakkan semangat perpaduan dan kerjasama antara murid serta warga sekolah; dan membina sahsiah dan jati diri murid melalui penghayatan sejarah Islam.
 
 Keempat-empat objektif ini perlu menjadi asas kepada setiap aktiviti yang dirancang — bukan sekadar mengisi jadual dengan pertandingan semata-mata.
 
@@ -35,7 +35,7 @@ Keempat-empat objektif ini perlu menjadi asas kepada setiap aktiviti yang diranc
 
 ### 1. Tentukan Tema
 
-<cite index="76-1">Pembentukan jawatankuasa khas sambutan Maal Hijrah yang terdiri daripada guru-guru, pentadbir, dan wakil pelajar adalah perkara pertama yang perlu dilaksanakan. Jawatankuasa ini akan merangka program, menyelaras perjalanan aktiviti, serta memastikan tema dihayati dalam setiap acara.</cite>
+Pembentukan jawatankuasa khas sambutan Maal Hijrah yang terdiri daripada guru-guru, pentadbir, dan wakil pelajar adalah perkara pertama yang perlu dilaksanakan. Jawatankuasa ini akan merangka program, menyelaras perjalanan aktiviti, serta memastikan tema dihayati dalam setiap acara.
 
 Tema sambutan memberi fokus kepada keseluruhan program. Beberapa cadangan tema yang relevan:
 
@@ -60,7 +60,7 @@ Struktur jawatankuasa program Maal Hijrah yang biasa digunakan di sekolah:
 
 ### 3. Susun Takwim Aktiviti
 
-<cite index="76-1">Rancang dan susun jadual aktiviti sepanjang minggu sambutan</cite> — jangan hadkan kepada satu hari sahaja. Program yang tersebar selama tiga hingga lima hari lebih berkesan dan memberi peluang lebih ramai pelajar terlibat.
+Rancang dan susun jadual aktiviti sepanjang minggu sambutan — jangan hadkan kepada satu hari sahaja. Program yang tersebar selama tiga hingga lima hari lebih berkesan dan memberi peluang lebih ramai pelajar terlibat.
 
 ### 4. Sediakan Kertas Kerja
 
@@ -74,7 +74,7 @@ Setiap program yang memerlukan peruntukan atau melibatkan pihak luar perlu ada *
 
 Jemput ustaz, penceramah, atau tokoh pendidikan luar untuk menyampaikan ceramah motivasi bertema hijrah — dikaitkan dengan kehidupan pelajar masa kini.
 
-<cite index="76-1">Ceramah oleh ustaz jemputan berjaya menarik perhatian murid melalui pendekatan interaktif dan santai.</cite>
+Ceramah oleh ustaz jemputan berjaya menarik perhatian murid melalui pendekatan interaktif dan santai.
 
 **Petua:** Pilih penceramah yang biasa bercakap dengan golongan remaja — bukan ceramah formal yang panjang. Sesi soal jawab terbuka selepas ceramah membuat pelajar lebih terlibat.
 
@@ -107,7 +107,7 @@ Penulisan reflektif seperti ini menggalakkan muhasabah diri — bukan sekadar ha
 
 ### 4. Perarakan Maal Hijrah
 
-<cite index="73-1">Pihak sekolah dan guru boleh menganjurkan aktiviti perarakan sempena sambutan Maal Hijrah. Dalam perarakan ini, murid boleh membawa sepanduk mengenai mesej-mesej sempena Maal Hijrah.</cite>
+Pihak sekolah dan guru boleh menganjurkan aktiviti perarakan sempena sambutan Maal Hijrah. Dalam perarakan ini, murid boleh membawa sepanduk mengenai mesej-mesej sempena Maal Hijrah.
 
 Perarakan ringkas dalam kawasan sekolah dengan murid membawa sepanduk, poster, atau hasil kerja seni bertema Maal Hijrah — menceriakan suasana dan menarik perhatian seluruh warga sekolah.
 
@@ -144,7 +144,7 @@ Pelajar menyediakan pameran visual tentang peristiwa Hijrah — menggunakan gamb
 
 Sesuai untuk pelbagai peringkat — aktiviti mewarna untuk sekolah rendah, pertandingan poster untuk sekolah menengah.
 
-<cite index="75-1">Pertandingan mewarna sempena Sambutan Maal Hijrah adalah aktiviti yang popular di peringkat prasekolah dan sekolah rendah.</cite>
+Pertandingan mewarna sempena Sambutan Maal Hijrah adalah aktiviti yang popular di peringkat prasekolah dan sekolah rendah.
 
 Untuk sekolah menengah, pertandingan reka poster digital menggunakan Canva adalah alternatif yang menarik dan relevan dengan kemahiran abad ke-21.
 
@@ -244,7 +244,7 @@ Ya. Program Maal Hijrah boleh digabungkan dengan program Minggu Islam, Minggu Ke
 
 ## Kesimpulan
 
-Sambutan Maal Hijrah yang dirancang dengan baik bukan sekadar acara tahunan yang berlalu begitu sahaja. <cite index="76-1">Sambutan Maal Hijrah di peringkat sekolah adalah medan terbaik untuk menyemai nilai perubahan, perpaduan, dan pembentukan sahsiah murid secara holistik.</cite>
+Sambutan Maal Hijrah yang dirancang dengan baik bukan sekadar acara tahunan yang berlalu begitu sahaja. Sambutan Maal Hijrah di peringkat sekolah adalah medan terbaik untuk menyemai nilai perubahan, perpaduan, dan pembentukan sahsiah murid secara holistik.
 
 Dengan tema yang jelas, aktiviti yang pelbagai, dan pelaksanaan yang teratur, program Maal Hijrah boleh menjadi antara kenangan paling bermakna dalam perjalanan persekolahan pelajar — dan titik tolak kepada perubahan positif yang sebenar.
 

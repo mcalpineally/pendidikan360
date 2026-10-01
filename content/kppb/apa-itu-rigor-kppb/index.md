@@ -25,7 +25,7 @@ Artikel ini menjelaskan maksud rigor dengan tepat, menghuraikan Kerangka Rigor/R
 
 ## Apa Maksud Rigor dalam KPPB?
 
-<cite index="124-1">Kerangka kerja 3R mewakili elemen Rigor, Relevance, dan Relationship yang diperkenalkan oleh Daggett (2010). Kerangka kerja ini mengaitkan model aplikasi pengetahuan dalam lima situasi dengan tahap pemikiran dalam Taksonomi Pengetahuan yang digunakan untuk menyelesaikan masalah. Pembelajaran bermakna berlaku apabila pelajar dapat mengaplikasikan pengetahuan dalam situasi bukan rutin dalam kehidupan seharian pada tahap pemikiran aras tinggi.</cite>
+Kerangka kerja 3R mewakili elemen Rigor, Relevance, dan Relationship yang diperkenalkan oleh Daggett (2010). Kerangka kerja ini mengaitkan model aplikasi pengetahuan dalam lima situasi dengan tahap pemikiran dalam Taksonomi Pengetahuan yang digunakan untuk menyelesaikan masalah. Pembelajaran bermakna berlaku apabila pelajar dapat mengaplikasikan pengetahuan dalam situasi bukan rutin dalam kehidupan seharian pada tahap pemikiran aras tinggi.
 
 Dalam bahasa yang lebih mudah: **Rigor** merujuk kepada **tahap kerumitan kognitif** dalam pembelajaran — dikaitkan dengan sejauh mana seseorang pelajar perlu berfikir secara mendalam untuk menyelesaikan sesuatu tugasan.
 
@@ -47,7 +47,7 @@ Rigor **bermaksud:**
 
 Konsep Rigor dalam KPPB diadaptasi daripada **Rigor/Relevance Framework** yang dibangunkan oleh **Dr. Willard R. Daggett** di International Center for Leadership in Education (ICLE).
 
-<cite index="126-1">Adaptasi: Daggett, W. R. (2016). Rigor/Relevance Framework: A guide to focusing resources to increase student performance. New York: ICLE.</cite>
+Adaptasi: Daggett, W. R. (2016). Rigor/Relevance Framework: A guide to focusing resources to increase student performance. New York: ICLE.
 
 Kerangka ini menggabungkan **dua dimensi**:
 
@@ -78,7 +78,7 @@ Lima peringkat aplikasi pengetahuan dalam kehidupan sebenar:
 
 Apabila dua dimensi ini digabungkan, terhasillah **empat kuadran** yang menggambarkan jenis pembelajaran berbeza:
 
-<cite index="131-1">Empat kuadran adalah: Kuadran A — mengingat semula secara ringkas dan pemahaman asas tentang pengetahuan sendiri; Kuadran B — mengetahui tentang bagaimana menggunakan kemahiran; Kuadran C — pemikiran yang lebih kompleks tetapi tetap mengenai ilmu pengetahuan itu sendiri; Kuadran D — keupayaan untuk mengakses maklumat melalui jaringan sistem rangkaian yang meluas dan keupayaan untuk mengumpulkan pengetahuan dari pelbagai sumber.</cite>
+Empat kuadran adalah: Kuadran A — mengingat semula secara ringkas dan pemahaman asas tentang pengetahuan sendiri; Kuadran B — mengetahui tentang bagaimana menggunakan kemahiran; Kuadran C — pemikiran yang lebih kompleks tetapi tetap mengenai ilmu pengetahuan itu sendiri; Kuadran D — keupayaan untuk mengakses maklumat melalui jaringan sistem rangkaian yang meluas dan keupayaan untuk mengumpulkan pengetahuan dari pelbagai sumber.
 
 ### Kuadran A — Pemerolehan (Acquisition)
 
@@ -118,7 +118,7 @@ Ini adalah **kuadran sasaran KPPB** — pelajar menggunakan pengetahuan dan kema
 
 **Contoh:** Pelajar mereka bentuk penyelesaian kepada masalah pencemaran sungai di kawasan mereka menggunakan pengetahuan sains, matematik, dan kemahiran komunikasi. Atau menulis kertas cadangan kepada majlis tempatan berdasarkan kajian sebenar.
 
-<cite index="124-1">Pembelajaran bermakna berlaku apabila pelajar dapat mengaplikasikan pengetahuan dalam situasi bukan rutin dalam kehidupan seharian pada tahap pemikiran aras tinggi.</cite>
+Pembelajaran bermakna berlaku apabila pelajar dapat mengaplikasikan pengetahuan dalam situasi bukan rutin dalam kehidupan seharian pada tahap pemikiran aras tinggi.
 
 ---
 
@@ -126,7 +126,7 @@ Ini adalah **kuadran sasaran KPPB** — pelajar menggunakan pengetahuan dan kema
 
 Salah satu kesilapan yang sering berlaku dalam merancang pembelajaran adalah menekankan Rigor (pemikiran tinggi) **tanpa Relevance** (kaitan dengan kehidupan sebenar). Ini menghasilkan pembelajaran Kuadran C — pelajar berfikir secara mendalam, tetapi tidak nampak mengapa mereka perlu berbuat demikian.
 
-<cite index="126-1">Membandingkan pembelajaran dengan kehidupan pelajar, kehidupan keluarga pelajar, rakan dan komuniti pelajar, negeri, negara dan dunia kita, dunia pekerjaan, dunia perkhidmatan, dunia perniagaan dan perdagangan — inilah elemen Relevance yang perlu wujud bersama Rigor.</cite>
+Membandingkan pembelajaran dengan kehidupan pelajar, kehidupan keluarga pelajar, rakan dan komuniti pelajar, negeri, negara dan dunia kita, dunia pekerjaan, dunia perkhidmatan, dunia perniagaan dan perdagangan — inilah elemen Relevance yang perlu wujud bersama Rigor.
 
 Ini bermakna tugasan berrigor tinggi yang berkesan perlu:
 1. Menuntut pemikiran aras tinggi (Rigor tinggi)
@@ -174,7 +174,7 @@ Tahap tertinggi Taksonomi Bloom adalah mencipta — apabila pelajar menghasilkan
 
 ## Rigor dalam Konteks KPPB IPGM
 
-<cite index="128-1">Dalam Pelan Pembelajaran, aspek WHERETO dan aplikasi kelima-lima model KPPB ditekankan. Model-model tersebut ialah Model Kompetensi Global 6C, Model Reka Bentuk Pembelajaran, Model Pembelajaran Pelajar, Model 3E (Engagement, Enhancement & Extension), dan Model 3R (Rigor, Relevance & Relationship).</cite>
+Dalam Pelan Pembelajaran, aspek WHERETO dan aplikasi kelima-lima model KPPB ditekankan. Model-model tersebut ialah Model Kompetensi Global 6C, Model Reka Bentuk Pembelajaran, Model Pembelajaran Pelajar, Model 3E (Engagement, Enhancement & Extension), dan Model 3R (Rigor, Relevance & Relationship).
 
 Dalam KPPB, Rigor bukan diuji melalui kesukaran ujian — ia dinilai melalui sejauh mana tugasan dan aktiviti yang dirancang **mendorong pelajar ke Kuadran D** — menggunakan pengetahuan kompleks dalam konteks kehidupan sebenar yang tulen.
 

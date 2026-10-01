@@ -43,11 +43,11 @@ Artikel ini menjelaskan maksud setiap istilah secara tepat, berikan contoh konkr
 
 **e-Pembelajaran** atau **e-learning** ialah konsep yang **lebih luas** daripada online learning. Ia merujuk kepada penggunaan teknologi elektronik — termasuk internet, intranet, CD-ROM, dan perisian — untuk menyampaikan kandungan pembelajaran.
 
-<cite index="99-1">E-Learning adalah penggunaan teknologi maklumat dan komunikasi untuk memudahcara dan meningkatkan pengalaman pengajaran dan pembelajaran. Ia adalah sebagai pelengkap dalam PdP dan menyokong pengalaman pembelajaran pelajar secara bersemuka dan bukan bersemuka.</cite>
+E-Learning adalah penggunaan teknologi maklumat dan komunikasi untuk memudahcara dan meningkatkan pengalaman pengajaran dan pembelajaran. Ia adalah sebagai pelengkap dalam PdP dan menyokong pengalaman pembelajaran pelajar secara bersemuka dan bukan bersemuka.
 
 **Perbezaan penting:** e-Pembelajaran boleh berlaku **dalam talian atau luar talian**. Contohnya, pelajar yang mengakses bahan pembelajaran melalui CD-ROM atau fail yang dimuat turun tanpa sambungan internet pun dikira sebagai e-pembelajaran.
 
-<cite index="101-1">E-pembelajaran merujuk kepada kaedah pembelajaran berasaskan teknologi digital yang membolehkan pelajar mengakses kursus secara dalam talian, berinteraksi dengan pengajar dan mengikuti penilaian tanpa perlu hadir secara fizikal.</cite>
+E-pembelajaran merujuk kepada kaedah pembelajaran berasaskan teknologi digital yang membolehkan pelajar mengakses kursus secara dalam talian, berinteraksi dengan pengajar dan mengikuti penilaian tanpa perlu hadir secara fizikal.
 
 **Contoh e-pembelajaran di Malaysia:**
 - Pelajar mengakses nota dan video melalui DELIMa

@@ -25,7 +25,7 @@ Artikel ini membandingkan Quizizz dan Kahoot secara langsung supaya para guru da
 
 - **Guna Kahoot** apabila anda mahu kelas yang bertenaga tinggi seperti sesi ulang kaji langsung, perlumbaan papan pemimpin, suasana seperti rancangan kuiz televisyen
 - **Guna Quizizz** apabila anda mahu fleksibiliti dari segi tugasan rumah, latihan kendiri, atau pelajar belajar mengikut rentak masing-masing
-- <cite index="28-1">Ramai guru menggunakan kedua-duanya: Kahoot untuk ulang kaji langsung yang bersemangat dan Quizizz untuk tugasan rumah dan latihan kendiri</cite>
+- Ramai guru menggunakan kedua-duanya: Kahoot untuk ulang kaji langsung yang bersemangat dan Quizizz untuk tugasan rumah dan latihan kendiri
 
 ---
 
@@ -40,7 +40,7 @@ Ini perbezaan paling asas yang menentukan mana satu sesuai untuk situasi anda:
 | **Paparan soalan** | Di skrin utama (projektor/TV kelas) | Terus di peranti pelajar — tidak perlukan skrin utama |
 | **Suasana** | Seperti rancangan kuiz — kompetitif, bising, seronok | Lebih senyap, fokus individu |
 
-<cite index="27-1">Kahoot menekankan kuiz masa nyata, melibatkan pelajar dengan pertandingan langsung yang pantas. Platform ini memerlukan semua peserta menjawab serentak, mewujudkan suasana seperti rancangan kuiz. Quizizz pula menawarkan pengalaman permainan yang lebih perlahan dan fleksibel. Tidak seperti Kahoot, tiada keperluan untuk paparan bilik darjah.</cite>
+Kahoot menekankan kuiz masa nyata, melibatkan pelajar dengan pertandingan langsung yang pantas. Platform ini memerlukan semua peserta menjawab serentak, mewujudkan suasana seperti rancangan kuiz. Quizizz pula menawarkan pengalaman permainan yang lebih perlahan dan fleksibel. Tidak seperti Kahoot, tiada keperluan untuk paparan bilik darjah.
 
 ---
 
@@ -48,13 +48,13 @@ Ini perbezaan paling asas yang menentukan mana satu sesuai untuk situasi anda:
 
 ### Kelebihan Kahoot
 
-**Tenaga kelas yang tinggi.** <cite index="29-1">Kahoot cemerlang dalam sesi serentak yang dikendalikan hos di mana soalan dipaparkan pada skrin pusat dan pelajar menjawab pada peranti mereka. Ini mewujudkan pengalaman yang sangat kompetitif dan dikongsi bersama — sesuai untuk maklum balas serta-merta dan meningkatkan tenaga kelas.</cite>
+**Tenaga kelas yang tinggi.** Kahoot cemerlang dalam sesi serentak yang dikendalikan hos di mana soalan dipaparkan pada skrin pusat dan pelajar menjawab pada peranti mereka. Ini mewujudkan pengalaman yang sangat kompetitif dan dikongsi bersama — sesuai untuk maklum balas serta-merta dan meningkatkan tenaga kelas.
 
-**Suasana rancangan kuiz.** <cite index="31-1">Kahoot cemerlang dengan ciri pembelajaran berasaskan permainan yang dinamik, menyediakan persekitaran interaktif di mana guru boleh mencipta kuiz langsung, perbincangan, dan tinjauan. Ciri utama termasuk maklum balas masa nyata dan keputusan segera, tema dan muzik yang boleh disesuaikan, serta keupayaan untuk melibatkan kumpulan besar dalam format kompetitif.</cite>
+**Suasana rancangan kuiz.** Kahoot cemerlang dengan ciri pembelajaran berasaskan permainan yang dinamik, menyediakan persekitaran interaktif di mana guru boleh mencipta kuiz langsung, perbincangan, dan tinjauan. Ciri utama termasuk maklum balas masa nyata dan keputusan segera, tema dan muzik yang boleh disesuaikan, serta keupayaan untuk melibatkan kumpulan besar dalam format kompetitif.
 
 **Mudah untuk permulaan.** Antaramuka Kahoot sangat mudah — guru boleh mula dalam masa 5 minit. Pelajar pun sudah biasa dengan format ini.
 
-**Jana soalan dengan AI.** <cite index="28-1">Kedua-dua platform telah memperkenalkan penjanaan soalan berkuasa AI. Anda boleh memasukkan topik atau mengimport kandungan dan AI akan menjana soalan kuiz.</cite>
+**Jana soalan dengan AI.** Kedua-dua platform telah memperkenalkan penjanaan soalan berkuasa AI. Anda boleh memasukkan topik atau mengimport kandungan dan AI akan menjana soalan kuiz.
 
 ### Had Kahoot
 
@@ -62,9 +62,9 @@ Ini perbezaan paling asas yang menentukan mana satu sesuai untuk situasi anda:
 
 **Tidak sesuai untuk tugasan rumah.** Kahoot direka untuk sesi langsung — tidak ada mod tugasan asinkronus yang kukuh untuk pelajar buat sendiri di rumah.
 
-**Had pengguna percuma.** <cite index="33-1">Pelan percuma Kahoot mengehadkan sehingga 10 pemain sahaja</cite> — ini bermakna untuk kelas penuh, guru perlu bayar atau mencari alternatif.
+**Had pengguna percuma.** Pelan percuma Kahoot mengehadkan sehingga 10 pemain sahaja — ini bermakna untuk kelas penuh, guru perlu bayar atau mencari alternatif.
 
-**Pelajar tidak kekal ingat.** <cite index="32-1">Guru melaporkan bahawa pelajar menikmati sesi tersebut tetapi tidak banyak yang diingati untuk peperiksaan sebenar.</cite> Kahoot lebih kepada penglibatan berbanding penguasaan mendalam.
+**Pelajar tidak kekal ingat.** Guru melaporkan bahawa pelajar menikmati sesi tersebut tetapi tidak banyak yang diingati untuk peperiksaan sebenar. Kahoot lebih kepada penglibatan berbanding penguasaan mendalam.
 
 ---
 
@@ -72,15 +72,15 @@ Ini perbezaan paling asas yang menentukan mana satu sesuai untuk situasi anda:
 
 ### Kelebihan Quizizz
 
-**Fleksibel — boleh guna dalam kelas atau tugasan rumah.** <cite index="34-1">Quizizz membenarkan pelajar melalui soalan mengikut rentak masing-masing, menjadikannya sesuai untuk tugasan rumah, sesi ulang kaji, dan pengajaran berbeza.</cite>
+**Fleksibel — boleh guna dalam kelas atau tugasan rumah.** Quizizz membenarkan pelajar melalui soalan mengikut rentak masing-masing, menjadikannya sesuai untuk tugasan rumah, sesi ulang kaji, dan pengajaran berbeza.
 
-**Pelan percuma lebih murah hati.** <cite index="28-1">Quizizz mempunyai pelan percuma yang lebih murah hati, membenarkan pemain tanpa had, mod tugasan rumah, dan kebanyakan ciri teras.</cite> Ini bermakna guru boleh guna Quizizz sepenuhnya untuk kelas besar tanpa perlu bayar.
+**Pelan percuma lebih murah hati.** Quizizz mempunyai pelan percuma yang lebih murah hati, membenarkan pemain tanpa had, mod tugasan rumah, dan kebanyakan ciri teras. Ini bermakna guru boleh guna Quizizz sepenuhnya untuk kelas besar tanpa perlu bayar.
 
-**Analitik lebih terperinci.** <cite index="30-1">Analitik Quizizz menjejaki kemajuan individu dengan lebih tepat berbanding Kahoot.</cite> Guru dapat lihat mana pelajar yang perlu bantuan tambahan, dan soalan mana yang ramai tersilap.
+**Analitik lebih terperinci.** Analitik Quizizz menjejaki kemajuan individu dengan lebih tepat berbanding Kahoot. Guru dapat lihat mana pelajar yang perlu bantuan tambahan, dan soalan mana yang ramai tersilap.
 
 **Tidak perlukan skrin utama.** Soalan dipaparkan terus pada peranti setiap pelajar — sesuai untuk kelas yang tiada projektor berfungsi, atau untuk pembelajaran jarak jauh.
 
-**Sesuai untuk pembelajaran jarak jauh.** <cite index="28-1">Quizizz lebih sesuai untuk pembelajaran jarak jauh kerana soalan dipaparkan pada peranti setiap pelajar (tidak perlukan skrin bersama). Mod tugasan rumah juga berfungsi baik untuk pembelajaran asinkronus.</cite>
+**Sesuai untuk pembelajaran jarak jauh.** Quizizz lebih sesuai untuk pembelajaran jarak jauh kerana soalan dipaparkan pada peranti setiap pelajar (tidak perlukan skrin bersama). Mod tugasan rumah juga berfungsi baik untuk pembelajaran asinkronus.
 
 ### Had Quizizz
 
@@ -94,13 +94,13 @@ Ini perbezaan paling asas yang menentukan mana satu sesuai untuk situasi anda:
 
 | | **Kahoot (Percuma)** | **Quizizz (Percuma)** |
 |---|---|---|
-| **Had pemain** | <cite index="33-1">10 pemain</cite> | Tanpa had |
+| **Had pemain** | 10 pemain | Tanpa had |
 | **Mod tugasan rumah** | Terhad | ✅ Penuh |
 | **Jenis soalan** | Aneka pilihan, benar/salah | Aneka pilihan, isi tempat kosong, padanan, dan lain-lain |
 | **Laporan analitik** | Asas | Terperinci |
 | **Jana soalan AI** | ✅ | ✅ |
 
-<cite index="28-1">Untuk guru yang mementingkan bajet, Quizizz menawarkan lebih nilai tanpa kos.</cite>
+Untuk guru yang mementingkan bajet, Quizizz menawarkan lebih nilai tanpa kos.
 
 ---
 
@@ -127,7 +127,7 @@ Ini perbezaan paling asas yang menentukan mana satu sesuai untuk situasi anda:
 
 ## Bolehkah Guna Kedua-duanya?
 
-Ya — dan ini sebenarnya cadangan terbaik. <cite index="27-1">Gunakan Kahoot jika mahu tenaga maksimum untuk ulang kaji langsung. Gunakan Quizizz jika perlu alat serba boleh untuk tugasan rumah dan data.</cite>
+Ya — dan ini sebenarnya cadangan terbaik. Gunakan Kahoot jika mahu tenaga maksimum untuk ulang kaji langsung. Gunakan Quizizz jika perlu alat serba boleh untuk tugasan rumah dan data.
 
 Contoh kombinasi dalam satu minggu:
 - **Isnin:** Quizizz sebagai tugasan rumah selepas topik baharu diajar

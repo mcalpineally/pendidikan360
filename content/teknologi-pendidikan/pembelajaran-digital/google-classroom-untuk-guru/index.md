@@ -1,11 +1,11 @@
 ---
-title: "Cara Guna Google Classroom untuk Guru Sekolah Malaysia — Panduan Langkah demi Langkah"
+title: "Google Classroom Malaysia: Panduan Guru dengan Akaun DELIMa"
 date: 2026-06-26
 url: "/google-classroom-untuk-guru/"
 draft: false
 categories: ["Teknologi Pendidikan"]
 tags: ["Google Classroom", "DELIMa", "Tugasan Digital", "Pengurusan Kelas", "Platform Percuma Guru", "Pembelajaran Digital"]
-description: "Google Classroom digunakan oleh lebih 150 juta guru dan pelajar di seluruh dunia — dan ia percuma untuk guru Malaysia melalui akaun DELIMa. Ketahui cara cipta kelas, hantar tugasan, beri markah, dan pantau kemajuan pelajar."
+description: "Apa itu Google Classroom dan fungsinya untuk guru Malaysia? Percuma dengan akaun DELIMa. Panduan cipta kelas, hantar tugasan, beri markah dan pantau murid."
 ShowToc: true
 TocOpen: true
 cover:
@@ -15,7 +15,7 @@ cover:
   relative: true
 ---
 
-<cite index="37-1">Google Classroom mempunyai lebih 150 juta pengguna berdaftar dan beroperasi di 230 negara dan wilayah</cite> — menjadikannya platform pengurusan pembelajaran (LMS) paling meluas digunakan di dunia. Di Malaysia, guru sekolah yang mempunyai akaun DELIMa sudah mempunyai akses penuh kepada Google Classroom secara percuma — tanpa perlu daftar berasingan.
+Google Classroom mempunyai lebih 150 juta pengguna berdaftar dan beroperasi di 230 negara dan wilayah — menjadikannya platform pengurusan pembelajaran (LMS) paling meluas digunakan di dunia. Di Malaysia, guru sekolah yang mempunyai akaun DELIMa sudah mempunyai akses penuh kepada Google Classroom secara percuma — tanpa perlu daftar berasingan.
 
 Artikel ini membimbing guru dari langkah pertama hingga penggunaan harian — termasuk cara cipta kelas, hantar tugasan, semak kerja pelajar, dan beri markah terus dalam platform.
 
@@ -31,7 +31,7 @@ Google Classroom adalah platform pengurusan pembelajaran percuma yang membolehka
 - Memberi markah dan maklum balas bertulis
 - Berkomunikasi dengan pelajar dan ibu bapa
 
-<cite index="37-1">Google Workspace for Education telah melayani lebih 170 juta pelajar dan pendidik di seluruh dunia setakat akhir 2025.</cite> Ini menjadikan ekosistem Google — termasuk Classroom, Drive, Docs, Meet, dan Forms — sebagai antara alat pendidikan paling banyak digunakan secara global.
+Google Workspace for Education telah melayani lebih 170 juta pelajar dan pendidik di seluruh dunia setakat akhir 2025. Ini menjadikan ekosistem Google — termasuk Classroom, Drive, Docs, Meet, dan Forms — sebagai antara alat pendidikan paling banyak digunakan secara global.
 
 ---
 
@@ -180,7 +180,7 @@ Ini lebih teratur berbanding WhatsApp Group kerana semua komunikasi berkaitan pe
 
 ### Adakah Google Classroom percuma untuk guru Malaysia?
 
-Ya. <cite index="37-1">Google Workspace for Education melayani lebih 170 juta pelajar dan pendidik di seluruh dunia</cite> — dan di Malaysia, akses disediakan secara percuma melalui akaun DELIMa yang dibekalkan KPM kepada semua guru dan pelajar sekolah.
+Ya. Google Workspace for Education melayani lebih 170 juta pelajar dan pendidik di seluruh dunia — dan di Malaysia, akses disediakan secara percuma melalui akaun DELIMa yang dibekalkan KPM kepada semua guru dan pelajar sekolah.
 
 ### Perlukah pelajar ada akaun Google untuk sertai kelas?
 

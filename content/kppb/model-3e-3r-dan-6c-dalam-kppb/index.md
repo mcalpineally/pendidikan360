@@ -5,7 +5,7 @@ url: "/model-3e-3r-dan-6c-dalam-kppb/"
 draft: false
 categories: ["KPPB"]
 tags: ["Model 3E", "Model 3R", "Kompetensi 6C", "KPPB", "Pembelajaran Bermakna"]
-description: "Penjelasan lengkap Model 3E, 3R dan Kompetensi 6C dalam Kurikulum Pendidikan Abad Ke-21 (KPPB) untuk guru Malaysia."
+description: "Model 3E, 3R dan Kompetensi 6C ialah tiga model utama KPPB (Kapasiti Pedagogi Pembelajaran Bermakna) IPGM. Ringkasan setiap model dengan contoh untuk guru."
 ShowToc: true
 TocOpen: true
 cover:

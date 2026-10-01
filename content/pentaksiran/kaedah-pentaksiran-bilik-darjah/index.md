@@ -1,5 +1,5 @@
 ---
-title: "3 Kaedah Pentaksiran Bilik Darjah (PBD): Lisan, Bertulis, dan Pemerhatian"
+title: "3 Kaedah Pentaksiran Bilik Darjah (PBD) dengan Contoh Instrumen"
 date: 2026-06-22
 url: "/kaedah-pentaksiran-bilik-darjah/"
 draft: false

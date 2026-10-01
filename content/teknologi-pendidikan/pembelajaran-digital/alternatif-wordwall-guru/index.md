@@ -41,7 +41,7 @@ Jika anda perlukan lebih aktiviti, jenis yang berbeza, atau analitik yang lebih 
 **Percuma:** Ya — aktiviti tanpa had dalam pelan percuma
 **Sesuai untuk:** Pelbagai jenis aktiviti interaktif
 
-<cite index="90-1">Educaplay ialah platform pembelajaran dalam talian yang membolehkan pengguna mencipta dan berkongsi aktiviti pendidikan interaktif seperti kuiz, teka silang kata, dialog, dan padanan.</cite>
+Educaplay ialah platform pembelajaran dalam talian yang membolehkan pengguna mencipta dan berkongsi aktiviti pendidikan interaktif seperti kuiz, teka silang kata, dialog, dan padanan.
 
 Educaplay menawarkan lebih 20 jenis aktiviti berbeza — jauh lebih banyak daripada Wordwall. Antara yang paling berguna untuk guru:
 
@@ -65,7 +65,7 @@ Educaplay menawarkan lebih 20 jenis aktiviti berbeza — jauh lebih banyak darip
 **Percuma:** Ya — pelan percuma mencukupi untuk penggunaan harian
 **Sesuai untuk:** Kuiz berkumpulan yang kompetitif dalam kelas
 
-<cite index="90-1">Bamboozle ialah platform pembelajaran berasaskan permainan yang membolehkan guru mencipta kuiz interaktif untuk dimainkan secara individu atau berkumpulan.</cite>
+Bamboozle ialah platform pembelajaran berasaskan permainan yang membolehkan guru mencipta kuiz interaktif untuk dimainkan secara individu atau berkumpulan.
 
 Bamboozle direka khusus untuk format berkumpulan — berbeza dengan Quizizz (individu) dan Kahoot (seluruh kelas). Sesuai apabila guru mahu pelajar bekerjasama dalam pasukan kecil untuk jawab soalan.
 
@@ -82,7 +82,7 @@ Bamboozle direka khusus untuk format berkumpulan — berbeza dengan Quizizz (ind
 **Percuma:** Ya — fungsi asas percuma
 **Sesuai untuk:** Menukar lembaran kerja biasa kepada versi interaktif digital
 
-<cite index="90-1">Liveworksheets ialah platform yang membolehkan guru menukar lembaran kerja biasa menjadi lembaran kerja interaktif yang boleh dijawab secara dalam talian.</cite>
+Liveworksheets ialah platform yang membolehkan guru menukar lembaran kerja biasa menjadi lembaran kerja interaktif yang boleh dijawab secara dalam talian.
 
 Ini adalah alternatif yang sangat unik — guru **muat naik lembaran kerja sedia ada** (PDF atau gambar), kemudian tambah elemen interaktif seperti kotak jawapan, pilihan aneka, dan audio. Pelajar jawab terus dalam talian dan markah dikira automatik.
 
@@ -99,7 +99,7 @@ Ini adalah alternatif yang sangat unik — guru **muat naik lembaran kerja sedia
 **Percuma:** Ya — pelan percuma dengan akses kepada ciri utama
 **Sesuai untuk:** Bahan pengajaran visual yang lebih kompleks dan menarik
 
-<cite index="90-1">Genially ialah platform untuk mencipta kandungan interaktif seperti persembahan, infografik, kuiz, dan permainan secara kreatif dan menarik.</cite>
+Genially ialah platform untuk mencipta kandungan interaktif seperti persembahan, infografik, kuiz, dan permainan secara kreatif dan menarik.
 
 Genially lebih luas fungsinya berbanding Wordwall — ia bukan sekadar platform aktiviti, tetapi alat cipta kandungan interaktif penuh. Guru boleh buat:
 
@@ -122,7 +122,7 @@ Genially lebih luas fungsinya berbanding Wordwall — ia bukan sekadar platform 
 **Percuma:** Ya — sepenuhnya percuma
 **Sesuai untuk:** Latih tubi perbendaharaan kata dan fakta asas
 
-<cite index="90-1">Educandy ialah platform yang membolehkan guru mencipta permainan pendidikan seperti kuiz, padanan perkataan, dan teka-teki.</cite>
+Educandy ialah platform yang membolehkan guru mencipta permainan pendidikan seperti kuiz, padanan perkataan, dan teka-teki.
 
 Educandy sangat mudah digunakan — guru masukkan senarai perkataan atau soalan-jawapan, dan platform otomatik hasilkan pelbagai jenis permainan daripada senarai tersebut. Ini menjadikannya **lebih cepat daripada Wordwall** untuk cipta set aktiviti yang sama dalam format berbeza.
 

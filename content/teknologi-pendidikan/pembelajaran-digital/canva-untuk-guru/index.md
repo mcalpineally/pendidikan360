@@ -17,57 +17,57 @@ cover:
 
 Setiap guru pernah menghabiskan satu hingga dua jam membuat slaid pengajaran dalam PowerPoint — mencari gambar, memformat teks, menyusun layout — dan hasilnya masih nampak biasa. Canva mengubah semua itu. Dengan ribuan templat sedia pakai dan alat *drag-and-drop* yang mudah, bahan PDPC yang menarik boleh siap dalam **30 minit atau kurang**.
 
-Yang lebih baik: <cite index="22-1">Canva for Education 100% percuma untuk guru dan pelajar yang telah disahkan</cite> — bukan percubaan 14 hari, bukan pelan terhad. <cite index="20-1">Setelah mengesahkan status guru, akses penuh peringkat Pro diberikan secara kekal tanpa sebarang kos</cite>.
+Yang lebih baik: Canva for Education 100% percuma untuk guru dan pelajar yang telah disahkan — bukan percubaan 14 hari, bukan pelan terhad. Setelah mengesahkan status guru, akses penuh peringkat Pro diberikan secara kekal tanpa sebarang kos.
 
 ---
 
 ## Apa itu Canva for Education?
 
-<cite index="22-1">Canva for Education adalah platform reka bentuk lengkap yang membolehkan guru mencipta rancangan pelajaran, persembahan, lembaran kerja, poster, dan banyak lagi menggunakan alat *drag-and-drop* yang mudah. Ia termasuk akses pelajar terbina dalam — guru boleh menjemput pelajar untuk bekerjasama menggunakan e-mel sekolah mereka tanpa perisian atau log masuk tambahan.</cite>
+Canva for Education adalah platform reka bentuk lengkap yang membolehkan guru mencipta rancangan pelajaran, persembahan, lembaran kerja, poster, dan banyak lagi menggunakan alat *drag-and-drop* yang mudah. Ia termasuk akses pelajar terbina dalam — guru boleh menjemput pelajar untuk bekerjasama menggunakan e-mel sekolah mereka tanpa perisian atau log masuk tambahan.
 
-<cite index="24-1">Canva berkomitmen bahawa Canva Education akan kekal 100% percuma untuk pendidik K-12 (sekolah rendah dan menengah), pelajar mereka, serta daerah dan institusi sekolah yang layak.</cite>
+Canva berkomitmen bahawa Canva Education akan kekal 100% percuma untuk pendidik K-12 (sekolah rendah dan menengah), pelajar mereka, serta daerah dan institusi sekolah yang layak.
 
 ---
 
 ## Siapa yang Layak Daftar Canva for Education?
 
-<cite index="18-1">Canva for Education percuma — tetapi hanya jika anda layak. Canva for Education termasuk semua ciri Canva Pro tanpa kos untuk guru sekolah rendah dan menengah (K-12) yang telah disahkan.</cite>
+Canva for Education percuma — tetapi hanya jika anda layak. Canva for Education termasuk semua ciri Canva Pro tanpa kos untuk guru sekolah rendah dan menengah (K-12) yang telah disahkan.
 
 Guru sekolah rendah (KSSR) dan sekolah menengah (KSSM) di Malaysia **layak sepenuhnya**.
 
-<cite index="18-1">Jika anda pensyarah universiti atau profesional pendidikan tinggi, anda tidak layak untuk Canva for Education — anda perlu menggunakan Canva for Campus (juga percuma untuk universiti).</cite>
+Jika anda pensyarah universiti atau profesional pendidikan tinggi, anda tidak layak untuk Canva for Education — anda perlu menggunakan Canva for Campus (juga percuma untuk universiti).
 
 ### Cara Daftar Canva for Education
 
-<cite index="26-1">Daftar dengan e-mel pendidikan anda atau muat naik bukti pekerjaan. Canva akan mengesahkan permohonan anda dalam beberapa hari dan anda boleh terus bermula.</cite>
+Daftar dengan e-mel pendidikan anda atau muat naik bukti pekerjaan. Canva akan mengesahkan permohonan anda dalam beberapa hari dan anda boleh terus bermula.
 
 Langkah ringkas:
 
 1. Pergi ke [canva.com/education/teachers](https://www.canva.com/education/teachers/)
 2. Klik "Get verified"
 3. Masukkan e-mel sekolah rasmi atau muat naik surat lantikan guru
-4. <cite index="20-1">Canva lazimnya mengesahkan akaun guru dalam masa 24–48 jam selepas menghantar e-mel sekolah</cite>
+4. Canva lazimnya mengesahkan akaun guru dalam masa 24–48 jam selepas menghantar e-mel sekolah
 5. Log masuk dan mula cipta bahan pengajaran
 
 ---
 
 ## Apa yang Guru Dapat dengan Canva for Education?
 
-<cite index="24-1">Kebanyakan ciri premium Canva disertakan dalam Canva Education, termasuk ciri khusus untuk pendidik seperti integrasi LMS, keupayaan untuk berkongsi kerja dan tugasan dengan pelajar, ribuan templat pendidikan berkualiti tinggi, dan banyak lagi.</cite>
+Kebanyakan ciri premium Canva disertakan dalam Canva Education, termasuk ciri khusus untuk pendidik seperti integrasi LMS, keupayaan untuk berkongsi kerja dan tugasan dengan pelajar, ribuan templat pendidikan berkualiti tinggi, dan banyak lagi.
 
 Antara ciri utama yang paling berguna untuk guru:
 
-**Magic Write (AI)** — <cite index="22-1">Jana teks, idea brainstorming, dan tingkatkan projek anda dengan serta-merta.</cite> Berguna untuk draf teks slaid, soalan latihan, atau ringkasan topik.
+**Magic Write (AI)** — Jana teks, idea brainstorming, dan tingkatkan projek anda dengan serta-merta. Berguna untuk draf teks slaid, soalan latihan, atau ringkasan topik.
 
-**Magic Resize** — <cite index="22-1">Ubah saiz, format semula, dan terjemah dalam sekelip mata.</cite> Tukar slaid A4 kepada format poster atau bahan cetak tanpa reka bentuk semula.
+**Magic Resize** — Ubah saiz, format semula, dan terjemah dalam sekelip mata. Tukar slaid A4 kepada format poster atau bahan cetak tanpa reka bentuk semula.
 
-**Background Remover** — <cite index="22-1">Buang latar belakang dalam satu klik dan asingkan subjek dengan mudah.</cite>
+**Background Remover** — Buang latar belakang dalam satu klik dan asingkan subjek dengan mudah.
 
-**80,000+ Templat Pendidikan** — <cite index="22-1">Layari 80,000 sumber pengajaran percuma mengikut gred dan mata pelajaran.</cite>
+**80,000+ Templat Pendidikan** — Layari 80,000 sumber pengajaran percuma mengikut gred dan mata pelajaran.
 
-**Integrasi LMS** — <cite index="24-1">Sekolah dan daerah juga boleh menikmati ciri keselamatan peringkat enterprise, penggunaan melalui SSO, sokongan onboarding, dan latihan pembangunan profesional — semuanya percuma.</cite>
+**Integrasi LMS** — Sekolah dan daerah juga boleh menikmati ciri keselamatan peringkat enterprise, penggunaan melalui SSO, sokongan onboarding, dan latihan pembangunan profesional — semuanya percuma.
 
-**Privasi pelajar terjamin** — <cite index="24-1">Canva tidak menggunakan data pelajar untuk melatih model AI.</cite>
+**Privasi pelajar terjamin** — Canva tidak menggunakan data pelajar untuk melatih model AI.
 
 ---
 
@@ -117,7 +117,7 @@ Templat surat dan notis yang profesional dan menarik — lebih baik daripada sur
 
 ### 8. Bahan Pembentangan Pelajar
 
-<cite index="20-1">Pelajar boleh mencipta dan mewujudkan bersama persembahan, infografik, laman web, laporan, lembaran kerja, poster, risalah, dan papan tanda.</cite> Guru boleh buat tugasan dalam Canva dan pelajar hantar terus dalam platform yang sama.
+Pelajar boleh mencipta dan mewujudkan bersama persembahan, infografik, laman web, laporan, lembaran kerja, poster, risalah, dan papan tanda. Guru boleh buat tugasan dalam Canva dan pelajar hantar terus dalam platform yang sama.
 
 ---
 
@@ -168,15 +168,15 @@ Berikut adalah panduan langkah demi langkah untuk guru yang baru pertama kali me
 
 ### Adakah Canva for Education benar-benar percuma untuk semua guru?
 
-<cite index="20-1">Ya — Canva for Education memberikan guru K-12 akses peringkat Pro secara kekal tanpa sebarang kos selepas mengesahkan status guru. Ini bukan percubaan 14 hari atau pelan terhad.</cite> Walau bagaimanapun, ia hanya untuk guru sekolah rendah dan menengah — bukan pensyarah universiti.
+Ya — Canva for Education memberikan guru K-12 akses peringkat Pro secara kekal tanpa sebarang kos selepas mengesahkan status guru. Ini bukan percubaan 14 hari atau pelan terhad. Walau bagaimanapun, ia hanya untuk guru sekolah rendah dan menengah — bukan pensyarah universiti.
 
 ### Bolehkah pelajar guna Canva secara percuma?
 
-<cite index="21-1">Pelajar sekolah rendah dan menengah boleh mendapat akses percuma kepada ciri Pro dan premium melalui Canva Education — guru perlu menjemput mereka untuk menyertai dari akaun Canva Education guru.</cite>
+Pelajar sekolah rendah dan menengah boleh mendapat akses percuma kepada ciri Pro dan premium melalui Canva Education — guru perlu menjemput mereka untuk menyertai dari akaun Canva Education guru.
 
 ### Berapa lama proses pengesahan akaun guru?
 
-<cite index="20-1">Canva lazimnya mengesahkan akaun guru dalam masa 24–48 jam selepas menghantar e-mel sekolah.</cite>
+Canva lazimnya mengesahkan akaun guru dalam masa 24–48 jam selepas menghantar e-mel sekolah.
 
 ### Apakah Magic Write dan bagaimana ia membantu guru?
 
@@ -184,11 +184,11 @@ Magic Write adalah ciri AI dalam Canva yang membantu guru menjana teks dengan ce
 
 ### Adakah Canva selamat digunakan untuk pelajar sekolah?
 
-<cite index="24-1">Ya. Canva tidak menggunakan data pelajar untuk melatih model AI. Sekolah dan daerah juga boleh mengurus kebenaran AI dan ciri lain untuk guru dan pelajar mengikut keperluan.</cite>
+Ya. Canva tidak menggunakan data pelajar untuk melatih model AI. Sekolah dan daerah juga boleh mengurus kebenaran AI dan ciri lain untuk guru dan pelajar mengikut keperluan.
 
 ### Bolehkah bahan Canva diintegrasikan dengan Google Classroom atau DELIMa?
 
-Ya. <cite index="24-1">Canva Education termasuk integrasi LMS</cite> — guru boleh menghubungkan Canva dengan Google Classroom untuk menghantar tugasan dan menerima hasil kerja pelajar terus dalam platform.
+Ya. Canva Education termasuk integrasi LMS — guru boleh menghubungkan Canva dengan Google Classroom untuk menghantar tugasan dan menerima hasil kerja pelajar terus dalam platform.
 
 ---
 
