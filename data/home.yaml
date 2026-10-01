@@ -1,0 +1,53 @@
+# =============================================================
+#  HALAMAN UTAMA — pendidikan360.my
+#  Ubah teks di sini. Susun atur ada dalam
+#  layouts/partials/index_profile.html
+# =============================================================
+
+eyebrow: "Pendidikan360"
+# Perkataan dalam [kurungan] dipaparkan dengan latar kuning
+headline: "Panduan praktikal untuk [guru] Malaysia"
+subtitle: "Pembelajaran Bermakna, PBD, pembelajaran digital dan AI di bilik darjah. Ditulis oleh pensyarah IPG, berpandukan dokumen rasmi KPM."
+
+# Artikel "Mula di sini" (laluan fail dalam folder content/)
+pinned:
+  - "pentaksiran/apa-itu-pbd"
+  - "kppb/apa-itu-kppb"
+  - "kppb/model-3e-3r-dan-6c-dalam-kppb"
+  - "teknologi-pendidikan/ai-pendidikan/cara-guna-chatgpt-ai-dalam-pengajaran"
+
+# Kad topik (key = nama kategori dalam URL)
+topics:
+  - key: "kppb"
+    name: "Pembelajaran Bermakna"
+    text: "KPPB, Model 3E, 3R dan kompetensi 6C"
+    icon: "book"
+  - key: "pentaksiran"
+    name: "Pentaksiran"
+    text: "PBD, Tahap Penguasaan, moderasi dan instrumen"
+    icon: "check"
+  - key: "teknologi-pendidikan"
+    name: "Teknologi Pendidikan"
+    text: "Pembelajaran digital, Google Classroom, Canva"
+    icon: "screen"
+  - key: "ai-pendidikan"
+    name: "AI Pendidikan"
+    text: "ChatGPT dan prompt AI untuk bahan PdP"
+    icon: "spark"
+  - key: "pedagogi"
+    name: "Pedagogi"
+    text: "Aktiviti kelas dan idea PdP Pendidikan Islam"
+    icon: "people"
+
+facebook: "https://www.facebook.com/people/Pendidikan360my/61594624793715/"
+
+# Jalur kedai
+shop:
+  title: "Kedai Pendidikan360 Digital"
+  text: "Permainan pembelajaran, ebook dan bahan PdP pilihan untuk guru dan ibu bapa. Bayar melalui FPX, akses dihantar terus ke e-mel."
+  url: "https://kedai.pendidikan360.my/"
+  button: "Lawati kedai"
+  product_title: "Math Kids: 8 Permainan Math Interaktif"
+  product_note: "Tadika hingga Tahun 3 · RM59"
+  product_url: "https://kedai.pendidikan360.my/product/math-kids-8-permainan-math-interaktif-tadika-hingga-tahun-3"
+  image: "/banners/math-kids.jpg"

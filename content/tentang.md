@@ -41,6 +41,7 @@ Laman ini juga mempunyai kedai produk digital di [kedai.pendidikan360.my](https:
 
 ## Hubungi
 
+- Facebook: [Pendidikan360my](https://www.facebook.com/people/Pendidikan360my/61594624793715/)
 - E-mel: [alpianali@pendidikan360.my](mailto:alpianali@pendidikan360.my)
 - Threads: [@mohd.alpian.ali](https://www.threads.net/@mohd.alpian.ali)
 - Laman peribadi: [mohdalpianali.com](https://mohdalpianali.com/)

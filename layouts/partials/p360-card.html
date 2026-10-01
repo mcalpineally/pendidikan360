@@ -1,0 +1,18 @@
+{{- /* Kad artikel untuk halaman utama. dict "p" page "big" bool */ -}}
+{{- $p := .p -}}
+{{- $img := "" -}}
+{{- with $p.Params.cover.image }}{{ $img = $p.Resources.GetMatch . }}{{ end -}}
+{{- $cat := index ($p.Params.categories | default (slice "")) 0 -}}
+<a class="p360-card{{ if .big }} p360-card--big{{ end }}" href="{{ $p.RelPermalink }}">
+  {{- if $img }}
+  {{- $t := $img.Fill "640x360 webp Center" }}
+  <img class="p360-card__img" src="{{ $t.RelPermalink }}" alt="{{ $p.Params.cover.alt | default $p.Title }}" width="640" height="360" loading="lazy">
+  {{- else }}
+  <span class="p360-card__img p360-card__img--empty" aria-hidden="true"></span>
+  {{- end }}
+  <span class="p360-card__body">
+    {{- with $cat }}<span class="p360-card__cat">{{ . }}</span>{{ end }}
+    <span class="p360-card__title">{{ $p.Title }}</span>
+    {{- if .big }}{{ with $p.Description }}<span class="p360-card__desc">{{ . | truncate 120 }}</span>{{ end }}{{ end }}
+  </span>
+</a>

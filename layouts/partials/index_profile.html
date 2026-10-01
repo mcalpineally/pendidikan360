@@ -1,0 +1,98 @@
+{{- /* Halaman utama tersuai Pendidikan360. Teks: data/home.yaml */ -}}
+{{- $h := site.Data.home -}}
+{{- $articles := where site.RegularPages "Params.categories" "!=" nil -}}
+{{- $icons := dict
+  "book" `<path d="M4 5a2 2 0 0 1 2-2h5v17H6a2 2 0 0 0-2 2z"/><path d="M20 5a2 2 0 0 0-2-2h-5v17h5a2 2 0 0 1 2 2z"/>`
+  "check" `<rect x="4" y="3" width="16" height="18" rx="2"/><path d="m8.5 12 2.5 2.5 4.5-5"/>`
+  "screen" `<rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20h8M12 16v4"/>`
+  "spark" `<path d="M12 3v4M12 17v4M3 12h4M17 12h4M6 6l2.5 2.5M15.5 15.5 18 18M6 18l2.5-2.5M15.5 8.5 18 6"/>`
+  "people" `<circle cx="9" cy="8" r="3"/><path d="M3 20a6 6 0 0 1 12 0"/><circle cx="17" cy="9" r="2.5"/><path d="M15.5 14.2A5 5 0 0 1 21 19"/>`
+-}}
+
+<div class="p360-home">
+
+  {{/* ---------- HERO ---------- */}}
+  <section class="p360-hero">
+    <div class="p360-hero__tiles" aria-hidden="true">
+      <span class="t1">A</span><span class="t2">+</span><span class="t3">123</span><span class="t4">✓</span><span class="t5">÷</span>
+    </div>
+    <div class="p360-hero__inner">
+      <p class="p360-hero__eyebrow">{{ $h.eyebrow }}</p>
+      <h1 class="p360-hero__title">{{ replaceRE `\[([^\]]+)\]` `<mark>$1</mark>` $h.headline | safeHTML }}</h1>
+      <p class="p360-hero__sub">{{ $h.subtitle }}</p>
+      <div class="p360-hero__actions">
+        <a class="p360-btn p360-btn--yellow" href="#mula">Mula membaca</a>
+        <a class="p360-btn p360-btn--ghost" href="{{ "search/" | relURL }}">Cari artikel</a>
+      </div>
+      <ul class="p360-hero__stats">
+        <li><strong>{{ len $articles }}</strong> panduan</li>
+        <li><strong>{{ len $h.topics }}</strong> topik</li>
+        <li>Ditulis oleh <a href="{{ "tentang/" | relURL }}">pensyarah IPG</a></li>
+      </ul>
+    </div>
+  </section>
+
+  {{/* ---------- TOPIK ---------- */}}
+  <section class="p360-sec">
+    <h2 class="p360-sec__title">Pilih topik</h2>
+    <div class="p360-topics">
+      {{- range $h.topics }}
+      {{- $n := len (index site.Taxonomies.categories (replace .key "-" " ")) }}
+      <a class="p360-topic" href="{{ printf "categories/%s/" .key | relURL }}">
+        <span class="p360-topic__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" width="22" height="22">{{ index $icons .icon | safeHTML }}</svg></span>
+        <span class="p360-topic__name">{{ .name }}</span>
+        <span class="p360-topic__text">{{ .text }}</span>
+        <span class="p360-topic__count">{{ $n }} artikel →</span>
+      </a>
+      {{- end }}
+    </div>
+  </section>
+
+  {{/* ---------- MULA DI SINI ---------- */}}
+  <section class="p360-sec" id="mula">
+    <h2 class="p360-sec__title">Mula di sini</h2>
+    <p class="p360-sec__lead">Panduan yang paling banyak dicari guru dan guru pelatih.</p>
+    <div class="p360-grid">
+      {{- range $h.pinned }}
+      {{- with site.GetPage . }}{{ partial "p360-card.html" (dict "p" . "big" true) }}{{ end }}
+      {{- end }}
+    </div>
+  </section>
+
+  {{/* ---------- KEDAI ---------- */}}
+  {{- with $h.shop }}
+  <section class="p360-shop">
+    <div class="p360-shop__text">
+      <p class="p360-shop__eyebrow">Kedai digital</p>
+      <h2>{{ .title }}</h2>
+      <p>{{ .text }}</p>
+      <a class="p360-btn p360-btn--yellow" href="{{ .url }}">{{ .button }} →</a>
+    </div>
+    <a class="p360-shop__product" href="{{ .product_url }}">
+      <img src="{{ .image }}" alt="{{ .product_title }}" loading="lazy" width="900" height="600">
+      <span class="p360-shop__ptitle">{{ .product_title }}</span>
+      <span class="p360-shop__pnote">{{ .product_note }}</span>
+    </a>
+  </section>
+  {{- end }}
+
+  {{/* ---------- TERKINI ---------- */}}
+  <section class="p360-sec">
+    <h2 class="p360-sec__title">Artikel terkini</h2>
+    <div class="p360-grid p360-grid--3">
+      {{- $pinned := slice }}{{ range $h.pinned }}{{ with site.GetPage . }}{{ $pinned = $pinned | append . }}{{ end }}{{ end }}
+      {{- range first 6 (complement $pinned $articles.ByDate.Reverse) }}{{ partial "p360-card.html" (dict "p" . "big" false) }}{{ end }}
+    </div>
+    <p class="p360-more"><a href="{{ "search/" | relURL }}">Cari semua artikel →</a></p>
+  </section>
+
+  {{/* ---------- TENTANG ---------- */}}
+  <section class="p360-about">
+    <p>Pendidikan360 dikendalikan oleh <strong>Mohd Alpian Ali</strong>, pensyarah Institut Pendidikan Guru Malaysia dengan kira-kira 20 tahun pengalaman mendidik bakal guru.</p>
+    <span class="p360-about__links">
+      {{- with $h.facebook }}<a href="{{ . }}" rel="noopener" target="_blank">Ikuti di Facebook</a>{{ end }}
+      <a href="{{ "tentang/" | relURL }}">Tentang laman ini →</a>
+    </span>
+  </section>
+
+</div>
