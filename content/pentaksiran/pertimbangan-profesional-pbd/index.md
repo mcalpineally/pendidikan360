@@ -19,6 +19,9 @@ Dalam Pentaksiran Bilik Darjah (PBD), terdapat satu konsep yang menjadi **teras 
 
 Artikel ini menjelaskan konsep pertimbangan profesional mengikut **Buku Panduan Pelaksanaan PBD Edisi Ke-2** yang diterbitkan oleh Kementerian Pendidikan Malaysia — sumber paling autoritatif dalam topik ini.
 
+
+> **Baru mengenali PBD?** Mulakan dengan [Maksud PBD: Apa itu Pentaksiran Bilik Darjah](/apa-itu-pbd/), termasuk bezanya dengan UASA dan Matriks Pembelajaran Tahun 4.
+
 ---
 
 ## Apa Maksud Pertimbangan Profesional?

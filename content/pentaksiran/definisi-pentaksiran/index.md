@@ -19,6 +19,9 @@ Ramai guru menggunakan istilah "pentaksiran" dan "penilaian" secara bertukar gan
 
 Artikel ini menghimpunkan definisi rasmi dan konsep asas pentaksiran — daripada akar kata, definisi menurut Kementerian Pendidikan Malaysia, hingga istilah teknikal seperti rekod berterusan dan pertimbangan profesional yang digunakan dalam PBD.
 
+
+> **Baru mengenali PBD?** Mulakan dengan [Maksud PBD: Apa itu Pentaksiran Bilik Darjah](/apa-itu-pbd/), termasuk bezanya dengan UASA dan Matriks Pembelajaran Tahun 4.
+
 ---
 
 ## Apa Maksud Pentaksiran?

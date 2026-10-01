@@ -21,6 +21,9 @@ Apabila dua guru dari kelas yang berbeza memberikan Tahap Penguasaan (TP) yang b
 
 Artikel ini menjelaskan maksud moderasi, empat tujuan rasminya, tiga model pelaksanaan yang ditetapkan KPM, dan cara moderasi sepatutnya dijalankan dalam mesyuarat panitia.
 
+
+> **Baru mengenali PBD?** Mulakan dengan [Maksud PBD: Apa itu Pentaksiran Bilik Darjah](/apa-itu-pbd/), termasuk bezanya dengan UASA dan Matriks Pembelajaran Tahun 4.
+
 ---
 
 ## Apa Maksud Moderasi PBD?

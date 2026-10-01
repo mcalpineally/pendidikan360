@@ -19,6 +19,9 @@ Pentaksiran Bilik Darjah (PBD) tidak terhad kepada ujian bertulis sahaja. Mengik
 
 Artikel ini menjelaskan ketiga-tiga kaedah ini secara terperinci, lengkap dengan instrumen dan contoh aktiviti yang boleh terus digunakan guru di sekolah.
 
+
+> **Baru mengenali PBD?** Mulakan dengan [Maksud PBD: Apa itu Pentaksiran Bilik Darjah](/apa-itu-pbd/), termasuk bezanya dengan UASA dan Matriks Pembelajaran Tahun 4.
+
 ---
 
 ## Mengapa Tiga Kaedah Ini Penting?
