@@ -7,6 +7,8 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 
+copyright = "© 2026 Pendidikan360 · Dikendalikan oleh [Mohd Alpian Ali](/tentang/)"
+
 [params]
   env = "production"
   title = "Pendidikan360"
@@ -99,6 +101,12 @@ buildFuture = false
     name = "Kedai"
     url = "https://kedai.pendidikan360.my/"
     weight = 90
+
+  [[menu.main]]
+    identifier = "tentang"
+    name = "Tentang"
+    url = "/tentang/"
+    weight = 95
 
   [[menu.main]]
     identifier = "search"
