@@ -9,7 +9,7 @@ description: "Maksud PBD ialah proses pentaksiran berterusan dalam PdP untuk men
 ShowToc: true
 TocOpen: true
 cover:
-  image: "featured.png"
+  image: "featured.jpg"
   alt: "Maksud PBD — Apa itu Pentaksiran Bilik Darjah"
   caption: "Panduan PBD 2026: definisi KPM, Tahap Penguasaan, dan hubungannya dengan UASA serta Matriks Pembelajaran Tahun 4"
   relative: true
