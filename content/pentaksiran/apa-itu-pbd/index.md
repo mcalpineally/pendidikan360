@@ -127,6 +127,8 @@ Ketika mengumumkan Matriks Pembelajaran di Dewan Negara, Menteri Pendidikan Fadh
 
 Ringkasnya: **Matriks Pembelajaran tidak menggantikan PBD dan bukan UPSR yang dikembalikan.** PBD kekal sebagai pentaksiran harian oleh guru. Matriks ialah ukuran selaras pada dua titik sahaja, iaitu Tahun 4 dan Tingkatan 3, untuk membantu perancangan intervensi.
 
+Jadual, format kertas dan cara keputusan digunakan diterangkan dalam [Matriks Pembelajaran Tahun 4: Jadual, Format dan Cara Keputusan Digunakan](/matriks-pembelajaran-tahun-4/).
+
 ---
 
 ## Apa Kata Kajian tentang PBD?

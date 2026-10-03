@@ -1,0 +1,2 @@
+{{- /* Pautan luar yang dibuka dalam tab baharu: {{< luar href="https://..." >}}teks{{< /luar >}} */ -}}
+<a href="{{ .Get "href" }}" target="_blank" rel="noopener">{{ .Inner | markdownify }}</a>
