@@ -92,6 +92,8 @@ KPPB menggalakkan penyampaian kurikulum secara **modular** (proses dipisahkan ke
 
 Elemen ini merujuk kepada penggunaan **teknologi digital** dalam amalan pengajaran dan pembelajaran bilik darjah — untuk memacu dan "membugar" pembelajaran pelajar selaras dengan keperluan semasa.
 
+> **Elemen KPPB dalam reka bentuk pembelajaran:** Selain model di atas, KPPB menggunakan **Model Reka Bentuk Pembelajaran** dengan empat elemen: Amalan Pedagogi, Rakan Pembelajaran, Persekitaran Pembelajaran dan Pemanfaatan Digital. Penjelasan dan contoh lengkap: [Elemen KPPB: 4 Elemen Model Reka Bentuk Pembelajaran](/elemen-kppb/).
+
 ---
 
 ## Kompetensi Pembelajaran Bermakna 6C — Penjelasan Rasmi
@@ -176,7 +178,7 @@ KPPB direka khusus untuk konteks IPGM dalam melatih bakal guru (pelajar PISMP). 
 
 ### Apakah Model 3E dan 3R yang sering disebut bersama KPPB?
 
-Model 3E (*Engage, Empower, Enhance*) dan Model 3R (*Relevance, Rigor, Relationships*) adalah kerangka kerja tambahan yang sering digunakan bersama prinsip KPPB untuk merancang pengalaman pembelajaran yang lebih menarik dan bermakna. Kedua-dua model ini dibincangkan secara terperinci dalam artikel berasingan.
+Model 3E (*Engagement, Enhancement, Extension*) dan Model 3R (*Relevance, Rigor, Relationships*) adalah kerangka kerja tambahan yang sering digunakan bersama prinsip KPPB untuk merancang pengalaman pembelajaran yang lebih menarik dan bermakna. Kedua-dua model ini dibincangkan secara terperinci dalam artikel berasingan.
 
 ---
 
