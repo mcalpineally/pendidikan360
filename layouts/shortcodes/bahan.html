@@ -1,0 +1,24 @@
+{{- /* Kotak bahan percuma. Guna dalam artikel:
+     {{< bahan slug="takwim-2027" tajuk="Takwim Sekolah 2027 (Boleh Cetak)" teks="Kumpulan A & B, sedia dicetak." >}}
+     Borang dihantar ke bahan.pendidikan360.my */ -}}
+{{- $slug := .Get "slug" -}}
+{{- $site := "https://bahan.pendidikan360.my" -}}
+<aside class="p360-bahan" aria-label="Bahan percuma">
+  <div class="p360-bahan__label">Percuma</div>
+  <strong class="p360-bahan__title">{{ .Get "tajuk" }}</strong>
+  {{- with .Get "teks" }}<p class="p360-bahan__text">{{ . }}</p>{{ end }}
+  <form class="p360-bahan__form" method="post" action="{{ $site }}/{{ $slug }}">
+    <input type="text" name="name" placeholder="Nama" maxlength="80" required aria-label="Nama">
+    <input type="email" name="email" placeholder="E-mel" maxlength="120" required aria-label="E-mel">
+    <select name="segment" aria-label="Saya seorang">
+      <option value="guru">Saya guru</option>
+      <option value="ibubapa">Saya ibu bapa</option>
+      <option value="ipg">Saya pelajar IPG</option>
+      <option value="lain">Lain-lain</option>
+    </select>
+    <input type="hidden" name="source" value="{{ .Page.Permalink }}">
+    <div style="position:absolute;left:-9999px" aria-hidden="true"><input type="text" name="website" tabindex="-1" autocomplete="off"></div>
+    <label class="p360-bahan__consent"><input type="checkbox" name="consent" value="1" required> <span>Saya setuju menerima bahan dan e-mel berkaitan daripada Pendidikan360. <a href="{{ $site }}/privasi" target="_blank" rel="noopener">Notis privasi</a></span></label>
+    <button type="submit">Hantar ke e-mel saya</button>
+  </form>
+</aside>
