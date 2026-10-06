@@ -111,7 +111,7 @@ Tujuan utama TP ialah membantu guru merancang langkah seterusnya. Panduan umum:
 
 ## Contoh ulasan PBD mengikut TP
 
-Ulasan dalam laporan PBD lebih bermakna jika ia menyebut **apa yang murid sudah boleh buat** dan **langkah seterusnya**. Contoh yang boleh diubah suai:
+Ulasan dalam laporan PBD lebih bermakna jika ia menyebut **apa yang murid sudah boleh buat** dan **langkah seterusnya**. Berikut enam contoh yang boleh diubah suai. Senarai penuh 120 ulasan boleh dimuat turun di hujung bahagian ini.
 
 - **TP1:** "Ahmad sudah mengenal huruf vokal dan konsonan. Dia perlu banyak latihan membatang suku kata dengan bimbingan."
 - **TP2:** "Siti boleh menerangkan maksud pecahan dengan contoh gambar. Langkah seterusnya ialah menggunakan pecahan untuk menyelesaikan soalan mudah."
@@ -121,6 +121,8 @@ Ulasan dalam laporan PBD lebih bermakna jika ia menyebut **apa yang murid sudah 
 - **TP6:** "Haziq menghasilkan idea projek sains yang kreatif dan membantu rakan memahami konsep. Teruskan peranan sebagai pembimbing rakan sebaya."
 
 Elakkan ulasan umum seperti "baik" atau "perlu usaha lagi" sahaja. Ibu bapa lebih mudah membantu anak jika tahu kemahiran yang perlu diberi perhatian.
+
+{{< bahan slug="ulasan-pbd" tajuk="Dapatkan 120 Contoh Ulasan PBD TP1–TP6 (PDF percuma)" teks="20 ulasan bagi setiap TP: umum, bahasa, matematik, serta sains dan mata pelajaran lain. Sedia untuk disalin ke laporan PBD pertengahan dan akhir tahun." >}}
 
 ## Soalan lazim
 
