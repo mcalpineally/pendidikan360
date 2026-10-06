@@ -1,11 +1,11 @@
 ---
-title: "Maksud PBD: Jadual TP1–TP6, Cara Pelaksanaan dan Beza dengan UASA"
+title: "Maksud PBD: Apa itu Pentaksiran Bilik Darjah (Panduan 2026)"
 date: 2026-10-01
 url: "/apa-itu-pbd/"
 draft: false
 categories: ["Pentaksiran"]
 tags: ["PBD", "Pentaksiran Bilik Darjah", "Maksud PBD", "Tahap Penguasaan", "UASA", "Matriks Pembelajaran", "Standard Prestasi"]
-description: "Apa itu PBD? Pentaksiran Bilik Darjah dilaporkan dalam TP1–TP6, bukan markah. Lihat jadual deskriptor TP, cara guru melaksanakan PBD, dan beza PBD, UASA serta Matriks Tahun 4."
+description: "Maksud PBD ialah proses pentaksiran berterusan dalam PdP untuk mengesan perkembangan dan penguasaan murid. Definisi KPM, TP1–TP6, dan beza PBD dengan UASA serta Matriks Tahun 4."
 ShowToc: true
 TocOpen: true
 cover:
@@ -93,6 +93,8 @@ Hasil PBD dilaporkan dalam enam Tahap Penguasaan. Berikut deskriptor umum sepert
 | **TP6** | Murid berupaya menggunakan pengetahuan dan kemahiran sedia ada untuk digunakan pada situasi baharu secara analitik, sistematik, bersikap positif, kreatif dan inovatif dalam penghasilan idea baharu serta boleh dicontohi |
 
 Deskriptor ini ialah rangka umum. Setiap mata pelajaran mempunyai **Standard Prestasi** tersendiri dalam DSKP yang menghuraikan maksud TP1–TP6 bagi topik tertentu. Guru menentukan TP murid melalui pertimbangan profesional, seperti yang diterangkan dalam [Pertimbangan Profesional dalam PBD](/pertimbangan-profesional-pbd/).
+
+> **Mahu penerangan lebih lanjut?** Baca [TP1 hingga TP6: Maksud Tahap Penguasaan PBD dan Cara Guru Menentukannya](/tp1-hingga-tp6/), termasuk contoh, TP keseluruhan dan contoh ulasan.
 
 ---
 

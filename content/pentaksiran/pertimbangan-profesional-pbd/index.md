@@ -156,7 +156,7 @@ Keputusan akhir pertimbangan profesional menghasilkan **Tahap Penguasaan (TP)** 
 | **TP 5** | Murid melaksanakan sesuatu kemahiran dalam situasi baharu secara bersistem dan berhemah |
 | **TP 6** | Murid dapat menzahirkan sesuatu kemahiran baharu secara kreatif dan inovatif |
 
-**Tahap Penguasaan minimum** yang ditetapkan oleh KPM ialah **TP 3** — iaitu murid boleh menggunakan pengetahuan untuk melaksanakan sesuatu kemahiran atau tugasan dalam sesuatu situasi.
+**Tahap Penguasaan minimum** yang ditetapkan oleh KPM ialah **TP 3** — iaitu murid boleh menggunakan pengetahuan untuk melaksanakan sesuatu kemahiran atau tugasan dalam sesuatu situasi. Penerangan setiap tahap ada dalam [TP1 hingga TP6](/tp1-hingga-tp6/).
 
 Pertimbangan profesional guru menentukan murid berada pada tahap mana berdasarkan bukti yang dikumpul sepanjang proses PdP.
 
