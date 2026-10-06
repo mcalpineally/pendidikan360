@@ -1,11 +1,11 @@
 ---
-title: "Apa itu Pembelajaran Digital? 5 Contoh + Data KPM 2024 — Panduan Guru Malaysia"
+title: "Apa itu Pembelajaran Digital? Maksud, 5 Contoh dan Data KPM"
 date: 2026-06-12
 url: "/apa-itu-pembelajaran-digital/"
 draft: false
 categories: ["Teknologi Pendidikan"]
 tags: ["Pembelajaran Digital", "DELIMa", "Dasar Pendidikan Digital", "KPM", "Guru Digital", "PPPM"]
-description: "Pembelajaran digital bukan sekadar guna laptop — 58% guru Malaysia masih di tahap asas (KPM 2023). Ketahui definisi sebenar, 5 contoh praktikal, platform DELIMa, dan cara guru boleh mula hari ini."
+description: "Maksud pembelajaran digital dalam konteks sekolah Malaysia, 5 contoh yang boleh dibuat esok, data kompetensi digital guru KPM, dan cara mula dengan DELIMa."
 ShowToc: true
 TocOpen: true
 cover:

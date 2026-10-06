@@ -1,11 +1,11 @@
 ---
-title: "Google Classroom Malaysia: Panduan Guru dengan Akaun DELIMa"
+title: "Google Classroom DELIMa: Cara Guna untuk Guru Malaysia (2026)"
 date: 2026-06-26
 url: "/google-classroom-untuk-guru/"
 draft: false
 categories: ["Teknologi Pendidikan"]
 tags: ["Google Classroom", "DELIMa", "Tugasan Digital", "Pengurusan Kelas", "Platform Percuma Guru", "Pembelajaran Digital"]
-description: "Apa itu Google Classroom dan fungsinya untuk guru Malaysia? Percuma dengan akaun DELIMa. Panduan cipta kelas, hantar tugasan, beri markah dan pantau murid."
+description: "Cara guna Google Classroom dengan akaun DELIMa: log masuk, cipta kelas, jemput murid, hantar tugasan dan beri markah. Panduan langkah demi langkah untuk guru Malaysia."
 ShowToc: true
 TocOpen: true
 cover:

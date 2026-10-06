@@ -1,11 +1,11 @@
 ---
-title: "Takwim Persekolahan 2027: Tarikh Cuti Sekolah Kumpulan A dan B (KPM)"
+title: "Takwim Sekolah 2027 KPM (PDF): Cuti Sekolah Kumpulan A & B"
 date: 2026-10-04
 url: "/takwim-persekolahan-2027/"
 draft: false
 categories: ["Info Sekolah"]
-tags: ["Takwim Persekolahan 2027", "Cuti Sekolah 2027", "Kalendar Akademik 2027", "Cuti Perayaan KPM", "Kumpulan A", "Kumpulan B"]
-description: "Takwim persekolahan 2027 KPM: sesi bermula 4 Januari 2027. Tarikh cuti penggal, cuti pertengahan tahun, cuti akhir tahun dan cuti tambahan perayaan untuk Kumpulan A dan B, berserta PDF boleh cetak."
+tags: ["Takwim Sekolah 2027", "Takwim Persekolahan 2027", "Jadual Persekolahan 2027", "Cuti Sekolah 2027", "Kalendar Akademik 2027", "Cuti Perayaan KPM", "Kumpulan A", "Kumpulan B"]
+description: "Takwim sekolah 2027 KPM lengkap: cuti penggal, cuti perayaan dan cuti umum untuk Kumpulan A & B. Sekolah buka semula 8 Jun, bukan 6/7 Jun. PDF A4 percuma."
 ShowToc: true
 TocOpen: false
 cover:
@@ -15,7 +15,7 @@ cover:
   relative: true
 ---
 
-Sesi persekolahan 2027 bermula pada **Isnin, 4 Januari 2027** untuk semua negeri. Sekolah Kumpulan A (Kedah, Kelantan dan Terengganu) tamat pada **2 Disember 2027**, manakala Kumpulan B tamat pada **3 Disember 2027**. Tarikh ini diumumkan oleh Kementerian Pendidikan Malaysia (KPM) pada 2 Oktober 2026 melalui Kalendar Akademik Tahun 2027.
+Menurut takwim sekolah 2027 KPM, sesi persekolahan 2027 bermula pada **Isnin, 4 Januari 2027** untuk semua negeri. Sekolah Kumpulan A (Kedah, Kelantan dan Terengganu) tamat pada **2 Disember 2027**, manakala Kumpulan B tamat pada **3 Disember 2027**. Tarikh ini diumumkan oleh Kementerian Pendidikan Malaysia (KPM) pada 2 Oktober 2026 melalui Kalendar Akademik Tahun 2027.
 
 Artikel ini menyusun semua tarikh dalam dokumen rasmi KPM: cuti penggal, cuti tambahan perayaan, dan cuti umum yang jatuh pada hari persekolahan. Ia juga menunjukkan tarikh sebenar murid kembali ke sekolah selepas setiap cuti.
 

@@ -37,45 +37,44 @@ KPPB bermaksud Kapasiti Pedagogi Pembelajaran Bermakna, iaitu satu pendekatan pe
 
 KPPB banyak digunakan dalam pendidikan di Malaysia, tetapi prinsipnya juga sejajar dengan amalan terbaik global iaitu *Deep Learning*, menjadikannya relevan untuk pendidik di seluruh dunia.
 
-## Apakah Model 3E KPPB? *Engage*, *Empower*, *Enhance Model*
+## Apakah Model 3E KPPB? *Engagement*, *Enhancement*, *Extension*
 
-3E KPPB ialah pendekatan yang hebat untuk mewujudkan persekitaran pembelajaran yang dinamik dan menarik. Setiap komponen dalam 3E mempunyai tujuan tersendiri:
+Dalam dokumen KPPB IPGM, **Model 3E** ialah kerangka untuk menilai **sejauh mana teknologi digital memberi nilai kepada pembelajaran** dalam PdPc. Soalannya bukan sekadar "adakah guru guna teknologi?", tetapi "adakah teknologi itu membantu murid belajar?". Prinsip asasnya: *learning first, technology second*.
 
-### 🟠 *Engage* (Libatkan)
+> **Nota:** Ada sumber yang menyebut 3E sebagai *Engage, Empower, Enhance*. Itu model penglibatan pelajar yang berbeza dan bukan Model 3E dalam KPPB. Penjelasan penuh ada dalam artikel [Model 3E KPPB](/model-3e-kppb/).
 
-Fasa *Engage* bertujuan untuk menarik perhatian pelajar dan membangkitkan rasa ingin tahu:
+| Fasa | Maksud | Soalan utama |
+|---|---|---|
+| **Engagement** | Penglibatan | Adakah teknologi membantu murid fokus dan terlibat aktif dengan tugasan pembelajaran? |
+| **Enhancement** | Peningkatan | Adakah teknologi membantu murid memahami konsep dengan lebih baik, sesuatu yang sukar dicapai tanpanya? |
+| **Extension** | Lanjutan | Adakah teknologi membantu murid terus belajar di luar waktu dan bilik darjah? |
 
-* Kaedah interaktif: Kuiz, undian, dan aktiviti pemecah ais.
+### 🟠 *Engagement* (Penglibatan)
 
-* Sambungan dunia sebenar: Memperkenalkan pelajaran melalui peristiwa semasa atau situasi harian.
+Teknologi digunakan untuk menarik perhatian dan mengubah murid daripada pasif kepada aktif, biasanya pada awal PdPc.
 
-* Alat multimedia: Menggunakan video, simulasi, dan aplikasi interaktif untuk mencipta keterujaan.
+* Kuiz pantas (contohnya Quizizz) untuk menguji pengetahuan sedia ada.
+* Video pendek atau gambar interaktif sebagai set induksi.
 
-**Contoh:** Ketika mengajar tentang perubahan iklim, mulakan dengan video dokumentari pendek yang menunjukkan kesan sebenar, diikuti dengan perbincangan terbuka.
+**Contoh:** Ketika mengajar tentang perubahan iklim, guru memulakan dengan video dokumentari dua minit, kemudian murid menjawab undian dalam talian tentang punca utama.
 
-### 🟢 *Empower* (Berikan Kuasa)
+### 🟢 *Enhancement* (Peningkatan)
 
-Fasa ini menggalakkan pelajar untuk menguasai pembelajaran mereka sendiri:
+Teknologi memberi nilai tambah kepada pemahaman, bukan sekadar menggantikan papan putih atau buku teks.
 
-* Berikan sumber dan panduan, membolehkan pelajar meneroka topik secara bebas.
+* Simulasi atau animasi untuk konsep yang abstrak.
+* Alat kolaboratif yang membolehkan murid membina dan menyemak idea bersama.
 
-* Menggalakkan projek dan penyelidikan kendiri.
+**Contoh:** Murid menggunakan simulasi dalam talian untuk melihat bagaimana kenaikan suhu mempengaruhi paras laut, lalu membandingkan keputusan antara kumpulan.
 
-* Menggunakan alat kolaboratif, seperti *Google Classroom*, untuk memudahkan pembelajaran berkumpulan.
+### 🔵 *Extension* (Lanjutan)
 
-**Contoh:** Benarkan pelajar mereka bentuk eksperimen sains mereka sendiri berkaitan perubahan iklim, mengasah kreativiti dan autonomi.
+Teknologi menyambung pembelajaran ke luar bilik darjah dan mengaitkannya dengan kehidupan sebenar.
 
-### 🔵 *Enhance* (Perkayakan)
+* Tugasan dalam Google Classroom yang diteruskan di rumah.
+* Projek yang melibatkan komuniti atau pakar luar melalui platform digital.
 
-Fasa Enhance melibatkan memperdalam pemahaman dan mengaplikasikan pengetahuan secara bermakna:
-
-* Menggalakkan refleksi kritikal melalui jurnal atau penilaian kendiri.
-
-* Memperkenalkan tugasan lanjutan yang memerlukan penyelesaian masalah dan pemikiran kritis.
-
-* Memberikan maklum balas peribadi untuk membantu pelajar meningkatkan prestasi akademik dan peribadi.
-
-**Contoh:** Selepas melengkapkan projek mereka, pelajar membentangkan kepada rakan sekelas dan pakar, serta memperbaiki kerja mereka berdasarkan maklum balas yang diterima.
+**Contoh:** Selepas pelajaran, murid merekod data penggunaan elektrik di rumah selama seminggu dalam Google Sheets dan berkongsi cadangan penjimatan dengan keluarga.
 
 ## Meneroka Model 3R KPPB: *Relevance, Rigor, Relationships*
 

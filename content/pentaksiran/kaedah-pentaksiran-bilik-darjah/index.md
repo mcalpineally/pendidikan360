@@ -1,11 +1,11 @@
 ---
-title: "3 Kaedah Pentaksiran Bilik Darjah (PBD) dengan Contoh Instrumen"
+title: "3 Kaedah PBD: Lisan, Bertulis dan Pemerhatian (Contoh Instrumen)"
 date: 2026-06-22
 url: "/kaedah-pentaksiran-bilik-darjah/"
 draft: false
 categories: ["Pentaksiran"]
 tags: ["PBD", "Pentaksiran Lisan", "Pentaksiran Bertulis", "Pentaksiran Pemerhatian", "Instrumen Pentaksiran", "Senarai Semak", "Rekod Anekdot"]
-description: "PBD dilaksanakan melalui tiga kaedah utama — lisan, bertulis, dan pemerhatian. Ketahui definisi, instrumen, dan contoh aktiviti setiap kaedah untuk pelaksanaan Pentaksiran Bilik Darjah yang berkesan."
+description: "Tiga kaedah pentaksiran bilik darjah ialah lisan, bertulis dan pemerhatian. Contoh instrumen setiap kaedah, bila menggabungkannya, dan jadual perbandingan ringkas."
 ShowToc: true
 TocOpen: true
 cover:

@@ -1,11 +1,11 @@
 ---
-title: "Maksud KPPB: Kapasiti Pedagogi Pembelajaran Bermakna (IPG)"
+title: "Apa itu KPPB? Maksud, Model KPPB 2.0 dan 6C (Ringkasan IPG)"
 date: 2026-06-17
 url: "/apa-itu-kppb/"
 draft: false
 categories: ["kppb"]
 tags: ["KPPB", "Kapasiti Pedagogi Pembelajaran Bermakna", "6C", "NPDL", "IPGM", "Pembelajaran Bermakna", "PISMP"]
-description: "Maksud KPPB ialah Kapasiti Pedagogi Pembelajaran Bermakna, pendekatan rasmi IPGM sejak 2019. Fahami elemen KPPB, Model KPPB 2.0 dan Kompetensi 6C dalam 5 minit."
+description: "KPPB ialah Kapasiti Pedagogi Pembelajaran Bermakna, pendekatan rasmi IPGM. Maksud ringkas, asal usul, Model KPPB 2.0, Kompetensi 6C dan pelaksanaannya di IPG."
 ShowToc: true
 TocOpen: true
 cover:
