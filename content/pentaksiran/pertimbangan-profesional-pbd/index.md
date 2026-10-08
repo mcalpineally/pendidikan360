@@ -1,11 +1,11 @@
 ---
-title: "Pertimbangan Profesional dalam PBD — Maksud, Prinsip, dan Cara Pelaksanaan"
+title: "Pertimbangan Profesional dalam PBD: 5 Prinsip, 7 Langkah dan Rekod yang Perlu Ada"
 date: 2026-06-23
 url: "/pertimbangan-profesional-pbd/"
 draft: false
 categories: ["Pentaksiran"]
 tags: ["Pertimbangan Profesional", "PBD", "Pentaksiran Bilik Darjah", "Moderasi", "Tahap Penguasaan", "Standard Prestasi"]
-description: "Pertimbangan profesional ialah keputusan guru tentang tahap penguasaan murid berdasarkan pengetahuan, bukti, dan etika profesional. Ketahui maksud rasmi KPM, 5 prinsip utama, cara melaksanakan, dan peranan moderasi dalam PBD."
+description: "Ya, TP dalam PBD ditentukan melalui pertimbangan profesional guru, tetapi mesti disokong bukti. Lihat 5 prinsip, 7 langkah dari instrumen hingga pelaporan, dan rekod yang perlu disimpan untuk moderasi."
 ShowToc: true
 TocOpen: true
 cover:

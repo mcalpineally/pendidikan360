@@ -1,11 +1,11 @@
 ---
-title: "Maksud PBD: Apa itu Pentaksiran Bilik Darjah (Panduan 2026)"
+title: "Maksud PBD: Jadual TP1–TP6, Cara Pelaksanaan dan Beza dengan UASA"
 date: 2026-10-01
 url: "/apa-itu-pbd/"
 draft: false
 categories: ["Pentaksiran"]
 tags: ["PBD", "Pentaksiran Bilik Darjah", "Maksud PBD", "Tahap Penguasaan", "UASA", "Matriks Pembelajaran", "Standard Prestasi"]
-description: "Maksud PBD ialah proses pentaksiran berterusan dalam PdP untuk mengesan perkembangan dan penguasaan murid. Definisi KPM, TP1–TP6, dan beza PBD dengan UASA serta Matriks Tahun 4."
+description: "Apa itu PBD? Pentaksiran Bilik Darjah dilaporkan dalam TP1–TP6, bukan markah. Lihat jadual deskriptor TP, cara guru melaksanakan PBD, dan beza PBD, UASA serta Matriks Tahun 4."
 ShowToc: true
 TocOpen: true
 cover:
@@ -17,7 +17,7 @@ cover:
 
 **PBD (Pentaksiran Bilik Darjah)** ialah pentaksiran yang dijalankan oleh guru secara berterusan semasa pengajaran dan pembelajaran (PdP) untuk mengetahui perkembangan, kemajuan, kebolehan dan penguasaan setiap murid. Keputusannya dilaporkan dalam bentuk **Tahap Penguasaan (TP1 hingga TP6)**, bukan markah atau gred peperiksaan.
 
-Soalan tentang PBD menjadi lebih kerap tahun ini. Mulai **6 hingga 8 Oktober 2026**, murid Tahun 4 di seluruh negara menduduki **Matriks Pembelajaran** yang ditadbir oleh Lembaga Peperiksaan. Ramai ibu bapa dan guru bertanya: adakah PBD sudah tamat? Adakah UPSR kembali dalam bentuk lain?
+Soalan tentang PBD menjadi lebih kerap tahun ini. Pada **6 hingga 8 Oktober 2026**, murid Tahun 4 di seluruh negara menduduki **Matriks Pembelajaran** buat kali pertama, ditadbir oleh Lembaga Peperiksaan. Ramai ibu bapa dan guru bertanya: adakah PBD sudah tamat? Adakah UPSR kembali dalam bentuk lain? Jawapan ringkasnya: tidak. PBD diteruskan seperti biasa, dan keputusan Matriks akan digunakan bersama-sama PBD untuk merancang intervensi di Tahun 5 dan 6.
 
 Artikel ini menjawab kedua-dua soalan itu, bermula dengan definisi rasmi PBD, sejarah ringkasnya, enam Tahap Penguasaan, dan perbezaan PBD dengan UASA serta Matriks Pembelajaran.
 
@@ -127,6 +127,8 @@ Inilah punca kekeliruan paling besar pada 2026. Ketiga-tiganya wujud serentak da
 
 Ketika mengumumkan Matriks Pembelajaran di Dewan Negara, Menteri Pendidikan Fadhlina Sidek menyatakan bahawa Matriks Pembelajaran *"membolehkan pencapaian murid dinilai bagi membantu guru, sekolah, dan KPM untuk merangka intervensi yang lebih berfokus dan intensif."*
 
+Menteri juga menegaskan bahawa *"bahagian paling penting bermula selepas Matriks Pembelajaran selesai dilaksanakan"* ([Kosmo, 25 September 2026](https://www.kosmo.com.my/2026/09/25/matriks-tahun-4-kesan-murid-perlukan-bantuan-lebih-awal-fadhlina/)), iaitu apabila guru menggunakan data itu untuk membantu murid.
+
 Ringkasnya: **Matriks Pembelajaran tidak menggantikan PBD dan bukan UPSR yang dikembalikan.** PBD kekal sebagai pentaksiran harian oleh guru. Matriks ialah ukuran selaras pada dua titik sahaja, iaitu Tahun 4 dan Tingkatan 3, untuk membantu perancangan intervensi.
 
 Jadual, format kertas dan cara keputusan digunakan diterangkan dalam [Matriks Pembelajaran Tahun 4: Jadual, Format dan Cara Keputusan Digunakan](/matriks-pembelajaran-tahun-4/).
@@ -156,6 +158,18 @@ Ya, bagi sekolah rendah. Apabila UPSR dimansuhkan pada April 2021, KPM menyataka
 ### Adakah Matriks Pembelajaran Tahun 4 bermakna UPSR kembali?
 
 Tidak. Matriks Pembelajaran hanya melibatkan Tahun 4 (dan Tingkatan 3 mulai 2027), ditadbir oleh Lembaga Peperiksaan, dan bertujuan mengenal pasti tahap penguasaan lebih awal untuk intervensi. Ia tidak menggantikan PBD.
+
+### Bila PBD dilaksanakan?
+
+Sepanjang tahun, semasa PdP biasa. Tiada minggu khas untuk PBD: guru mentaksir murid ketika mengajar, melalui lisan, bertulis dan pemerhatian. Yang mempunyai tarikh tetap ialah **pelaporan**, iaitu pada pertengahan tahun dan akhir tahun. Jadual sesi persekolahan ada dalam [Takwim Sekolah 2027](/takwim-persekolahan-2027/).
+
+### Adakah PBD ada peperiksaan?
+
+Tidak. PBD bukan peperiksaan dan tiada kertas PBD yang diduduki serentak oleh semua murid. Guru boleh menggunakan ujian bertulis sebagai salah satu kaedah mengumpul bukti, tetapi hasilnya ditafsir sebagai Tahap Penguasaan. Peperiksaan akhir tahun bagi Tahun 1 hingga 3 dimansuhkan mulai 2019. Bagi Tahun 4 hingga 6 dan Tingkatan 1 hingga 3, ujian akhir sesi ialah **UASA**, yang berasingan daripada PBD.
+
+### Markah PBD diberikan dalam bentuk apa?
+
+PBD tidak memberi markah atau gred. Keputusannya dalam bentuk **Tahap Penguasaan, TP1 hingga TP6**, bagi setiap mata pelajaran. TP3 ialah tahap minimum yang disasarkan. Maksud setiap tahap dan cara guru menentukan TP keseluruhan diterangkan dalam [TP1 hingga TP6](/tp1-hingga-tp6/).
 
 ### Berapa kali keputusan PBD dilaporkan kepada ibu bapa?
 
