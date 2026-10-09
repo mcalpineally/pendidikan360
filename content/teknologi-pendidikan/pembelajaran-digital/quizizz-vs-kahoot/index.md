@@ -1,11 +1,11 @@
 ---
-title: "Quizizz vs Kahoot — Mana Lebih Sesuai untuk PDPC Anda? (2026)"
+title: "Wayground (Quizizz) vs Kahoot: Mana Lebih Sesuai untuk PdPC dan PdPR? (2026)"
 date: 2026-06-25
 url: "/quizizz-vs-kahoot/"
 draft: false
 categories: ["Teknologi Pendidikan"]
-tags: ["Quizizz", "Kahoot", "PDPC", "Penilaian Formatif", "Gamifikasi", "Platform Percuma Guru", "Kuiz Interaktif"]
-description: "Quizizz vs Kahoot — dua platform kuiz interaktif yang popular dalam kalangan guru. Ketahui perbezaan sebenar, kelebihan masing-masing, perbandingan harga, dan mana satu lebih sesuai untuk situasi PDPC anda."
+tags: ["Quizizz", "Wayground", "Kahoot", "PDPC", "Penilaian Formatif", "Gamifikasi", "Platform Percuma Guru", "Kuiz Interaktif"]
+description: "Quizizz kini dikenali sebagai Wayground. Perbandingan Wayground (Quizizz) dan Kahoot untuk guru: cara murid menjawab, had pelan percuma 2026, tugasan rumah untuk PdPR, dan mana lebih sesuai untuk kelas anda."
 ShowToc: true
 TocOpen: true
 cover:
@@ -16,6 +16,8 @@ cover:
 ---
 
 Dua platform kuiz interaktif yang paling kerap disebut dalam kalangan guru Malaysia: **Quizizz** dan **Kahoot**. Ramai guru menggunakan keduanya secara bertukar ganti tanpa menyedari bahawa kedua-duanya direka untuk tujuan yang berbeza.
+
+> **Quizizz kini Wayground.** Pada Jun 2025, Quizizz menukar nama kepada **Wayground**. Pautan lama quizizz.com dibawa ke Wayground secara automatik, dan akaun serta kuiz guru kekal. Dalam artikel ini, "Quizizz" dan "Wayground" merujuk kepada platform yang sama.
 
 Artikel ini membandingkan Quizizz dan Kahoot secara langsung supaya para guru dapat membuat keputusan yang tepat berdasarkan situasi PDPC yang sebenar, bukan sekadar ikut populariti.
 
@@ -60,9 +62,9 @@ Kahoot menekankan kuiz masa nyata, melibatkan pelajar dengan pertandingan langsu
 
 **Bergantung kepada skrin utama.** Tanpa projektor atau TV kelas yang berfungsi, pengalaman Kahoot kurang berkesan — soalan perlu dipaparkan di hadapan kelas.
 
-**Tidak sesuai untuk tugasan rumah.** Kahoot direka untuk sesi langsung — tidak ada mod tugasan asinkronus yang kukuh untuk pelajar buat sendiri di rumah.
+**Kurang sesuai untuk tugasan rumah.** Kahoot direka untuk sesi langsung. Ia ada fungsi tugasan kendiri (*assign*) dengan tarikh akhir, tetapi pengalaman dan laporannya tidak sekukuh Quizizz.
 
-**Had pengguna percuma.** Pelan percuma Kahoot mengehadkan sehingga 10 pemain sahaja — ini bermakna untuk kelas penuh, guru perlu bayar atau mencari alternatif.
+**Had pengguna percuma.** Pelan percuma Kahoot kini dipanggil **Kahoot! Go**. Hadnya 10 pemain untuk akaun peribadi dan 40 pemain untuk akaun guru sekolah, bagi sesi langsung dan tugasan.
 
 **Pelajar tidak kekal ingat.** Guru melaporkan bahawa pelajar menikmati sesi tersebut tetapi tidak banyak yang diingati untuk peperiksaan sebenar. Kahoot lebih kepada penglibatan berbanding penguasaan mendalam.
 
@@ -74,7 +76,7 @@ Kahoot menekankan kuiz masa nyata, melibatkan pelajar dengan pertandingan langsu
 
 **Fleksibel — boleh guna dalam kelas atau tugasan rumah.** Quizizz membenarkan pelajar melalui soalan mengikut rentak masing-masing, menjadikannya sesuai untuk tugasan rumah, sesi ulang kaji, dan pengajaran berbeza.
 
-**Pelan percuma lebih murah hati.** Quizizz mempunyai pelan percuma yang lebih murah hati, membenarkan pemain tanpa had, mod tugasan rumah, dan kebanyakan ciri teras. Ini bermakna guru boleh guna Quizizz sepenuhnya untuk kelas besar tanpa perlu bayar.
+**Tugasan rumah dalam pelan percuma.** Pelan percuma Quizizz (Wayground) membenarkan sesi langsung dan tugasan rumah. Ada had bilangan peserta dan ciri AI dalam pelan percuma, jadi semak halaman pelan Wayground sebelum menggunakannya untuk kelas yang sangat besar.
 
 **Analitik lebih terperinci.** Analitik Quizizz menjejaki kemajuan individu dengan lebih tepat berbanding Kahoot. Guru dapat lihat mana pelajar yang perlu bantuan tambahan, dan soalan mana yang ramai tersilap.
 
@@ -92,15 +94,15 @@ Kahoot menekankan kuiz masa nyata, melibatkan pelajar dengan pertandingan langsu
 
 ## Perbandingan Harga 2026
 
-| | **Kahoot (Percuma)** | **Quizizz (Percuma)** |
+| | **Kahoot! Go (Percuma)** | **Wayground / Quizizz (Percuma)** |
 |---|---|---|
-| **Had pemain** | 10 pemain | Tanpa had |
-| **Mod tugasan rumah** | Terhad | ✅ Penuh |
+| **Had pemain** | 10 (peribadi) atau 40 (guru sekolah) | Ada had peserta setiap sesi |
+| **Mod tugasan rumah** | Ada, dalam had pemain | ✅ Ada |
 | **Jenis soalan** | Aneka pilihan, benar/salah | Aneka pilihan, isi tempat kosong, padanan, dan lain-lain |
 | **Laporan analitik** | Asas | Terperinci |
 | **Jana soalan AI** | ✅ | ✅ |
 
-Untuk guru yang mementingkan bajet, Quizizz menawarkan lebih nilai tanpa kos.
+Untuk tugasan rumah dan PdPR, Quizizz (Wayground) biasanya lebih sesuai. Untuk sesi langsung yang bertenaga, Kahoot masih pilihan utama.
 
 ---
 
@@ -141,6 +143,14 @@ Contoh kombinasi dalam satu minggu:
 
 Kahoot lebih sesuai untuk sekolah rendah — suasana bersemangat, warna-warni, dan format kompetitif yang mudah difahami kanak-kanak. Quizizz juga boleh digunakan tetapi lebih sesuai untuk Tahap 2 (Tahun 4–6) ke atas.
 
+### Adakah Quizizz masih wujud?
+
+Ya. Quizizz menukar nama kepada **Wayground** pada Jun 2025. Kuiz dan pautan lama masih berfungsi.
+
+### Mana lebih sesuai untuk PdPR semasa sekolah ditutup?
+
+Quizizz (Wayground), kerana murid boleh menjawab sendiri pada telefon masing-masing sebelum tarikh akhir. Senarai platform lain untuk PdPR ada dalam [20 Platform Permainan Interaktif untuk PdPR](/platform-permainan-interaktif-pdpr/).
+
 ### Bolehkah pelajar guna tanpa akaun?
 
 Ya untuk kedua-duanya. Pelajar hanya perlu masukkan kod atau imbas QR code untuk join — tanpa perlu daftar akaun sendiri.
@@ -151,7 +161,7 @@ Ya. Kedua-dua platform mempunyai mod sekolah yang selamat dan tidak memaparkan i
 
 ### Quizizz ke Kahoot — mana lebih popular di Malaysia?
 
-Kedua-duanya popular. Kahoot lebih dikenali secara umum, tetapi Quizizz semakin mendapat tempat dalam kalangan guru Malaysia kerana pelan percuma yang lebih murah hati dan mod tugasan rumah yang berguna.
+Kedua-duanya popular. Kahoot lebih dikenali secara umum, tetapi Quizizz semakin mendapat tempat dalam kalangan guru Malaysia kerana mod tugasan rumahnya yang berguna.
 
 ### Apakah alternatif selain Quizizz dan Kahoot?
 

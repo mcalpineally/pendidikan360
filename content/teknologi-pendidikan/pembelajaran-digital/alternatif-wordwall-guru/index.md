@@ -5,7 +5,7 @@ url: "/alternatif-wordwall-guru/"
 draft: false
 categories: ["Teknologi Pendidikan"]
 tags: ["Alternatif Wordwall", "Platform Interaktif", "Aplikasi Pembelajaran Digital", "Alat Pembelajaran", "Platform Percuma Guru", "Gamifikasi"]
-description: "Wordwall terhad kepada 5 aktiviti percuma sebulan. Ketahui 7 alternatif platform interaktif yang percuma dan sesuai untuk guru Malaysia — dari Educaplay hingga Genially dan Bamboozle."
+description: "Pelan percuma Wordwall kini terhad kepada 3 aktiviti. Ketahui 7 alternatif platform interaktif yang percuma dan sesuai untuk guru Malaysia — dari Educaplay hingga Genially dan Bamboozle."
 ShowToc: true
 TocOpen: true
 cover:
@@ -15,7 +15,7 @@ cover:
   relative: true
 ---
 
-Wordwall popular kerana mudah dan pantas — aktiviti siap dalam 3 minit. Tapi satu kelemahan besar: **pelan percuma hanya membenarkan 5 aktiviti aktif sebulan**. Guru yang aktif mengajar pelbagai kelas akan cepat mencapai had tersebut.
+Wordwall popular kerana mudah dan pantas — aktiviti siap dalam 3 minit. Tapi satu kelemahan besar: **pelan percuma (Basic) kini hanya membenarkan 3 aktiviti dan 12 templat**. Guru yang aktif mengajar pelbagai kelas akan cepat mencapai had tersebut.
 
 Khabar baiknya: ada beberapa platform lain yang menawarkan fungsi serupa atau lebih baik — dan kebanyakannya lebih murah hati dalam pelan percumanya.
 
@@ -27,7 +27,7 @@ Artikel ini membandingkan 7 alternatif Wordwall yang sesuai untuk guru Malaysia,
 
 Wordwall memang hebat — fungsi tukar format dengan satu klik, antara muka yang mudah, dan pelajar boleh akses tanpa akaun. Tapi ia ada had:
 
-- **Pelan percuma:** 5 aktiviti sahaja sebulan
+- **Pelan percuma:** 3 aktiviti dan 12 templat sahaja
 - **Jenis aktiviti:** Lebih kepada latih tubi dan permainan kata
 - **Maklum balas pelajar:** Terhad — tiada analitik mendalam
 - **Kolaborasi:** Tiada fungsi kerja berkumpulan sebenar
@@ -190,7 +190,7 @@ Quizlet berbeza daripada Wordwall — ia lebih kepada **alat latihan kendiri pel
 | **Educandy** | ✅ Sepenuhnya | 3–5 min | Perbendaharaan kata |
 | **Flippity** | ✅ Sepenuhnya | 10 min | Flashcard + Google Sheets |
 | **Quizlet** | ✅ Terhad | 10 min | Latihan kendiri pelajar |
-| **Wordwall** | ⚠️ 5 aktiviti/bulan | 3 min | Latih tubi pantas |
+| **Wordwall** | ⚠️ 3 aktiviti | 3 min | Latih tubi pantas |
 
 ---
 
@@ -215,9 +215,9 @@ Berintegrasi terus dengan Google ekosistem, sepenuhnya percuma.
 
 ## Soalan Lazim (FAQ)
 
-### Mengapa had Wordwall percuma hanya 5 aktiviti?
+### Mengapa had Wordwall percuma hanya 3 aktiviti?
 
-Wordwall menggunakan model freemium — had 5 aktiviti mendorong guru membeli pelan berbayar (USD 4.99/bulan atau USD 34.99/tahun). Alternatif seperti Educaplay dan Educandy menawarkan aktiviti tanpa had dalam pelan percuma mereka.
+Wordwall menggunakan model freemium — had 3 aktiviti mendorong guru membeli pelan berbayar (Standard USD 57.60 setahun, Pro USD 86.40 setahun). Alternatif seperti Educaplay dan Educandy menawarkan aktiviti tanpa had dalam pelan percuma mereka.
 
 ### Adakah platform-platform ini boleh diakses pelajar tanpa akaun?
 
@@ -235,7 +235,7 @@ Ya, dan ini sebenarnya pendekatan terbaik. Guna Wordwall untuk latih tubi pantas
 
 ## Kesimpulan
 
-Wordwall adalah alat yang bagus — tetapi bukan satu-satunya pilihan, dan had 5 aktiviti percumanya memang mengecewakan. Dengan 7 alternatif dalam artikel ini, guru boleh memilih platform yang paling sesuai mengikut jenis aktiviti, masa persediaan, dan keperluan kelas.
+Wordwall adalah alat yang bagus — tetapi bukan satu-satunya pilihan, dan had 3 aktiviti percumanya memang mengecewakan. Dengan 7 alternatif dalam artikel ini, guru boleh memilih platform yang paling sesuai mengikut jenis aktiviti, masa persediaan, dan keperluan kelas.
 
 Cadangan mudah: cuba **Educandy** minggu ini sebagai alternatif percuma tanpa had, dan **Bamboozle** untuk sesi kuiz berkumpulan yang lebih meriah.
 

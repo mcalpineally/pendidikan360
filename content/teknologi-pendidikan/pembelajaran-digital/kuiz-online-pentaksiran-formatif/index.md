@@ -116,7 +116,7 @@ Untuk tugasan rumah: tetapkan tarikh akhir → kongsi kod atau pautan → pelaja
 
 | | Google Forms | Quizizz | Wordwall |
 |---|---|---|---|
-| **Percuma?** | ✅ Sepenuhnya | ✅ Ciri asas | ✅ 5 aktiviti/bulan |
+| **Percuma?** | ✅ Sepenuhnya | ✅ Ciri asas | ✅ 3 aktiviti |
 | **Markah automatik** | ✅ | ✅ | ✅ |
 | **Integrasi DELIMa/Classroom** | ✅ Langsung | Sebahagian | ❌ |
 | **Analitik terperinci** | ✅ (via Sheets) | ✅ ✅ (terbaik) | Terhad |

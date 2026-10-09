@@ -141,6 +141,8 @@ Fungsi **Magic Write** (AI dalam Canva) juga membolehkan guru jana draf rancanga
 
 ## 4. Quizizz — Penilaian Formatif yang Pelajar Suka
 
+> **Nota:** Quizizz menukar nama kepada **Wayground** pada Jun 2025. Pautan dan kuiz lama masih berfungsi. Perbandingan dengan Kahoot ada dalam [Wayground (Quizizz) vs Kahoot](/quizizz-vs-kahoot/), dan senarai platform untuk PdPR ada dalam [20 Platform Permainan Interaktif untuk PdPR](/platform-permainan-interaktif-pdpr/).
+
 Quizizz adalah platform kuiz interaktif yang mengubah sesi ulang kaji menjadi pengalaman seperti permainan. Ia kini digunakan oleh **lebih 150 juta pelajar** yang menjawab **lebih 1 bilion soalan setiap bulan** — di lebih **120 negara**.
 
 Berbeza dengan Kahoot (yang dikawal oleh guru di skrin hadapan kelas), Quizizz membolehkan setiap pelajar maju mengikut rentak sendiri. Ini bermakna ia sesuai untuk tugasan rumah, latihan bebas, dan kuiz luar talian.
@@ -196,14 +198,14 @@ Satu aktiviti boleh ditukar kepada **format berbeza** dengan satu klik — sama 
 
 ### Kelebihan
 
-- Percuma untuk 5 aktiviti pertama setiap bulan (cukup untuk percubaan)
+- Pelan percuma membenarkan 3 aktiviti (cukup untuk percubaan)
 - Boleh kongsi pautan terus kepada pelajar — tiada akaun diperlukan untuk main
 - Ada mod *offline* untuk sesetengah jenis aktiviti
 - Aktiviti boleh ditetapkan sebagai tugasan rumah dengan masa tamat
 
 ### Had
 
-- Pelan percuma terhad kepada 5 aktiviti aktif — lebih daripada itu perlu pelan berbayar (USD 4.99/bulan)
+- Pelan percuma terhad kepada 3 aktiviti dan 12 templat. Lebih daripada itu perlu pelan berbayar (Standard USD 57.60 setahun)
 - Perpustakaan yang dicipta oleh guru lain boleh digunakan percuma tanpa had
 
 **Cara mula:** [wordwall.net](https://wordwall.net) → Daftar percuma → Pilih templat aktiviti → Masukkan kandungan → Kongsi pautan kepada pelajar.
@@ -232,7 +234,7 @@ Jangan cuba guna semua 5 platform serentak — itu jalan paling pantas untuk ber
 
 ### Adakah semua platform ini benar-benar percuma?
 
-DELIMa, Google Classroom, dan Canva for Education adalah **100% percuma** tanpa had fungsi utama. Quizizz percuma untuk ciri asas tetapi menawarkan ciri lanjutan berbayar. Wordwall percuma untuk 5 aktiviti pertama setiap bulan — selepas itu perlu pelan berbayar.
+DELIMa, Google Classroom, dan Canva for Education adalah **100% percuma** tanpa had fungsi utama. Quizizz percuma untuk ciri asas tetapi menawarkan ciri lanjutan berbayar. Pelan percuma Wordwall kini terhad kepada 3 aktiviti. Selepas itu perlu pelan berbayar.
 
 ### Boleh ke saya guna semua 5 platform serentak?
 
