@@ -23,7 +23,7 @@ Artikel ini menyenaraikan 20 platform permainan interaktif yang sering dikongsi 
 
 ## Status Penutupan Sekolah Akibat Jerebu
 
-> **Dikemas kini 9 Oktober 2026.** Status berubah setiap hari. Rujuk pengumuman rasmi Jabatan Pendidikan Negeri (JPN) atau Pejabat Pendidikan Daerah (PPD) anda.
+> **Dikemas kini 9 Oktober 2026, petang.** Status berubah setiap hari. Rujuk pengumuman rasmi Jabatan Pendidikan Negeri (JPN) atau Pejabat Pendidikan Daerah (PPD) anda.
 
 Pada 8 Oktober 2026, KPM mengumumkan dua syarat penutupan institusi pendidikan berdasarkan bacaan Indeks Pencemaran Udara (IPU) Jabatan Alam Sekitar:
 
@@ -35,6 +35,10 @@ Pada 8 Oktober 2026, KPM mengumumkan dua syarat penutupan institusi pendidikan b
 Institusi yang terjejas perlu melaksanakan **PdPR**, mengikut kemampuan, akses dan keperluan murid serta kesediaan guru. Guru dan Anggota Kumpulan Pelaksana (AKP) dibenarkan bekerja dari rumah. KPM menegaskan ini **bukan penutupan sekolah seluruh negara**. Keputusan dibuat mengikut bacaan IPU di kawasan masing-masing.
 
 Pada 9 Oktober 2026, sekolah di **Johor, Melaka, Negeri Sembilan, Selangor, Kuala Lumpur dan Putrajaya** ditutup, serta daerah **Rompin, Pahang**.
+
+Pada tengah hari yang sama, JPN Perak mengarahkan sesi persekolahan **petang** dihentikan di empat daerah, iaitu **Kinta Utara, Kinta Selatan, Kuala Kangsar dan Kerian**, selepas bacaan IPU di Tasek, Ipoh mencecah 180. Sekolah terjejas melaksanakan PdPR.
+
+{{< bahan slug="jadual-pdpr" tajuk="Jadual PdPR 5 Hari (Boleh Cetak, Percuma)" teks="Jadual harian Tahap 1 dan Tahap 2, versi untuk ibu bapa yang bekerja, senarai semak anak, dan templat mesej kepada guru. PDF 7 muka surat." >}}
 
 ---
 
@@ -253,6 +257,7 @@ PhET daripada University of Colorado Boulder menyediakan simulasi Sains dan Mate
 
 ## Tip untuk Ibu Bapa
 
+- **Gunakan jadual harian.** Jadual PdPR 5 Hari di atas ada versi untuk ibu bapa yang bekerja: tugasan siang tanpa telefon, dan semakan serta hantar tugasan pada waktu malam.
 - **Tanya guru dahulu** platform yang digunakan oleh kelas anak, sebelum memuat turun aplikasi baharu.
 - **Jangan beli langganan** semata-mata kerana tawaran dalam permainan. Hampir semua platform di atas boleh digunakan secara percuma untuk keperluan PdPR.
 - **Duduk bersama anak kecil** untuk 10 minit pertama, terutamanya bagi platform yang ada iklan.
@@ -296,6 +301,7 @@ PdPR akibat jerebu mungkin hanya beberapa hari, tetapi ia menguji kesediaan yang
 
 - Malay Mail, [Schools in Malaysia to close from tomorrow if haze index tops 180, Education Ministry says](https://www.malaymail.com/news/malaysia/2026/10/08/schools-in-malaysia-to-close-from-tomorrow-if-haze-index-tops-180-education-ministry-says/238300) (8 Oktober 2026)
 - Kosmo, [Jerebu: Giliran KL pula tutup semua sekolah esok](https://www.kosmo.com.my/2026/10/08/jerebu-giliran-kl-pula-tutup-semua-sekolah-esok/) (8 Oktober 2026)
+- PerakWorld (Facebook), [Jerebu: Sekolah di empat daerah Perak ditutup sesi petang ini](https://www.facebook.com/perakworld/posts/pfbid02WyP7ouXgvjwgb697VH32G7NtnYHHiL6Rqis4jsdVewDP5ce2xEpBirV9VVNjCaAAl) (9 Oktober 2026), memetik kenyataan JPN Perak
 - Harapan Daily, [Jerebu makin teruk: sekolah ditutup, KPM arah PdPR](https://harapandaily.com/2026/10/09/jerebu-makin-teruk-kawasan-ipu-cecah-180-sekolah-ditutup-kpm-arah-pdpr-dan-bdr/) (9 Oktober 2026)
 - Wordwall, [Price plans](https://wordwall.net/price-plans)
 - Kahoot!, [Player limits](https://support.kahoot.com/hc/en-us/articles/115003072287)
