@@ -247,7 +247,7 @@ PhET daripada University of Colorado Boulder menyediakan simulasi Sains dan Mate
 
 **Satu platform utama untuk satu kelas.** Murid dan ibu bapa keliru jika setiap guru mata pelajaran menggunakan platform berbeza. Jika boleh, panitia atau guru kelas bersetuju menggunakan satu atau dua platform sahaja sepanjang tempoh penutupan.
 
-**Hantar semua pautan melalui satu saluran.** Google Classroom ialah pilihan paling teratur kerana murid sudah mempunyai akaun DELIMa. Panduan lengkap ada dalam [Google Classroom DELIMa: Cara Guna untuk Guru Malaysia](/google-classroom-untuk-guru/).
+**Hantar semua pautan melalui satu saluran.** Google Classroom ialah pilihan paling teratur kerana murid sudah mempunyai akaun DELIMa. Pastikan murid menggunakan portal baharu **DELIMa 3.0** di [d3.delima.edu.my](https://d3.delima.edu.my), kerana DELIMa 2.0 telah beralih sepenuhnya kepada DELIMa 3.0 mulai 1 Oktober 2026. Panduan lengkap ada dalam [Google Classroom DELIMa: Cara Guna untuk Guru Malaysia](/google-classroom-untuk-guru/).
 
 **Kurangkan masa skrin.** PdPR bukan bermaksud murid duduk di hadapan skrin dari pagi hingga petang. Satu permainan interaktif 10 hingga 15 minit untuk setiap mata pelajaran, diikuti tugasan bertulis atau aktiviti di rumah, lebih realistik untuk keluarga dengan satu telefon.
 

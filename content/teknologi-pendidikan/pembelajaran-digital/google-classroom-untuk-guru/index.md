@@ -1,11 +1,11 @@
 ---
-title: "Google Classroom DELIMa: Cara Guna untuk Guru Malaysia (2026)"
+title: "Google Classroom DELIMa 3.0: Cara Guna untuk Guru Malaysia (2026)"
 date: 2026-06-26
 url: "/google-classroom-untuk-guru/"
 draft: false
 categories: ["Teknologi Pendidikan"]
 tags: ["Google Classroom", "DELIMa", "Tugasan Digital", "Pengurusan Kelas", "Platform Percuma Guru", "Pembelajaran Digital"]
-description: "Cara guna Google Classroom dengan akaun DELIMa: log masuk, cipta kelas, jemput murid, hantar tugasan dan beri markah. Panduan langkah demi langkah untuk guru Malaysia."
+description: "DELIMa 2.0 kini beralih ke DELIMa 3.0. Cara log masuk di d3.delima.edu.my, buka Google Classroom, cipta kelas, jemput murid, hantar tugasan dan beri markah. Panduan guru Malaysia."
 ShowToc: true
 TocOpen: true
 cover:
@@ -16,6 +16,8 @@ cover:
 ---
 
 Google Classroom mempunyai lebih 150 juta pengguna berdaftar dan beroperasi di 230 negara dan wilayah — menjadikannya platform pengurusan pembelajaran (LMS) paling meluas digunakan di dunia. Di Malaysia, guru sekolah yang mempunyai akaun DELIMa sudah mempunyai akses penuh kepada Google Classroom secara percuma — tanpa perlu daftar berasingan.
+
+> **Kemas kini 9 Oktober 2026: DELIMa 3.0.** KPM melancarkan DELIMa 3.0 pada 20 Julai 2026. Menurut Bahagian Sumber dan Teknologi Pendidikan (BSTP), mulai **1 Oktober 2026** semua akses dan perkhidmatan DELIMa 2.0 beralih sepenuhnya kepada DELIMa 3.0 di **d3.delima.edu.my**. Akaun DELIMa dan Google Classroom anda kekal sama; yang berubah ialah portal untuk masuk.
 
 Artikel ini membimbing guru dari langkah pertama hingga penggunaan harian — termasuk cara cipta kelas, hantar tugasan, semak kerja pelajar, dan beri markah terus dalam platform.
 
@@ -35,16 +37,32 @@ Google Workspace for Education telah melayani lebih 170 juta pelajar dan pendidi
 
 ---
 
-## Akses Google Classroom Melalui DELIMa
+## Akses Google Classroom Melalui DELIMa 3.0
 
-Guru sekolah Malaysia tidak perlu daftar akaun Google berasingan. Akaun **DELIMa** (Digital Educational Learning Initiative Malaysia) yang dibekalkan oleh KPM sudah berasaskan **Google Workspace for Education** — bermakna Google Classroom sudah ada dalam akaun DELIMa guru.
+Guru dan murid sekolah KPM tidak perlu daftar akaun Google berasingan. Akaun **DELIMa** (Digital Educational Learning Initiative Malaysia) yang dibekalkan oleh KPM berasaskan **Google Workspace for Education**, jadi Google Classroom sudah ada dalam akaun DELIMa.
 
-**Cara akses:**
+**Cara akses (DELIMa 3.0):**
 
-1. Log masuk ke akaun DELIMa anda di [delima.moe.edu.my](https://delima.moe.edu.my)
-2. Klik ikon grid (9 titik) di sudut atas kanan
-3. Pilih **Classroom** daripada senarai aplikasi
-4. Atau pergi terus ke [classroom.google.com](https://classroom.google.com) dan log masuk dengan akaun DELIMa
+1. Buka portal rasmi [d3.delima.edu.my](https://d3.delima.edu.my) dan klik **Log Masuk**
+2. Masukkan akaun DELIMa (ID DELIMa) dan kata laluan anda, kemudian lengkapkan pengesahan jika diminta
+3. Selepas masuk, paparan disesuaikan mengikut peranan anda (guru, murid atau pentadbir). Pilih **Google Classroom** daripada senarai aplikasi
+4. Atau pergi terus ke [classroom.google.com](https://classroom.google.com) dan log masuk dengan akaun DELIMa yang sama
+
+> **Tip untuk guru:** minta murid dan ibu bapa kemas kini *bookmark* daripada pautan DELIMa 2.0 yang lama kepada d3.delima.edu.my. Ramai murid gagal masuk semasa PdPR hanya kerana menggunakan pautan lama.
+
+### Apa yang baharu dalam DELIMa 3.0?
+
+| Ciri | Kegunaan |
+|---|---|
+| **DETa** | Pembantu pintar berasaskan AI. Murid boleh bertanya tentang pelajaran; guru boleh mendapatkan idea PdP dan rangka RPH |
+| **16 aplikasi AI** | KPM menyatakan 16 aplikasi khusus berasaskan AI disepadukan ke dalam DELIMa 3.0, termasuk untuk pemarkahan, analisis dan mengesan jurang pembelajaran |
+| **Laluan Pembelajaran** | Cadangan laluan pembelajaran mengikut keperluan murid |
+| **Kelas Digital** | Ruang untuk murid melihat dan menghantar tugasan, dan untuk guru memberi tugasan |
+| **Hab Latihan Digital** | Kursus dalam talian untuk guru dan murid |
+| **Sijil & Lencana Digital** | Rekod sijil, lencana dan pencapaian dalam Portfolio Digital |
+| **Pengumuman** | Makluman rasmi daripada KPM, JPN, PPD dan sekolah |
+
+Menurut KPM, kadar pengguna aktif DELIMa antara 1 Januari dan 21 Julai 2026 ialah **97.73% bagi guru** dan **37.32% bagi murid**. Jurang ini menunjukkan ramai murid belum biasa menggunakan akaun DELIMa mereka, satu cabaran besar apabila sekolah ditutup dan PdPR bermula.
 
 ---
 
@@ -190,9 +208,17 @@ Pelajar yang menggunakan akaun DELIMa mereka sudah mempunyai akses automatik. Un
 
 Ya. Guru boleh aktifkan **ringkasan e-mel penjaga** dalam tetapan Classroom — ibu bapa akan terima laporan mingguan atau harian tentang tugasan yang belum diselesaikan oleh anak mereka.
 
+### Adakah DELIMa 2.0 masih boleh digunakan?
+
+Menurut BSTP, mulai 1 Oktober 2026 semua akses dan perkhidmatan DELIMa 2.0 beralih sepenuhnya kepada DELIMa 3.0. Gunakan portal [d3.delima.edu.my](https://d3.delima.edu.my). Akaun DELIMa yang sama digunakan; tiada pendaftaran baharu.
+
+### Apa itu DETa dalam DELIMa 3.0?
+
+DETa ialah pembantu pintar berasaskan AI dalam DELIMa 3.0 yang membantu guru dan murid menggunakan sumber rasmi KPM. Murid boleh bertanya soalan pembelajaran, manakala guru boleh mendapatkan idea PdP. Untuk lebih banyak idea menggunakan AI dalam pengajaran, lihat [10 Prompt AI untuk Guru](/10-prompt-ai-bahan-pengajaran-guru/).
+
 ### Apakah perbezaan antara Google Classroom dan DELIMa?
 
-DELIMa adalah platform ekosistem KPM yang menggunakan Google Workspace sebagai asas. Google Classroom adalah satu aplikasi dalam ekosistem tersebut — untuk pengurusan kelas dan tugasan. DELIMa juga mengandungi aplikasi lain seperti DELIMaFLiX (video pembelajaran), Gmail, Drive, dan Meet.
+DELIMa adalah platform ekosistem KPM yang menggunakan Google Workspace sebagai asas. Google Classroom adalah satu aplikasi dalam ekosistem tersebut — untuk pengurusan kelas dan tugasan. DELIMa juga mengandungi aplikasi lain seperti DELIMaFLiX (video pembelajaran), Gmail, Drive dan Meet, serta ciri baharu DELIMa 3.0 seperti DETa dan Kelas Digital.
 
 ### Bolehkah Google Classroom digunakan tanpa internet?
 
@@ -210,4 +236,4 @@ Dengan akses percuma melalui DELIMa, tiada sebab untuk tidak mencuba. Mulakan de
 
 ---
 
-*Maklumat dalam artikel ini bersumber daripada About Chromebooks — Google for Education User Statistics (Februari 2026), ElectroIQ — Google Classroom Statistics (2026), dan laman rasmi Google Classroom (classroom.google.com) serta DELIMa KPM.*
+*Maklumat dalam artikel ini bersumber daripada About Chromebooks — Google for Education User Statistics (Februari 2026), ElectroIQ — Google Classroom Statistics (2026), dan laman rasmi Google Classroom (classroom.google.com) serta DELIMa KPM. Maklumat DELIMa 3.0 daripada [Bernama, 23 Julai 2026](https://bernama.com/en//general/news.php?id=2584910) dan makluman rasmi BSTP di Facebook (29 September 2026).*
