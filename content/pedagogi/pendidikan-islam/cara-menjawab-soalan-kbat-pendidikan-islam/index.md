@@ -1,6 +1,7 @@
 ---
 title: "Cara Menjawab Soalan KBAT Pendidikan Islam SPM: Teknik, Format dan Contoh Jawapan"
 date: 2026-10-12
+lastmod: 2026-10-12
 url: "/cara-menjawab-soalan-kbat-pendidikan-islam/"
 draft: false
 categories: ["Pedagogi"]
@@ -15,7 +16,7 @@ cover:
   relative: true
 ---
 
-SPM 2026 bermula pada **26 Oktober 2026**. Bagi Pendidikan Islam, soalan yang paling kerap membuat calon kehilangan markah bukan soalan hafalan, tetapi soalan **KBAT (Kemahiran Berfikir Aras Tinggi)**: soalan yang meminta calon mengaplikasi, menganalisis atau menilai, bukan sekadar menyatakan fakta.
+Kertas 1 Pendidikan Islam SPM 2026 (1223/1) diduduki pada **Rabu, 25 November 2026, 8.15 hingga 10.45 pagi**, dalam minggu pertama peperiksaan bertulis (23 November hingga 17 Disember). Bagi Pendidikan Islam, soalan yang paling kerap membuat calon kehilangan markah bukan soalan hafalan, tetapi soalan **KBAT (Kemahiran Berfikir Aras Tinggi)**: soalan yang meminta calon mengaplikasi, menganalisis atau menilai, bukan sekadar menyatakan fakta.
 
 Artikel ini menerangkan cara menjawab soalan KBAT Pendidikan Islam secara praktikal: format kertas SPM yang sebenar, kata tugas mengikut aras, cara markah biasanya diberi, formula menulis jawapan, dan contoh jawapan untuk soalan 2 dan 4 markah.
 
@@ -219,7 +220,9 @@ Kertas 2 ialah ujian lisan tilawah al-Quran, hafazan dan bacaan hadis. Ia menguj
 
 ## Kesimpulan
 
-Soalan KBAT Pendidikan Islam bukan soalan yang mustahil. Kuncinya ialah membaca kata tugas dengan teliti, mengaitkan jawapan dengan situasi dalam soalan, dan menulis setiap isi dengan formula **isi + huraian + sokongan**. Dengan SPM 2026 bermula pada 26 Oktober, latih sekurang-kurangnya satu soalan aplikasi, analisis dan menilai setiap hari menggunakan formula ini.
+Soalan KBAT Pendidikan Islam bukan soalan yang mustahil. Kuncinya ialah membaca kata tugas dengan teliti, mengaitkan jawapan dengan situasi dalam soalan, dan menulis setiap isi dengan formula **isi + huraian + sokongan**. Dengan Kertas 1 pada 25 November, latih sekurang-kurangnya satu soalan aplikasi, analisis dan menilai setiap hari menggunakan formula ini.
+
+Untuk merancang baki masa sebelum peperiksaan bertulis, lihat [pelan ulang kaji 6 minggu SPM 2026](/persediaan-spm-2026/).
 
 > **Baca seterusnya:** [TP1 hingga TP6](/tp1-hingga-tp6/) · [30 Aktiviti Pendidikan Islam untuk Guru](/aktiviti-pendidikan-islam/) · [10 Prompt AI untuk Guru](/10-prompt-ai-bahan-pengajaran-guru/)
 
@@ -229,5 +232,6 @@ Soalan KBAT Pendidikan Islam bukan soalan yang mustahil. Kuncinya ialah membaca 
 
 - Lembaga Peperiksaan, *Format Pentaksiran SPM Mulai Tahun 2021: Pendidikan Islam (Kod 1223)*, 2020
 - Kementerian Pendidikan Malaysia, [Laporan Analisis Keputusan SPM 2020](https://cdn.thestar.com.my/Content/PDF/Laporan_Analisis_Keputusan_SPM_2020.pdf)
-- Portal Berita RTM, [SPM 2026 bermula 26 Oktober ini](https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/spm-2026-bermula-26-oktober-ini/)
+- New Straits Times, [420,879 candidates to sit SPM written exams from Nov 23 to Dec 17](https://www.nst.com.my/amp/news/nation/2026/08/1513647/updated-420879-candidates-sit-spm-written-exams-nov-23-dec-17) (18 Ogos 2026)
+- Lembaga Peperiksaan, Jadual Waktu Peperiksaan SPM 2026 (18 Ogos 2026)
 - Definisi KBAT KPM (2013) seperti dipetik dalam [kajian terbitan Penerbit UTHM](https://penerbit.uthm.edu.my/ojs/index.php/oj-tp/article/download/4795/2871/18446)

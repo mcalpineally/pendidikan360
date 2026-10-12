@@ -1,5 +1,6 @@
 {{- /* Kotak bahan percuma. Guna dalam artikel:
      {{< bahan slug="takwim-2027" tajuk="Takwim Sekolah 2027 (Boleh Cetak)" teks="Kumpulan A & B, sedia dicetak." >}}
+     Pilihan: segmen="pelajar" (pilihan lalai borang: guru)
      Borang dihantar ke bahan.pendidikan360.my */ -}}
 {{- $slug := .Get "slug" -}}
 {{- $site := "https://bahan.pendidikan360.my" -}}
@@ -10,11 +11,11 @@
   <form class="p360-bahan__form" method="post" action="{{ $site }}/{{ $slug }}">
     <input type="text" name="name" placeholder="Nama" maxlength="80" required aria-label="Nama">
     <input type="email" name="email" placeholder="E-mel" maxlength="120" required aria-label="E-mel">
+    {{- $seg := .Get "segmen" | default "guru" }}
     <select name="segment" aria-label="Saya seorang">
-      <option value="guru">Saya guru</option>
-      <option value="ibubapa">Saya ibu bapa</option>
-      <option value="ipg">Saya pelajar IPG</option>
-      <option value="lain">Lain-lain</option>
+      {{- range slice (slice "guru" "Saya guru") (slice "ibubapa" "Saya ibu bapa") (slice "pelajar" "Saya pelajar") (slice "ipg" "Saya pelajar IPG") (slice "lain" "Lain-lain") }}
+      <option value="{{ index . 0 }}"{{ if eq (index . 0) $seg }} selected{{ end }}>{{ index . 1 }}</option>
+      {{- end }}
     </select>
     <input type="hidden" name="source" value="{{ .Page.Permalink }}">
     <div style="position:absolute;left:-9999px" aria-hidden="true"><input type="text" name="website" tabindex="-1" autocomplete="off"></div>
