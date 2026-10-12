@@ -19,6 +19,8 @@ cover:
 
 Menurut KPM, keputusannya digunakan untuk mengenal pasti tahap penguasaan murid supaya guru dan sekolah dapat membuat intervensi lebih awal di Tahun 5 dan 6. Ia tidak digunakan untuk menyusun kedudukan murid atau sekolah, dan bukan syarat kemasukan ke sekolah berasrama penuh atau MRSM.
 
+> **Kemas kini 12 Oktober 2026 (Johor):** akibat penutupan sekolah kerana jerebu, Jabatan Pendidikan Negeri Johor menangguhkan pelaksanaan MPT4 dan pentaksiran lain di Johor. Tarikh baharu akan dimaklumkan kemudian ([Portal Berita RTM](https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/pelaksanaan-mpt4-pentaksiran-lain-ditangguhkan-jpnj/)). Senarai sekolah yang ditutup ada dalam [PdPR Jerebu 2026](/platform-permainan-interaktif-pdpr/).
+
 Artikel ini merumuskan maklumat rasmi yang telah diumumkan oleh KPM dan Lembaga Peperiksaan, supaya ibu bapa dan guru tahu apa yang perlu dijangka minggu ini.
 
 ---

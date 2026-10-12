@@ -23,7 +23,7 @@ Artikel ini menyenaraikan 20 platform permainan interaktif yang sering dikongsi 
 
 ## Status Penutupan Sekolah Akibat Jerebu
 
-> **Dikemas kini 9 Oktober 2026, petang.** Status berubah setiap hari. Rujuk pengumuman rasmi Jabatan Pendidikan Negeri (JPN) atau Pejabat Pendidikan Daerah (PPD) anda.
+> **Dikemas kini 12 Oktober 2026, malam.** Status berubah setiap hari. Rujuk pengumuman rasmi Jabatan Pendidikan Negeri (JPN) atau Pejabat Pendidikan Daerah (PPD) anda.
 
 Pada 8 Oktober 2026, KPM mengumumkan dua syarat penutupan institusi pendidikan berdasarkan bacaan Indeks Pencemaran Udara (IPU) Jabatan Alam Sekitar:
 
@@ -34,9 +34,15 @@ Pada 8 Oktober 2026, KPM mengumumkan dua syarat penutupan institusi pendidikan b
 
 Institusi yang terjejas perlu melaksanakan **PdPR**, mengikut kemampuan, akses dan keperluan murid serta kesediaan guru. Guru dan Anggota Kumpulan Pelaksana (AKP) dibenarkan bekerja dari rumah. KPM menegaskan ini **bukan penutupan sekolah seluruh negara**. Keputusan dibuat mengikut bacaan IPU di kawasan masing-masing.
 
-Pada 9 Oktober 2026, sekolah di **Johor, Melaka, Negeri Sembilan, Selangor, Kuala Lumpur dan Putrajaya** ditutup, serta daerah **Rompin, Pahang**.
+### Kawasan yang ditutup
 
-Pada tengah hari yang sama, JPN Perak mengarahkan sesi persekolahan **petang** dihentikan di empat daerah, iaitu **Kinta Utara, Kinta Selatan, Kuala Kangsar dan Kerian**, selepas bacaan IPU di Tasek, Ipoh mencecah 180. Sekolah terjejas melaksanakan PdPR.
+| Tarikh | Sekolah ditutup (PdPR) |
+|---|---|
+| **Jumaat, 9 Okt** | Semua sekolah di Johor, Melaka, Negeri Sembilan, Selangor, Kuala Lumpur dan Putrajaya, serta daerah Rompin (Pahang). Di Perak, sesi petang dihentikan di beberapa daerah termasuk Kinta Utara, Kinta Selatan dan Kuala Kangsar |
+| **Isnin, 12 Okt** | Semua sekolah di **Johor** (diumumkan ditutup 12 hingga 16 Oktober). Di Selangor dan KL, sekolah di bawah **PPD Bangsar Pudu, Hulu Langat, Gombak dan Petaling Perdana**. Negeri lain beroperasi seperti biasa |
+| **Selasa, 13 Okt** | Semua sekolah di **Johor, Melaka, Negeri Sembilan dan Putrajaya**. Di Selangor, sekolah di bawah **PPD Hulu Langat, Petaling Perdana, Kuala Langat dan Sepang**. Di Pahang, **PPD Kuantan dan Rompin** |
+
+Di Johor, JPN Johor turut menangguhkan **Matriks Pembelajaran Tahun 4 (MPT4)** dan pentaksiran lain, serta Pentaksiran Kemasukan Sekolah Khusus (PKSK) yang dijadualkan pada 12 Oktober. Tarikh baharu akan diumumkan kemudian.
 
 {{< bahan slug="jadual-pdpr" tajuk="Jadual PdPR 5 Hari (Boleh Cetak, Percuma)" teks="Jadual harian Tahap 1 dan Tahap 2, versi untuk ibu bapa yang bekerja, senarai semak anak, dan templat mesej kepada guru. PDF 7 muka surat." >}}
 
@@ -301,7 +307,11 @@ PdPR akibat jerebu mungkin hanya beberapa hari, tetapi ia menguji kesediaan yang
 
 - Malay Mail, [Schools in Malaysia to close from tomorrow if haze index tops 180, Education Ministry says](https://www.malaymail.com/news/malaysia/2026/10/08/schools-in-malaysia-to-close-from-tomorrow-if-haze-index-tops-180-education-ministry-says/238300) (8 Oktober 2026)
 - Kosmo, [Jerebu: Giliran KL pula tutup semua sekolah esok](https://www.kosmo.com.my/2026/10/08/jerebu-giliran-kl-pula-tutup-semua-sekolah-esok/) (8 Oktober 2026)
-- PerakWorld (Facebook), [Jerebu: Sekolah di empat daerah Perak ditutup sesi petang ini](https://www.facebook.com/perakworld/posts/pfbid02WyP7ouXgvjwgb697VH32G7NtnYHHiL6Rqis4jsdVewDP5ce2xEpBirV9VVNjCaAAl) (9 Oktober 2026), memetik kenyataan JPN Perak
+- Free Malaysia Today, [Sekolah di 3 daerah Perak ditutup akibat jerebu](https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/09/sekolah-di-3-daerah-perak-ditutup-akibat-jerebu) (9 Oktober 2026)
+- The Star, [Haze: All schools in Johor to remain closed for another five days from Oct 12-16](https://www.thestar.com.my/news/nation/2026/10/10/haze-all-schools-in-johor-to-remain-closed-for-another-five-days-from-oct-12-16) (10 Oktober 2026)
+- The Star, [Haze: Schools in four districts in KL and Selangor closed tomorrow](https://www.thestar.com.my/news/nation/2026/10/11/haze-schools-in-four-districts-in-kl-and-selangor-closed-tomorrow) (11 Oktober 2026)
+- Malay Mail, [Fadhlina: Schools closed tomorrow in Johor, Melaka, Negeri Sembilan, Putrajaya as haze worsens](https://www.malaymail.com/news/malaysia/2026/10/12/fadhlina-schools-closed-tomorrow-in-johor-melaka-negeri-sembilan-putrajaya-as-haze-worsens/238832) (12 Oktober 2026)
+- Portal Berita RTM, [Pelaksanaan MPT4, pentaksiran lain ditangguhkan - JPNJ](https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/pelaksanaan-mpt4-pentaksiran-lain-ditangguhkan-jpnj/) (11 Oktober 2026)
 - Harapan Daily, [Jerebu makin teruk: sekolah ditutup, KPM arah PdPR](https://harapandaily.com/2026/10/09/jerebu-makin-teruk-kawasan-ipu-cecah-180-sekolah-ditutup-kpm-arah-pdpr-dan-bdr/) (9 Oktober 2026)
 - Wordwall, [Price plans](https://wordwall.net/price-plans)
 - Kahoot!, [Player limits](https://support.kahoot.com/hc/en-us/articles/115003072287)

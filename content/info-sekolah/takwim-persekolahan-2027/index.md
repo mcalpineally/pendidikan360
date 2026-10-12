@@ -1,11 +1,11 @@
 ---
-title: "Takwim Sekolah 2027 KPM (PDF): Cuti Sekolah Kumpulan A & B"
+title: "Takwim Sekolah 2027: Tarikh Cuti Kumpulan A & B (PDF Percuma)"
 date: 2026-10-04
 url: "/takwim-persekolahan-2027/"
 draft: false
 categories: ["Info Sekolah"]
 tags: ["Takwim Sekolah 2027", "Takwim Persekolahan 2027", "Jadual Persekolahan 2027", "Cuti Sekolah 2027", "Kalendar Akademik 2027", "Cuti Perayaan KPM", "Kumpulan A", "Kumpulan B"]
-description: "Takwim sekolah 2027 KPM lengkap: cuti penggal, cuti perayaan dan cuti umum untuk Kumpulan A & B. Sekolah buka semula 8 Jun, bukan 6/7 Jun. PDF A4 percuma."
+description: "Sekolah buka 4 Jan 2027. Cuti penggal 1: 5–13 Mac (A), 6–14 Mac (B). Cuti pertengahan tahun: 21 Mei–5 Jun (A), 22 Mei–6 Jun (B). Semua tarikh cuti Kumpulan A & B, mengikut negeri. PDF A4 percuma."
 ShowToc: true
 TocOpen: false
 cover:
