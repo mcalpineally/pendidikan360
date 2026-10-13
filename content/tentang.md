@@ -13,6 +13,8 @@ personSchema: true
 
 Pendidikan360 ialah laman rujukan praktikal untuk guru, guru pelatih dan pensyarah di Malaysia. Fokusnya ialah perkara yang anda perlukan di bilik darjah: Pembelajaran Bermakna (KPPB), Pentaksiran Bilik Darjah (PBD), pembelajaran digital, teknologi pendidikan dan penggunaan AI dalam pengajaran.
 
+Laman ini juga menyediakan maklumat sekolah dan bahan belajar untuk **ibu bapa dan pelajar**, seperti takwim persekolahan, panduan PdPR dan persediaan peperiksaan.
+
 ## Siapa di sebalik laman ini
 
 Saya **Mohd Alpian Ali**, pensyarah di Institut Pendidikan Guru Malaysia (IPGM), Kampus Sultan Abdul Halim, Sungai Petani, Kedah. Bidang saya ialah Pendidikan Islam dan AI dalam pendidikan, dan saya telah mengajar serta mendidik bakal guru selama kira-kira 20 tahun.
@@ -27,13 +29,20 @@ Setiap hari saya bekerja dengan guru pelatih yang sedang belajar merancang PdP, 
 
 Jika anda menemui fakta yang kurang tepat, sila maklumkan. Pembetulan akan dibuat secepat mungkin.
 
-## Mahu bacaan yang lebih mendalam?
+## Bahan percuma
 
-Pendidikan360 menumpukan soal *bagaimana*: cara melaksanakan sesuatu di bilik darjah. Untuk soal *mengapa*, iaitu teori pembelajaran, psikologi, sosiologi dan falsafah pendidikan, saya menulis esei yang lebih ilmiah di laman peribadi saya.
+Templat dan bahan boleh cetak disediakan secara percuma di [bahan.pendidikan360.my](https://bahan.pendidikan360.my/). Isi nama dan e-mel, dan bahan dihantar terus ke e-mel anda. Antaranya:
 
-**[Baca wacana pendidikan di mohdalpianali.com/pendidikan →](https://mohdalpianali.com/pendidikan/)**
+- **Untuk guru:** Takwim Sekolah 2027 dan 120 Contoh Ulasan PBD TP1 hingga TP6
+- **Untuk ibu bapa:** Jadual PdPR 5 Hari untuk anak yang belajar di rumah
+- **Untuk pelajar:** Templat Jadual Belajar Mingguan, Jadual Ulang Kaji Berjarak, Templat Nota Cornell dan Senarai Semak Sebelum Peperiksaan
 
-Di sana anda akan menemui tulisan seperti analisis Falsafah Pendidikan Kebangsaan, serta siri tentang minda dan pembelajaran, pendidikan dan masyarakat, dan pedagogi serta ilmu.
+## Bacaan lanjut di laman peribadi saya
+
+Pendidikan360 menumpukan soal *bagaimana*: cara melaksanakan sesuatu di bilik darjah. Di laman peribadi saya, ada dua bahagian yang melengkapkannya:
+
+- **[Wacana pendidikan](https://mohdalpianali.com/pendidikan/)** untuk soal *mengapa*: esei yang lebih ilmiah tentang teori pembelajaran, psikologi, sosiologi dan falsafah pendidikan, termasuk analisis Falsafah Pendidikan Kebangsaan.
+- **[Pembelajaran sepanjang hayat](https://mohdalpianali.com/pembelajaran/)** untuk sesiapa yang sedang belajar, sama ada pelajar, guru atau pekerja yang ingin menyambung pengajian: teknik belajar yang disokong kajian, cara menggunakan AI dengan betul, dan laluan untuk terus belajar.
 
 ## Kedai Pendidikan360
 
@@ -41,6 +50,7 @@ Laman ini juga mempunyai kedai produk digital di [kedai.pendidikan360.my](https:
 
 ## Hubungi
 
+- Facebook: [Pendidikan360my](https://www.facebook.com/people/Pendidikan360my/61594624793715/)
 - E-mel: [alpianali@pendidikan360.my](mailto:alpianali@pendidikan360.my)
 - Threads: [@mohd.alpian.ali](https://www.threads.net/@mohd.alpian.ali)
 - Laman peribadi: [mohdalpianali.com](https://mohdalpianali.com/)
