@@ -54,12 +54,8 @@ copyright = "© 2026 Pendidikan360 · Dikendalikan oleh [Mohd Alpian Ali](/tenta
     url = "/categories/ai-pendidikan/"
 
 [[params.socialIcons]]
-  name = "facebook"
-  url = "https://www.facebook.com/people/Pendidikan360my/61594624793715/"
-
-[[params.socialIcons]]
   name = "email"
-  url = "mailto:alpianali@pendidikan360.my"
+  url = "mailto:admin@pendidikan360.my"
 
 [[params.socialIcons]]
   name = "rss"
