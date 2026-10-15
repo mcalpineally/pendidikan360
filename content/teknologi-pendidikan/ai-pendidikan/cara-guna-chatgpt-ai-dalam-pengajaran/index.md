@@ -208,6 +208,8 @@ Mulakan dengan satu prompt. Jimatkan satu jam minggu ini. Kemudian kembangkan da
 
 > **Baca seterusnya:** Sekiranya anda baru dengan platform digital, mulakan dengan [5 platform pembelajaran digital percuma terbaik untuk guru Malaysia](/5-platform-pembelajaran-digital-percuma/) sebelum beralih kepada alat AI.
 
+> **Baca juga:** Mahu AI yang menjawab berdasarkan bahan anda sendiri, seperti DSKP atau buku teks? Lihat [Cara Guna NotebookLM (kini Gemini Notebook)](/cara-guna-notebooklm/).
+
 ---
 
 *Data dalam artikel ini bersumber daripada: Demand Sage — AI in Education Statistics (2026), EdWeek Research Center (2025), Higher Education Policy Institute (2025), UNESCO AI in Education Report (2025), dan laporan platform DELIMa KPM (Ogos 2024).*

@@ -166,6 +166,8 @@ Simpan 10 prompt ini, salin yang paling kerap diperlukan, dan ubah suai mengikut
 
 > **Baca seterusnya:** Jika anda baru bermula dengan AI dalam pengajaran, kembali kepada [Cara Guna ChatGPT dan AI dalam Pengajaran — Panduan Guru Malaysia](/cara-guna-chatgpt-ai-dalam-pengajaran/) untuk asas yang lebih lengkap.
 
+> **Baca juga:** [Cara Guna NotebookLM (kini Gemini Notebook)](/cara-guna-notebooklm/): bina soalan, rubrik dan bahan ulang kaji daripada DSKP dan buku teks anda sendiri.
+
 ---
 
 *Rangka kerja dan prompt dalam artikel ini disesuaikan daripada penyelidikan Structural Learning (2026), The 74 Million — AI Prompts Every Teacher Should Know (2026), dan Science Fix — AI Prompts for Teachers (2026), dengan pengubahsuaian konteks untuk guru Malaysia.*
