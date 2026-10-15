@@ -1,7 +1,7 @@
 ---
 title: "Tentang Pendidikan360"
 url: "/tentang/"
-description: "Pendidikan360 dikendalikan oleh Mohd Alpian Ali, pensyarah Institut Pendidikan Guru Malaysia dengan kira-kira 20 tahun pengalaman mendidik bakal guru."
+description: "Pendidikan360 dikendalikan oleh Mohd Alpian Ali, pensyarah IPG sejak 2013 dan bekas guru Bahasa Inggeris SMK, dengan 20 tahun pengalaman dalam pendidikan sejak 2006."
 summary: "Siapa di sebalik Pendidikan360 dan untuk siapa laman ini ditulis."
 ShowReadingTime: false
 ShowShareButtons: false
@@ -17,7 +17,25 @@ Laman ini juga menyediakan maklumat sekolah dan bahan belajar untuk **ibu bapa d
 
 ## Siapa di sebalik laman ini
 
-Saya **Mohd Alpian Ali**, pensyarah di Institut Pendidikan Guru Malaysia (IPGM), Kampus Sultan Abdul Halim, Sungai Petani, Kedah. Bidang saya ialah Pendidikan Islam dan AI dalam pendidikan, dan saya telah mengajar serta mendidik bakal guru selama kira-kira 20 tahun.
+Saya **Mohd Alpian Ali**, pensyarah di Institut Pendidikan Guru Malaysia (IPGM), Kampus Sultan Abdul Halim, Sungai Petani, Kedah. Saya mula mengajar pada tahun 2006, iaitu 20 tahun dalam bidang pendidikan: tujuh tahun sebagai guru sekolah menengah, dan sejak 2013 sebagai pensyarah yang mendidik bakal guru. Minat semasa saya ialah penggunaan AI dalam pendidikan.
+
+### Latar belakang akademik
+
+| Tahun | Kelayakan |
+|---|---|
+| 2001 | Bachelor of Islamic Revealed Knowledge and Heritage (Fiqh & Usul al-Fiqh), Universiti Islam Antarabangsa Malaysia (UIAM) |
+| 2004 | Master of Education (Educational Administration), UIAM |
+| 2005 | Diploma Pendidikan (TESL), Maktab Perguruan Ilmu Khas (kini IPG Kampus Ilmu Khas) |
+
+### Pengalaman
+
+| Tahun | Tugas |
+|---|---|
+| 2006 – 2012 | Guru Bahasa Inggeris di dua sekolah menengah kebangsaan di Terengganu, mengajar Tingkatan 1 hingga 5 dan MUET. Pemeriksa kertas Bahasa Inggeris SPM selama dua tahun. |
+| 2013 – 2019 | Pensyarah, Jabatan Ilmu Pendidikan, IPG: psikologi pendidikan, sosiologi pendidikan, pengurusan bilik darjah, pedagogi dan falsafah pendidikan Malaysia. |
+| 2020 – kini | Pensyarah, Jabatan Pendidikan Islam dan Moral, IPG: Pendidikan Islam dan Pendidikan Moral. |
+
+Pengalaman ini membentuk kandungan Pendidikan360. Tahun-tahun di bilik darjah sekolah menengah, termasuk menanda kertas SPM, menjadi asas kepada panduan peperiksaan dan pentaksiran. Tujuh tahun di Jabatan Ilmu Pendidikan menjadi asas kepada artikel pedagogi, pengurusan bilik darjah dan Pembelajaran Bermakna. Latar belakang Fiqh dan Usul al-Fiqh, serta pengajaran semasa di Jabatan Pendidikan Islam dan Moral, menjadi asas kepada artikel Pendidikan Islam.
 
 Setiap hari saya bekerja dengan guru pelatih yang sedang belajar merancang PdP, membina instrumen pentaksiran dan menggunakan teknologi di kelas. Soalan yang mereka tanyakan, dan kekeliruan yang selalu berulang, menjadi asas kepada kebanyakan artikel di sini.
 
