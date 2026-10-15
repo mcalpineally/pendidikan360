@@ -133,7 +133,7 @@ NotebookLM paling berkesan apabila digunakan untuk **menguji diri**, bukan untuk
 |---|---|
 | **Uji diri** (active recall) | Jana **Quiz** atau **Flashcards**. Jawab dahulu tanpa melihat nota |
 | **Teknik Feynman** | "Saya akan terangkan konsep osmosis. Tunjukkan bahagian yang salah atau kurang lengkap berdasarkan nota saya." |
-| **Peta minda** | Lukis peta minda sendiri dahulu, kemudian bandingkan dengan **Mind Map** yang dijana |
+| **Peta minda** | Lukis peta minda sendiri dahulu (guna [templat peta minda percuma](https://bahan.pendidikan360.my/peta-minda)), kemudian bandingkan dengan **Mind Map** yang dijana |
 | **Nota Cornell** | Minta 5 soalan bagi setiap subtopik, kemudian salin ke ruang soalan nota Cornell anda |
 | **Ulang kaji berjarak** | Jana kuiz baharu bagi topik yang sama pada hari +1, +3, +7 dan +14 |
 

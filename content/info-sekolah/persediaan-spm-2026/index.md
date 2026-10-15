@@ -132,7 +132,7 @@ Calon Pendidikan Islam boleh membaca panduan kami tentang [cara menjawab soalan 
 
 {{< bahan slug="jadual-ulang-kaji" segmen="pelajar" tajuk="Jadual Ulang Kaji Berjarak (PDF boleh cetak)" teks="Tulis tarikh anda belajar sesuatu topik. Hari ulang kaji +1, +3, +7 dan +14 sudah ditanda, dengan versi ringkas untuk peperiksaan yang semakin dekat. Percuma." >}}
 
-Templat lain yang sesuai untuk enam minggu ini: [Templat Jadual Belajar Mingguan](https://bahan.pendidikan360.my/jadual-belajar) dan [Templat Nota Cornell](https://bahan.pendidikan360.my/nota-cornell). Semuanya percuma.
+Templat lain yang sesuai untuk enam minggu ini: [Templat Jadual Belajar Mingguan](https://bahan.pendidikan360.my/jadual-belajar) dan [Templat Nota Cornell](https://bahan.pendidikan360.my/nota-cornell) dan [Templat Peta Minda](https://bahan.pendidikan360.my/peta-minda). Semuanya percuma.
 
 ---
 

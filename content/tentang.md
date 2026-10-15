@@ -53,7 +53,7 @@ Templat dan bahan boleh cetak disediakan secara percuma di [bahan.pendidikan360.
 
 - **Untuk guru:** Takwim Sekolah 2027 dan 120 Contoh Ulasan PBD TP1 hingga TP6
 - **Untuk ibu bapa:** Jadual PdPR 5 Hari untuk anak yang belajar di rumah
-- **Untuk pelajar:** Templat Jadual Belajar Mingguan, Jadual Ulang Kaji Berjarak, Templat Nota Cornell dan Senarai Semak Sebelum Peperiksaan
+- **Untuk pelajar:** Templat Jadual Belajar Mingguan, Jadual Ulang Kaji Berjarak, Templat Nota Cornell, Templat Peta Minda dan Senarai Semak Sebelum Peperiksaan
 
 ## Bacaan lanjut di laman peribadi saya
 
