@@ -1,11 +1,12 @@
 ---
-title: "Google Classroom DELIMa 3.0: Cara Guna untuk Guru Malaysia (2026)"
+title: "Google Classroom Malaysia (DELIMa 3.0): Cara Log Masuk dan Guna untuk Guru"
 date: 2026-06-26
+lastmod: 2026-10-17
 url: "/google-classroom-untuk-guru/"
 draft: false
 categories: ["Teknologi Pendidikan"]
 tags: ["Google Classroom", "DELIMa", "Tugasan Digital", "Pengurusan Kelas", "Platform Percuma Guru", "Pembelajaran Digital"]
-description: "DELIMa 2.0 kini beralih ke DELIMa 3.0. Cara log masuk di d3.delima.edu.my, buka Google Classroom, cipta kelas, jemput murid, hantar tugasan dan beri markah. Panduan guru Malaysia."
+description: "Guru dan murid di Malaysia log masuk Google Classroom dengan akaun DELIMa melalui d3.delima.edu.my. Langkah cipta kelas, jemput murid, hantar tugasan dan beri markah."
 ShowToc: true
 TocOpen: true
 cover:
@@ -15,7 +16,9 @@ cover:
   relative: true
 ---
 
-Google Classroom mempunyai lebih 150 juta pengguna berdaftar dan beroperasi di 230 negara dan wilayah — menjadikannya platform pengurusan pembelajaran (LMS) paling meluas digunakan di dunia. Di Malaysia, guru sekolah yang mempunyai akaun DELIMa sudah mempunyai akses penuh kepada Google Classroom secara percuma — tanpa perlu daftar berasingan.
+**Google Classroom** ialah platform percuma Google untuk guru mengurus kelas, menghantar tugasan dan memberi markah secara dalam talian. Di Malaysia, guru dan murid sekolah KPM menggunakannya dengan **akaun DELIMa**, tanpa perlu mendaftar berasingan: log masuk di **d3.delima.edu.my** atau terus di **classroom.google.com** dengan ID DELIMa anda.
+
+Google Classroom mempunyai lebih 150 juta pengguna berdaftar dan beroperasi di 230 negara dan wilayah, menjadikannya antara platform pengurusan pembelajaran (LMS) yang paling meluas digunakan di dunia.
 
 > **Kemas kini 9 Oktober 2026: DELIMa 3.0.** KPM melancarkan DELIMa 3.0 pada 20 Julai 2026. Menurut Bahagian Sumber dan Teknologi Pendidikan (BSTP), mulai **1 Oktober 2026** semua akses dan perkhidmatan DELIMa 2.0 beralih sepenuhnya kepada DELIMa 3.0 di **d3.delima.edu.my**. Akaun DELIMa dan Google Classroom anda kekal sama; yang berubah ialah portal untuk masuk.
 
