@@ -152,6 +152,8 @@ Setiap kompetensi 6C mempunyai dimensi dan deskriptor terperinci (seperti yang d
 
 Walaupun rangka kerja formal 6C direka untuk konteks IPGM, prinsip di sebaliknya — membentuk pelajar yang berkomunikasi baik, berfikir kritis, kreatif, dan kolaboratif — adalah matlamat universal pendidikan abad ke-21 yang relevan untuk semua guru, tidak kira peringkat mengajar.
 
+> **Baca juga:** Di sekolah, kemahiran ini dilaksanakan melalui [PAK21 (Pembelajaran Abad Ke-21)](/pak21/) dengan elemen 4K1N, beserta 12 contoh aktiviti bilik darjah.
+
 ---
 
 ## Kesimpulan
