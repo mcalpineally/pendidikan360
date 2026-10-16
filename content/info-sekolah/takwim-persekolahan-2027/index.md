@@ -1,6 +1,7 @@
 ---
 title: "Takwim Sekolah 2027: Tarikh Cuti Kumpulan A & B (PDF Percuma)"
 date: 2026-10-04
+lastmod: 2026-10-16
 url: "/takwim-persekolahan-2027/"
 draft: false
 categories: ["Info Sekolah"]
@@ -83,7 +84,7 @@ Selain cuti penggal, KPM memberi cuti tambahan sempena lima perayaan utama. Menu
 
 Beberapa nota penting:
 
-- **Kumpulan A, Hari Raya Korban:** 18 Mei ialah cuti umum (hari kedua Hari Raya Korban) di Kelantan dan Terengganu. Kedah tidak mempunyai cuti umum itu, jadi KPM memberi cuti tambahan pada tarikh yang sama. Hasilnya, semua sekolah Kumpulan A bercuti pada 16 hingga 19 Mei.
+- **Kumpulan A, Hari Raya Korban:** menurut jadual JPM, 18 Mei (hari kedua Hari Raya Korban) ialah cuti umum di Kedah, Kelantan, Perlis dan Terengganu. Lampiran KPM juga menyenaraikan 18 Mei sebagai cuti tambahan untuk Kedah. Hasilnya, semua sekolah Kumpulan A bercuti pada 16 hingga 19 Mei.
 - **Sarawak, Deepavali:** Deepavali bukan cuti umum di Sarawak. Sekolah di Sarawak mendapat cuti tambahan KPM pada 28 Oktober sahaja, dan bersekolah seperti biasa pada 27 dan 29 Oktober.
 - **Pesta Kaamatan** (30–31 Mei; Sabah dan WP Labuan) dan **Hari Gawai Dayak** (1–2 Jun; Sarawak) jatuh dalam Cuti Pertengahan Tahun. **Hari Krismas** (25 Dis) jatuh dalam Cuti Akhir Persekolahan.
 
@@ -101,11 +102,11 @@ Jadual Hari Kelepasan Am Persekutuan 2027 yang dikeluarkan oleh Jabatan Perdana 
 | Hari Malaysia | 16 Sep (Khamis) | Cuti | Cuti |
 | Hari Deepavali | 28 Okt (Khamis) | Cuti | Cuti (kecuali Sarawak) |
 
-Tarikh perayaan Islam dan Deepavali dalam jadual JPM ditanda "tertakluk kepada perubahan". Cuti umum negeri, seperti Hari Keputeraan Sultan, tidak disenaraikan di sini. Semak takwim sekolah atau Jabatan Pendidikan Negeri anda untuk cuti negeri.
+Tarikh perayaan Islam dan Deepavali dalam jadual JPM ditanda "tertakluk kepada perubahan". Cuti umum negeri, seperti Hari Keputeraan Sultan, disenaraikan dalam artikel [Cuti Sekolah 2027 Mengikut Negeri](/cuti-sekolah-2027/).
 
 ## Tarikh sebenar kembali ke sekolah selepas cuti
 
-Ini perkara yang paling kerap terlepas pandang. Selepas Cuti Pertengahan Tahun, takwim KPM menyatakan Penggal 2 bermula pada **6 Jun (Kumpulan A)** dan **7 Jun (Kumpulan B)**. Namun, kedua-dua tarikh itu ialah cuti umum, iaitu Awal Muharam dan Hari Keputeraan YDP Agong. Jadi, murid sebenarnya kembali ke sekolah pada **Selasa, 8 Jun 2027**.
+Ini perkara yang paling kerap terlepas pandang. Selepas Cuti Pertengahan Tahun, takwim KPM menyatakan Penggal 2 bermula pada **6 Jun (Kumpulan A)** dan **7 Jun (Kumpulan B)**. Namun, kedua-dua tarikh itu ialah cuti umum, iaitu Awal Muharam dan Hari Keputeraan YDP Agong. Jadi, murid sebenarnya kembali ke sekolah pada **Selasa, 8 Jun 2027**. Bagi Kumpulan B, Awal Muharam jatuh pada hari Ahad; jika cuti ganti diumumkan pada 8 Jun, murid Kumpulan B kembali pada Rabu, 9 Jun. Lihat [cuti sekolah 2027 mengikut negeri](/cuti-sekolah-2027/) untuk tarikh yang perlu dipantau.
 
 | Selepas | Kumpulan A | Kumpulan B |
 |---|---|---|
