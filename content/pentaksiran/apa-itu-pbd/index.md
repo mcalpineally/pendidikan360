@@ -1,11 +1,12 @@
 ---
-title: "Maksud PBD: Jadual TP1–TP6, Cara Pelaksanaan dan Beza dengan UASA"
+title: "Pentaksiran Bilik Darjah (PBD): Maksud, Jadual TP1–TP6 dan Beza dengan UASA"
 date: 2026-10-01
+lastmod: 2026-10-17
 url: "/apa-itu-pbd/"
 draft: false
 categories: ["Pentaksiran"]
 tags: ["PBD", "Pentaksiran Bilik Darjah", "Maksud PBD", "Tahap Penguasaan", "UASA", "Matriks Pembelajaran", "Standard Prestasi"]
-description: "Apa itu PBD? Pentaksiran Bilik Darjah dilaporkan dalam TP1–TP6, bukan markah. Lihat jadual deskriptor TP, cara guru melaksanakan PBD, dan beza PBD, UASA serta Matriks Tahun 4."
+description: "Pentaksiran Bilik Darjah (PBD) dilaporkan dalam TP1–TP6, bukan markah. Lihat jadual deskriptor TP, cara guru melaksanakan PBD, dan beza PBD, UASA serta Matriks Tahun 4."
 ShowToc: true
 TocOpen: true
 cover:
@@ -15,9 +16,9 @@ cover:
   relative: true
 ---
 
-**PBD (Pentaksiran Bilik Darjah)** ialah pentaksiran yang dijalankan oleh guru secara berterusan semasa pengajaran dan pembelajaran (PdP) untuk mengetahui perkembangan, kemajuan, kebolehan dan penguasaan setiap murid. Keputusannya dilaporkan dalam bentuk **Tahap Penguasaan (TP1 hingga TP6)**, bukan markah atau gred peperiksaan.
+**Pentaksiran Bilik Darjah (PBD)** ialah pentaksiran yang dijalankan oleh guru secara berterusan semasa pengajaran dan pembelajaran (PdP) untuk mengetahui perkembangan, kemajuan, kebolehan dan penguasaan setiap murid. Keputusannya dilaporkan dalam bentuk **Tahap Penguasaan (TP1 hingga TP6)**, bukan markah atau gred peperiksaan.
 
-Soalan tentang PBD menjadi lebih kerap tahun ini. Pada **6 hingga 8 Oktober 2026**, murid Tahun 4 di seluruh negara menduduki **Matriks Pembelajaran** buat kali pertama, ditadbir oleh Lembaga Peperiksaan. Ramai ibu bapa dan guru bertanya: adakah PBD sudah tamat? Adakah UPSR kembali dalam bentuk lain? Jawapan ringkasnya: tidak. PBD diteruskan seperti biasa, dan keputusan Matriks akan digunakan bersama-sama PBD untuk merancang intervensi di Tahun 5 dan 6.
+Soalan tentang PBD menjadi lebih kerap tahun ini kerana **Matriks Pembelajaran** Tahun 4, yang ditadbir oleh Lembaga Peperiksaan, dijadualkan buat kali pertama pada **6 hingga 8 Oktober 2026** (di Johor, ia ditangguhkan akibat jerebu). Ramai ibu bapa dan guru bertanya: adakah PBD sudah tamat? Adakah UPSR kembali dalam bentuk lain? Jawapan ringkasnya: tidak. PBD diteruskan seperti biasa, dan keputusan Matriks akan digunakan bersama-sama PBD untuk merancang intervensi di Tahun 5 dan 6.
 
 Artikel ini menjawab kedua-dua soalan itu, bermula dengan definisi rasmi PBD, sejarah ringkasnya, enam Tahap Penguasaan, dan perbezaan PBD dengan UASA serta Matriks Pembelajaran.
 
