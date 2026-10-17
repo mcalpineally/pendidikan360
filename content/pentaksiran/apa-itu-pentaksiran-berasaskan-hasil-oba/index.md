@@ -1,97 +1,142 @@
 ---
-title: "Apa itu Pentaksiran Berasaskan Hasil (OBA)? Maksud, Prinsip, dan Perbezaan dengan Pentaksiran Tradisional"
+title: "Pentaksiran Berasaskan Hasil (OBA): Maksud, 4 Prinsip dan Beza dengan Pentaksiran Tradisional"
 date: 2026-07-10
+lastmod: 2026-10-17
 url: "/apa-itu-pentaksiran-berasaskan-hasil-oba/"
 draft: false
 categories: ["Pentaksiran"]
-tags: ["Pentaksiran Berasaskan Hasil", "OBA", "OBE", "MQF", "MQA", "Penilaian Pelajar", "Pendidikan Tinggi", "IPTA", "IPTS", "IPG"]
-description: "Pentaksiran Berasaskan Hasil (OBA) ialah pendekatan penilaian yang mengukur pencapaian pelajar berdasarkan hasil pembelajaran yang telah ditetapkan selaras dengan MQF, FPN 1988, dan tiga akta utama pendidikan tinggi Malaysia."
+tags: ["Pentaksiran Berasaskan Hasil", "OBA", "OBE", "MQF", "MQA", "Penjajaran Konstruktif", "Rubrik", "Buku Panduan Pentaksiran IPG", "Kemahiran Insaniah", "Penilaian Pelajar", "Pendidikan Tinggi", "IPTA", "IPTS", "IPG"]
+description: "Maksud Pentaksiran Berasaskan Hasil (OBA) menurut MQA dan Buku Panduan Pentaksiran IPG 2026: 4 prinsip penjajaran konstruktif, beza dengan pentaksiran tradisional, HPK, JST, JSU, skala rubrik 5 tahap dan contoh HPK hingga gred."
 ShowToc: true
 TocOpen: true
 cover:
   image: "featured.png"
   alt: "Apa itu Pentaksiran Berasaskan Hasil OBA: Panduan Lengkap untuk Pensyarah"
-  caption: "Panduan lengkap OBA untuk pensyarah IPG, IPTA, dan IPTS — berdasarkan Advisory Note MQA Bil. 1/2026"
+  caption: "Panduan OBA untuk pensyarah IPG, IPTA dan IPTS, berdasarkan Advisory Note MQA Bil. 1/2026 dan Buku Panduan Pentaksiran IPG (Kemas Kini Ogos 2026)"
   relative: true
 ---
 
 ## Pendahuluan: Amanah FPN 1988 yang Belum Sepenuhnya Diterjemahkan
 
-Sejak tahun 1988, Falsafah Pendidikan Negara (FPN) yang kemudiannya dikenali sebagai Falsafah Pendidikan Kebangsaan (FPK) telah menetapkan dengan jelas matlamat pendidikan Malaysia:
+Sejak tahun 1988, Falsafah Pendidikan Negara (FPN) telah menetapkan dengan jelas matlamat pendidikan Malaysia:
 
 > *"Pendidikan di Malaysia adalah suatu usaha berterusan ke arah memperkembangkan lagi potensi individu secara menyeluruh dan bersepadu untuk mewujudkan insan yang seimbang dan harmonis dari segi intelek, rohani, emosi dan jasmani berdasarkan kepercayaan dan kepatuhan kepada Tuhan. Usaha ini adalah bertujuan melahirkan rakyat Malaysia yang berilmu pengetahuan, berketerampilan, berakhlak mulia, bertanggungjawab dan berkeupayaan mencapai kesejahteraan diri serta memberi sumbangan terhadap keharmonian dan kemakmuran masyarakat dan negara."*
 > — Falsafah Pendidikan Negara, 1988
 
-Perhatikan kata-kata kunci dalam falsafah ini: **menyeluruh**, **bersepadu**, **seimbang dan harmonis**, **berketerampilan**. Pernyataan ini bukan sekadar hasrat untuk pelajar lulus peperiksaan. Falsafah ini adalah visi melahirkan insan yang **benar-benar kompeten** iaitu mampu menunjukkan pengetahuan, kemahiran, dan nilai dalam kehidupan sebenar.
+Pada tahun 1996, falsafah ini dinamakan semula Falsafah Pendidikan Kebangsaan (FPK) dan dimasukkan ke dalam mukadimah Akta Pendidikan 1996 (Akta 550). Versi semasa turut menyebut sumbangan kepada "keluarga, masyarakat dan negara".
 
-Namun selama beberapa dekad, sistem penilaian pendidikan tinggi Malaysia masih bergantung besar kepada peperiksaan akhir dan ujian bertulis yang hanya mengukur pengetahuan kognitif peringkat rendah. **Inilah jurang antara falsafah dan amalan** yang cuba dirapatkan oleh Pentaksiran Berasaskan Hasil (OBA).
+Perhatikan kata kunci dalam falsafah ini: **menyeluruh**, **bersepadu**, **seimbang dan harmonis**, **berketerampilan**. Falsafah ini bukan sekadar hasrat supaya pelajar lulus peperiksaan. Ia ialah visi melahirkan insan yang **benar-benar kompeten**, iaitu mampu menunjukkan pengetahuan, kemahiran dan nilai dalam kehidupan sebenar.
 
----
+Namun dalam amalan, penilaian di banyak program pengajian tinggi masih bergantung besar kepada peperiksaan akhir dan ujian bertulis, yang lebih mudah mengukur pengetahuan berbanding kemahiran dan nilai. **Inilah jurang antara falsafah dan amalan** yang cuba dirapatkan oleh Pentaksiran Berasaskan Hasil (OBA).
 
-## Asas Perundangan: Tiga Akta yang Mendasari OBA di Malaysia
-
-Sebelum memahami OBA secara konseptual, penting untuk mengetahui bahawa ia bukan sekadar pendekatan pilihan pensyarah malah ia adalah **keperluan yang berakar dalam perundangan pendidikan tinggi Malaysia**.
-
-### 1. Akta Universiti dan Kolej Universiti 1971 (Akta 30, Pindaan 2019)
-
-Akta Universiti dan Kolej Universiti 1971 (Akta 30) adalah merupakan akta utama yang menjadi asas penubuhan Institusi Pengajian Tinggi Awam Malaysia. Akta ini telah dipinda beberapa kali, dengan pindaan terakhir pada 2019. Dalam konteks OBA, Akta 30 memberikan kuasa kepada Senat universiti untuk menetapkan dasar penilaian pelajar, yang mesti selari dengan keperluan akreditasi MQA dan Kerangka Kelayakan Malaysia (MQF).
-
-### 2. Akta Institusi Pendidikan Tinggi Swasta 1996 (Akta 555)
-
-Akta 555 mengawal selia semua institusi pendidikan tinggi swasta (IPTS) di Malaysia. Mana-mana IPTS yang ingin mendapat pengiktirafan dan akreditasi MQA mesti memastikan program dan sistem penilaian mereka mematuhi standard yang ditetapkan, termasuk prinsip OBE dan OBA.
-
-### 3. Akta Agensi Kelayakan Malaysia 2007 (Akta 679)
-
-Akta 679 menubuhkan **Agensi Kelayakan Malaysia (MQA)** sebagai badan yang bertanggungjawab memastikan kualiti pendidikan tinggi di Malaysia. Di bawah akta ini, MQA berkuasa:
-
-- Menetapkan standard dan kriteria akreditasi program
-- Mengeluarkan Kod Amalan Akreditasi Program (COPPA)
-- Mewajibkan semua program mengikuti prinsip OBE dan OBA melalui Kerangka Kelayakan Malaysia (MQF)
-
-Dengan kata lain, **OBA bukan pilihan** untuk institusi yang ingin mendapat dan mengekalkan akreditasi MQA. Ia adalah **keperluan statutori** yang berpunca daripada Akta 679.
+> **Ringkasnya:** OBA ialah cara mereka bentuk penilaian yang bermula daripada hasil pembelajaran kursus (CLO). Pensyarah menentukan dahulu apa yang pelajar mesti boleh lakukan, memecahkannya kepada kriteria prestasi, menyusun kriteria itu dalam rubrik, kemudian memberi markah dan gred berdasarkan kriteria tersebut. MQA menggariskan pendekatan ini dalam Advisory Note Bil. 1/2026 bertarikh 28 Januari 2026. Di IPG, pelaksanaannya diperincikan dalam Buku Panduan Pentaksiran IPG (Kemas Kini Ogos 2026), dan CLO dikenali sebagai **Hasil Pembelajaran Kursus (HPK)**.
 
 ---
 
 ## Apa Maksud Pentaksiran Berasaskan Hasil (OBA)?
 
-**Pentaksiran Berasaskan Hasil** (Outcome-Based Assessment, OBA) ialah pendekatan penilaian yang selari dengan prinsip Pendidikan Berasaskan Hasil (Outcome-Based Education, OBE).
+**Pentaksiran Berasaskan Hasil** (*Outcome-Based Assessment*, OBA) ialah pendekatan penilaian yang selari dengan prinsip Pendidikan Berasaskan Hasil (*Outcome-Based Education*, OBE).
 
-Mengikut Advisory Note MQA Bil. 1/2026, Penilaian Berasaskan Hasil (Outcome-Based Assessment, OBA) merupakan pendekatan yang selari dengan prinsip OBE. Pelaksanaan penilaian adalah berasaskan konsep penjajaran konstruktif yang menuntut semua aktiviti pengajaran, pembelajaran dan penilaian direka bentuk secara sistematik bagi memastikan keselarasan serta keberkesanan dalam mengukur pencapaian hasil pembelajaran.
+Menurut Advisory Note MQA Bil. 1/2026, Penilaian Berasaskan Hasil (OBA) merupakan pendekatan yang selari dengan prinsip OBE. Pelaksanaan penilaian adalah berasaskan konsep penjajaran konstruktif yang menuntut semua aktiviti pengajaran, pembelajaran dan penilaian direka bentuk secara sistematik bagi memastikan keselarasan serta keberkesanan dalam mengukur pencapaian hasil pembelajaran.
 
-Dalam bahasa yang lebih mudah: OBA bermakna **penilaian direka bentuk BERDASARKAN hasil pembelajaran yang ingin dicapai** bukan berdasarkan kebiasaan atau konvensyen semata-mata.
+Dalam bahasa yang lebih mudah: OBA bermakna **penilaian direka bentuk BERDASARKAN hasil pembelajaran yang ingin dicapai**, bukan berdasarkan kebiasaan atau konvensyen semata-mata.
 
-Manakala OBE secara menyeluruh didefinisikan sebagai suatu pendekatan pendidikan yang dimulakan dengan fokus yang jelas dan nyata mengenai perolehan akhiran pembelajaran yang signifikan dan kontekstual serta berkualiti tinggi dan seterusnya merancang atau menyusun segala persekitaran sistem pendidikan agar apa yang penting mampu dilakukan dengan jayanya oleh semua pelajar pada akhir pengalaman pembelajaran mereka.
+OBE pula ialah pendekatan pendidikan yang bermula dengan fokus yang jelas tentang hasil pembelajaran akhir yang signifikan dan berkualiti, kemudian menyusun seluruh persekitaran pendidikan supaya semua pelajar dapat mencapai hasil tersebut pada akhir pengalaman pembelajaran mereka.
 
-Definisi ini selaras dengan takrifan asal yang diperkenalkan oleh **William Spady (1994)**, tokoh yang paling berpengaruh dalam pembangunan konsep OBE. Menurut Spady (1994, hlm. 12), OBE bermaksud *"clearly focusing and organizing everything in an educational system around what is essential for all students to be able to do successfully at the end of their learning experiences."* Spady menekankan bahawa "demonstration is the key word: an outcome is not a score or a grade, but the end product of a clearly defined process that students carry out" (Spady, 1994, hlm. 18). Hal ini bermakna OBE dan dengan sendirinya OBA menuntut pelajar **menunjukkan** penguasaan mereka melalui tindakan sebenar, bukan sekadar menjawab soalan peperiksaan.
+Definisi ini selaras dengan takrifan **William Spady (1994)**, tokoh paling berpengaruh dalam pembangunan konsep OBE. Spady mentakrifkan OBE sebagai *"clearly focusing and organizing everything in an educational system around what is essential for all students to be able to do successfully at the end of their learning experiences."* Bagi Spady, hasil pembelajaran ialah **demonstrasi pembelajaran**, iaitu sesuatu yang pelajar tunjukkan melalui tindakan, bukan skor atau gred. Oleh itu, OBE, dan dengan sendirinya OBA, menuntut pelajar **menunjukkan** penguasaan mereka, bukan sekadar menjawab soalan peperiksaan.
 
-Spady (1994) turut membezakan antara dua pendekatan OBE: pendekatan **tradisional/transaksional** yang berasaskan kandungan, dan pendekatan **transformasional** yang berasaskan hasil. Pendekatan transformasional yang menjadi asas kepada MQF Malaysia mengharapkan pelajar menunjukkan tingkah laku, kemahiran, dan nilai yang mencerminkan kesediaan mereka sebagai warganegara dan profesional yang kompeten dalam dunia sebenar.
+Spady dan Marshall (1991) turut membezakan tiga bentuk OBE:
+
+- **Tradisional:** hasil pembelajaran diturunkan daripada kandungan mata pelajaran sedia ada.
+- **Transisional:** hasil pembelajaran merentas mata pelajaran, seperti pemikiran kritis, komunikasi dan penyelesaian masalah.
+- **Transformasional:** hasil pembelajaran berupa peranan kehidupan sebenar yang perlu dimainkan pelajar selepas tamat pengajian.
+
+Lima kluster hasil pembelajaran MQF, yang menggabungkan pengetahuan dengan kemahiran fungsian, kemahiran personal serta etika, lebih hampir kepada bentuk transisional dan transformasional berbanding bentuk tradisional.
+
+Buku Panduan Pentaksiran IPG (Kemas Kini Ogos 2026) memakai takrifan yang sama: OBE ialah model pendidikan yang kurikulum, penyampaian dan pentaksirannya dibangunkan, distrukturkan dan dilaksanakan untuk memudahkan pencapaian hasil pembelajaran utama pelajar (Spady, 1994; Driscoll & Wood, 2007).
+
+### Perspektif Pensyarah: Driscoll dan Wood (2007)
+
+OBA dari sudut pensyarah dihuraikan dengan baik dalam buku *Developing Outcomes-Based Assessment for Learner-Centered Education: A Faculty Introduction* oleh Amy Driscoll dan Swarup Wood. Wood ialah pensyarah kimia yang pada awalnya skeptikal terhadap OBA, manakala Driscoll ialah pengarah pentaksiran yang peka kepada kebimbangan rakan sejawat. Mereka menegaskan bahawa tujuan OBA adalah untuk **memberdayakan pensyarah** supaya memiliki dan menentukan pentaksiran yang sesuai bagi kursus dan program mereka.
+
+Menurut Driscoll dan Wood (2007), proses OBA melibatkan artikulasi hasil pembelajaran, penentuan kriteria dan standard, serta penjajaran kandungan kursus secara konsisten dengan hasil yang dihasratkan. Proses ini tidak selalunya kemas dan linear. Ia dinamik dan memerlukan refleksi berterusan.
 
 ---
+
+## 4 Prinsip OBA Menurut Advisory Note MQA Bil. 1/2026
+
+Advisory Note MQA Bil. 1/2026 menyatakan bahawa pelaksanaan OBA berasaskan konsep **penjajaran konstruktif** (*constructive alignment*). Istilah ini diperkenalkan oleh John Biggs (1996): hasil pembelajaran, aktiviti pengajaran dan pembelajaran, serta tugasan penilaian mesti selari antara satu sama lain. Buku Panduan Pentaksiran IPG menjejak konsep ini kepada Tyler (1949), Shuell (1986) dan Biggs (2003), dan menerangkan dua aspeknya:
+
+- **Aspek konstruktif:** pelajar membina makna sendiri melalui aktiviti pembelajaran yang relevan. Makna tidak dipindahkan daripada pensyarah kepada pelajar; pengajaran hanyalah pemangkin.
+- **Aspek penjajaran:** pensyarah menyediakan dan menyelaraskan persekitaran pembelajaran supaya semua aktiviti pengajaran dan tugasan pentaksiran selari dengan hasil pembelajaran yang ditetapkan.
+
+MQA merumuskan proses ini kepada empat prinsip:
+
+### Prinsip 1: Hasil Pembelajaran sebagai Kriteria
+
+Penilaian dijalankan dengan merujuk kepada kriteria yang ditentukan oleh hasil pembelajaran yang telah ditetapkan terlebih dahulu.
+
+Ini ialah perbezaan asas antara OBA dan penilaian tradisional. Dalam OBA, soalan yang perlu dijawab pensyarah sebelum membina sebarang instrumen penilaian ialah *"Apakah hasil pembelajaran yang ingin dicapai?"*, bukan *"Apakah yang mudah untuk diuji?"*
+
+### Prinsip 2: Kriteria Prestasi
+
+Hasil pembelajaran yang bersifat umum dipecahkan kepada pernyataan lebih spesifik yang boleh diukur bagi menjelaskan pengetahuan, kemahiran dan tingkah laku yang perlu ditunjukkan oleh pelajar sebagai penunjuk pencapaian.
+
+Contoh: jika Hasil Pembelajaran Kursus (CLO) menyatakan "pelajar boleh menganalisis isu pendidikan kontemporari", kriteria prestasi perlu menjelaskan apa yang dimaksudkan dengan "menganalisis". Pada aras [Taksonomi Bloom](https://mohdalpianali.com/pendidikan/taksonomi-bloom/) yang mana? Dalam konteks apa?
+
+### Prinsip 3: Instrumen/Rubrik Penilaian
+
+Kriteria prestasi lazimnya disusun dalam bentuk rubrik penilaian, iaitu instrumen pemarkahan berstruktur yang menerangkan tahap kualiti prestasi yang berbeza bagi setiap kriteria. Penggunaan instrumen atau rubrik membolehkan pemarkahan dijalankan secara objektif, konsisten dan telus.
+
+Rubrik ialah jantung OBA dalam pelaksanaan harian. Ia mengubah penilaian daripada pertimbangan subjektif ("ini rasa macam B+") kepada pertimbangan berasaskan bukti ("prestasi ini menepati deskriptor tahap Cemerlang dalam kriteria analisis").
+
+Menurut Buku Panduan Pentaksiran IPG, rubrik yang berkualiti mempunyai tiga komponen:
+
+1. **Kriteria penilaian:** aspek yang dinilai, ditetapkan berdasarkan HPK (contohnya isi, hujah, struktur, bahasa).
+2. **Skala atau tahap prestasi:** biasanya 3 hingga 5 tahap, disusun daripada tinggi ke rendah.
+3. **Deskriptor:** huraian ciri prestasi bagi setiap tahap yang jelas, progresif, tidak bertindih dan boleh diukur.
+
+Rubrik boleh berbentuk **analitik** (setiap kriteria diberi skor berasingan) atau **holistik** (prestasi dinilai secara keseluruhan dengan julat markah bagi setiap tahap). Kedua-duanya sesuai untuk tugasan respons terbuka.
+
+### Prinsip 4: Pengesahan Pencapaian dan Penggredan
+
+Instrumen atau rubrik membantu penilai mengesahkan tahap pencapaian pelajar, menetapkan markah dan memberikan gred selaras dengan kriteria prestasi yang telah ditentukan, secara sistematik dan berintegriti.
+
+Buku Panduan Pentaksiran IPG membezakan empat istilah yang sering dicampuradukkan dalam peringkat ini:
+
+| Istilah | Maksud | Contoh |
+|---|---|---|
+| **Markah** | Nilai maksimum yang diperuntukkan kepada item atau tugasan sebelum pentaksiran | Tugasan esei diperuntukkan 20 markah |
+| **Skor** | Nilai sebenar yang diperoleh pelajar | Pelajar memperoleh skor 50 daripada 60 markah |
+| **Gred** | Simbol (A, A-, B+ ...) bagi julat skor | Skor 75% diberi gred A- |
+| **Tahap** | Kategori kualitatif yang digandingkan dengan deskriptor rubrik | Hujah yang sangat jelas dan matang berada pada Tahap Amat Cemerlang |
+
+Pengesahan juga melibatkan penyelarasan skema dan moderasi. Panduan IPG menyatakan moderasi bertujuan meningkatkan kesahan dan kebolehpercayaan pemarkahan serta mengawal kesan "halo", iaitu faktor yang menyebabkan pemeriksa menambah atau mengurangkan markah daripada yang sepatutnya.
 
 ---
 
 ## 4 Prinsip Pengorganisasian OBE Menurut Spady (1994)
 
-Sebelum memahami prinsip-prinsip teknikal OBA, penting untuk menghayati **4 prinsip pengorganisasian OBE** yang digariskan oleh Spady (1994) sebagai asas falsafah keseluruhan pendekatan ini. Apabila dilaksanakan secara konsisten, sistematik, kreatif, dan serentak, prinsip-prinsip ini membentuk budaya pembelajaran yang benar-benar berorientasikan hasil.
+Empat prinsip MQA di atas ialah prosedur. Falsafah di sebaliknya datang daripada **4 prinsip pengorganisasian OBE** yang digariskan oleh Spady (1994). Apabila dilaksanakan secara konsisten, sistematik, kreatif, dan serentak, prinsip-prinsip ini membentuk budaya pembelajaran yang benar-benar berorientasikan hasil.
 
 ### Prinsip 1: Clarity of Focus (Kejelasan Fokus)
 
-Esensi "clarity of focus" ialah pendidik mesti menetapkan gambaran yang jelas tentang pembelajaran yang ingin ditunjukkan oleh pelajar; menjadikan ini sebagai keutamaan utama dalam perancangan, pengajaran, dan pentaksiran; berkongsi hasil ini dengan pelajar; dan mengekalkan penjajaran antara hasil dengan segala usaha pengajaran.
+Intipati "clarity of focus" ialah pendidik mesti menetapkan gambaran yang jelas tentang pembelajaran yang ingin ditunjukkan oleh pelajar; menjadikan ini sebagai keutamaan utama dalam perancangan, pengajaran, dan pentaksiran; berkongsi hasil ini dengan pelajar; dan mengekalkan penjajaran antara hasil dengan segala usaha pengajaran.
 
 Dalam konteks praktikal pensyarah, ini bermakna:
 
-- **Tentukan kemahiran akhir (skillset)** yang perlu ditunjukkan pelajar pada akhir kursus atau program bukan sekadar apa yang perlu *diketahui*, tetapi apa yang perlu *dapat dilakukan*
+- **Tentukan kemahiran akhir (skillset)** yang perlu ditunjukkan pelajar pada akhir kursus atau program, bukan sekadar apa yang perlu *diketahui*, tetapi apa yang perlu *dapat dilakukan*
 - **Nyatakan CLO dengan tepat** menggunakan kata kerja boleh ukur (Taksonomi Bloom) supaya pelajar tahu dengan jelas apakah yang diharapkan daripada mereka
-- **Selaraskan semua aktiviti P&P dan penilaian** dengan CLO yang ditetapkan, tiada aktiviti yang tidak menyumbang kepada sekurang-kurangnya satu CLO
+- **Selaraskan semua aktiviti PdP dan penilaian** dengan CLO yang ditetapkan, supaya tiada aktiviti yang tidak menyumbang kepada sekurang-kurangnya satu CLO
 - **Kongsi kriteria kejayaan** dengan pelajar sejak awal semester melalui rubrik dan pelan penilaian kursus
 
-Kejelasan fokus adalah prasyarat kepada ketiga-tiga prinsip yang lain. Tanpa kejelasan tentang ke mana tuju, proses mereka bentuk kurikulum dan penilaian menjadi tidak bermakna.
+Kejelasan fokus ialah prasyarat kepada ketiga-tiga prinsip yang lain. Tanpa kejelasan tentang ke mana tuju, proses mereka bentuk kurikulum dan penilaian menjadi tidak bermakna.
 
 ---
 
 ### Prinsip 2: Designing Down (Reka Bentuk Ke Bawah)
 
-Spady (1994) menyifatkan prinsip ini sebagai **prinsip paling kritikal** dalam OBE. "Designing down" yang juga dikenali sebagai *backward design* atau *designing back* bermaksud proses reka bentuk kurikulum dan pentaksiran **bermula daripada hasil akhir yang dihasratkan**, kemudian merancang ke belakang untuk menentukan apa yang perlu diajar dan bagaimana cara mengajarnya.
+Prinsip ini sering dianggap **paling kritikal** dalam OBE. "Designing down", yang juga dikenali sebagai *backward design* atau *designing back* bermaksud proses reka bentuk kurikulum dan pentaksiran **bermula daripada hasil akhir yang dihasratkan**, kemudian merancang ke belakang untuk menentukan apa yang perlu diajar dan bagaimana cara mengajarnya.
 
 Aliran designing down dalam konteks IPG/IPTA:
 
@@ -109,21 +154,23 @@ Aktiviti Pengajaran & Pembelajaran (PdP)
 Kandungan Kursus (Silibus)
 ```
 
-Ini adalah **kebalikan langsung** daripada pendekatan tradisional di mana kandungan ditentukan dulu, kemudian baru penilaian dibina berdasarkan apa yang diajar. Dalam OBE, soalan yang perlu dijawab pensyarah bukan *"Apa yang perlu saya ajar?"* tetapi *"Apa yang perlu pelajar dapat tunjukkan pada akhir kursus ini, dan apakah bukti yang akan saya terima sebagai demonstrasi pencapaian tersebut?"*
+Ini ialah **kebalikan langsung** daripada pendekatan tradisional di mana kandungan ditentukan dulu, kemudian baru penilaian dibina berdasarkan apa yang diajar. Dalam OBE, soalan yang perlu dijawab pensyarah bukan *"Apa yang perlu saya ajar?"* tetapi *"Apa yang perlu pelajar dapat tunjukkan pada akhir kursus ini, dan apakah bukti yang akan saya terima sebagai demonstrasi pencapaian tersebut?"*
 
-Driscoll dan Wood (2007) memperkukuh prinsip ini dengan menekankan bahawa pensyarah perlu "aligning course content consistently with desired outcomes" iaitu kandungan kursus mesti dirancang untuk menyokong pencapaian hasil, bukan sebaliknya.
+Buku Panduan Pentaksiran IPG mengaitkan prinsip ini dengan *Backward Design* dalam *Understanding by Design* oleh Wiggins dan McTighe (2005): kurikulum direka daripada hasil akhir ke permulaan, dengan fokus kepada kefahaman dan pemindahan pembelajaran.
+
+Driscoll dan Wood (2007) memperkukuh prinsip ini dengan menekankan *"aligning course content consistently with desired outcomes"*, iaitu kandungan kursus mesti dirancang untuk menyokong pencapaian hasil, bukan sebaliknya.
 
 ---
 
 ### Prinsip 3: High Expectations (Jangkaan Tinggi)
 
-Spady (1994, hlm. 9) menegaskan andaian falsafah teras OBE: *"all students can learn and succeed, but not on the same day, in the same way."* Prinsip jangkaan tinggi bermaksud:
+Spady (1994) menegaskan andaian falsafah teras OBE: *"all students can learn and succeed, but not on the same day, in the same way."* Prinsip jangkaan tinggi bermaksud:
 
-- Tetapkan **standard kualiti yang tinggi** untuk semua pelajar, bukan menurunkan bar supaya semua boleh lulus, tetapi menyediakan sokongan yang mencukupi supaya semua boleh mencapai standard tersebut
-- **Elakkan "bell curve mentality"** dalam OBE, kejayaan seorang pelajar tidak mengurangkan peluang pelajar lain. Jika semua pelajar mencapai CLO, itu adalah kejayaan sistem, bukan tanda soalan terlalu mudah
-- Gunakan **rubrik yang jelas** supaya pelajar tahu dengan tepat apa yang dimaksudkan dengan prestasi "cemerlang" — jangkaan tinggi yang tidak dijelaskan dengan jelas hanya menambah kebimbangan, bukan motivasi
+- Tetapkan **standard kualiti yang tinggi** untuk semua pelajar. Ini bukan bermaksud menurunkan bar supaya semua boleh lulus, tetapi menyediakan sokongan yang mencukupi supaya semua boleh mencapai standard tersebut
+- **Elakkan "bell curve mentality"**. Dalam OBE, kejayaan seorang pelajar tidak mengurangkan peluang pelajar lain. Jika semua pelajar mencapai CLO, itu adalah kejayaan sistem, bukan tanda soalan terlalu mudah
+- Gunakan **rubrik yang jelas** supaya pelajar tahu dengan tepat apa yang dimaksudkan dengan prestasi "cemerlang". Jangkaan tinggi yang tidak dijelaskan hanya menambah kebimbangan, bukan motivasi
 
-Dalam konteks MQF Malaysia, prinsip ini diterjemahkan kepada keperluan bahawa semua pelajar mesti mencapai sekurang-kurangnya **tahap minimum penguasaan CLO** sebelum boleh dianugerahkan kelayakan, tanpa mengira berapa ramai yang "gagal" dalam ujian sebelumnya.
+Dalam konteks MQF, prinsip ini bermakna kelayakan dianugerahkan berdasarkan **pencapaian hasil pembelajaran** yang ditetapkan bagi tahap tersebut, bukan berdasarkan kedudukan pelajar berbanding rakan sekelas.
 
 ---
 
@@ -131,12 +178,12 @@ Dalam konteks MQF Malaysia, prinsip ini diterjemahkan kepada keperluan bahawa se
 
 Prinsip keempat mengiktiraf bahawa jika jangkaan tinggi ditetapkan untuk semua pelajar, maka **peluang untuk mencapai jangkaan tersebut juga mesti diperluaskan**. Ini bermakna:
 
-- Berikan **lebih daripada satu peluang** kepada pelajar untuk menunjukkan penguasaan melalui penilaian formatif, kuiz semula, tugasan susulan, atau sesi bimbingan tambahan
-- Gunakan **pelbagai kaedah penilaian** yang meraikan kepelbagaian cara pelajar belajar dan menunjukkan kefahaman menerusi ujian bertulis sahaja tidak cukup
+- Berikan **lebih daripada satu peluang** kepada pelajar untuk menunjukkan penguasaan melalui penilaian formatif, kuiz ulangan, tugasan susulan, atau sesi bimbingan tambahan
+- Gunakan **pelbagai kaedah penilaian** yang meraikan kepelbagaian cara pelajar belajar dan menunjukkan kefahaman, kerana ujian bertulis sahaja tidak cukup
 - **Maklum balas berterusan** (formatif) membolehkan pelajar memperbaiki prestasi sebelum penilaian sumatif yang menentukan gred akhir
 - Reka bentuk kursus yang membenarkan **pembelajaran kendiri** di mana pelajar yang sudah menguasai CLO tidak perlu dihalang oleh rentak yang lebih perlahan
 
-Prinsip ini berkait langsung dengan **penilaian formatif** dalam OBA dan ia bukan sekadar amalan pedagogi yang baik, tetapi keperluan falsafah dalam sistem yang benar-benar berprinsipkan OBE.
+Prinsip ini berkait langsung dengan **penilaian formatif** dalam OBA. Ia bukan sekadar amalan pedagogi yang baik, tetapi keperluan falsafah dalam sistem yang benar-benar berprinsipkan OBE.
 
 ---
 
@@ -147,77 +194,202 @@ Keempat-empat prinsip Spady membentuk **logik dalaman** yang menjelaskan mengapa
 | Prinsip Spady (1994) | Implikasi kepada OBA |
 |---|---|
 | **Clarity of Focus** | CLO mesti jelas, boleh ukur, dan dikongsi dengan pelajar. Rubrik adalah alat kejelasan |
-| **Designing Down** | Bina instrumen penilaian dahulu (berdasarkan CLO), kemudian rancang aktiviti P&P |
+| **Designing Down** | Bina instrumen penilaian dahulu (berdasarkan CLO), kemudian rancang aktiviti PdP |
 | **High Expectations** | Standard dalam rubrik mesti mencerminkan tahap kompetensi sebenar yang dihasratkan |
-| **Expanded Opportunities** | Penilaian formatif wajib — pelajar perlu peluang belajar daripada maklum balas sebelum penilaian sumatif |
-
----
-
-## Empat Prinsip Teras OBA (Berdasarkan Advisory Note MQA Bil. 1/2026)
-
-Proses penilaian berasaskan hasil dapat dirumuskan berdasarkan empat prinsip penjajaran konstruktif:
-
-Perspektif pensyarah terhadap OBA dihuraikan dengan baik oleh **Driscoll dan Wood (2007)** dalam buku *Developing Outcomes-Based Assessment for Learner-Centered Education: A Faculty Introduction*. Kedua-dua penulis ialah seorang pensyarah kimia yang awalnya skeptikal terhadap OBA, dan seorang pengarah pentaksiran yang sensitif kepada kebimbangan rakan sejawat serta menekankan bahawa tujuan OBA adalah untuk **memberdayakan pensyarah** dalam memiliki dan menentukan pentaksiran yang sesuai bagi kursus dan program mereka. Menurut Driscoll dan Wood (2007), proses OBA melibatkan artikulasi hasil pembelajaran, penentuan kriteria dan standard, serta penjajaran kandungan kursus secara konsisten dengan hasil yang dihasratkan dan bukan proses yang sentiasa kemas dan linear, tetapi proses yang dinamik dan memerlukan refleksi berterusan.
-
-### Prinsip 1: Hasil Pembelajaran sebagai Kriteria
-
-Penilaian dijalankan dengan merujuk kepada kriteria yang ditentukan oleh hasil pembelajaran yang telah ditetapkan terlebih dahulu.
-
-Ini adalah perbezaan asas antara OBA dan penilaian tradisional. Dalam OBA, soalan yang perlu dijawab pensyarah sebelum membina sebarang instrumen penilaian ialah: *"Apakah hasil pembelajaran yang ingin dicapai?"*, bukan *"Apakah yang mudah untuk diuji?"*
-
-### Prinsip 2: Kriteria Prestasi
-
-Hasil pembelajaran yang bersifat umum dipecahkan kepada pernyataan lebih spesifik yang boleh diukur bagi menjelaskan pengetahuan, kemahiran dan tingkah laku yang perlu ditunjukkan oleh pelajar sebagai penunjuk pencapaian.
-
-Contoh: Jika Hasil Pembelajaran Kursus (CLO) menyatakan "pelajar boleh menganalisis isu pendidikan kontemporari," maka kriteria prestasi perlu menyatakan dengan lebih spesifik tentang apa yang dimaksudkan dengan "menganalisis"? Pada tahap Taksonomi Bloom yang mana? Dalam konteks yang mana?
-
-### Prinsip 3: Instrumen/Rubrik Penilaian
-
-Kriteria prestasi yang lazimnya disusun dalam bentuk rubrik penilaian, iaitu instrumen pemarkahan berstruktur yang menerangkan tahap kualiti prestasi berbeza bagi setiap kriteria yang ditetapkan. Penggunaan instrumen/rubrik membolehkan proses pemarkahan dijalankan secara objektif, konsisten dan telus.
-
-Rubrik adalah jantung OBA dalam pelaksanaan harian. Ia mengubah penilaian daripada pertimbangan subjektif ("ini rasa macam B+") kepada pertimbangan berasaskan bukti ("prestasi ini menepati deskriptor tahap 4 dalam kriteria analisis").
-
-### Prinsip 4: Pengesahan Pencapaian dan Penggredan
-
-Penggunaan instrumen/rubrik membantu penilai dapat mengesahkan tahap pencapaian pelajar, menetapkan markah dan memberikan gred selaras dengan kriteria prestasi yang telah ditentukan secara sistematik dan berintegriti.
+| **Expanded Opportunities** | Penilaian formatif menjadi keperluan: pelajar perlu peluang belajar daripada maklum balas sebelum penilaian sumatif |
 
 ---
 
 ## Perbezaan antara OBA dan Pentaksiran Tradisional
 
-Ini adalah salah satu soalan yang paling kerap ditanya oleh pensyarah yang baru didedahkan kepada OBE. Jadual berikut merumuskan perbezaan utama:
+Ini antara soalan yang paling kerap ditanya oleh pensyarah yang baru didedahkan kepada OBE. Jadual berikut merumuskan perbezaan utama:
 
 | Aspek | Pentaksiran Tradisional | Pentaksiran Berasaskan Hasil (OBA) |
 |---|---|---|
 | **Fokus** | Kandungan kursus — apa yang diajar | Hasil pembelajaran — apa yang pelajar boleh buat |
-| **Titik permulaan** | Kandungan → Kaedah P&P → Penilaian | Hasil pembelajaran → Penilaian → Kaedah P&P |
-| **Kaedah dominan** | Ujian bertulis, peperiksaan akhir | Pelbagai kaedah: pembentangan, projek, rubrik, portfolio |
-| **Domain yang dinilai** | Kognitif peringkat rendah (hafalan, ingatan semula) | Kognitif, psikomotor, dan afektif secara menyeluruh |
+| **Titik permulaan** | Kandungan → Kaedah PdP → Penilaian | Hasil pembelajaran → Penilaian → Kaedah PdP |
+| **Kaedah dominan** | Ujian bertulis, peperiksaan akhir | Pelbagai kaedah: pembentangan, projek, portfolio, amali, peperiksaan yang dipetakan kepada CLO |
+| **Domain yang dinilai** | Cenderung kepada kognitif, terutamanya mengingat dan memahami | Kognitif, psikomotor, dan afektif secara menyeluruh |
 | **Instrumen penilaian** | Soalan objektif dan esei tanpa rubrik jelas | Rubrik analitik atau holistik berasaskan kriteria prestasi |
 | **Maklum balas** | Markah dan gred sahaja | Maklum balas terperinci tentang tahap pencapaian setiap CLO |
 | **Rujukan standard** | Normatif — berbanding dengan pelajar lain | Kriteria — berbanding dengan standard yang ditetapkan |
 | **Kaitan dengan CLO** | Jarang dipetakan secara eksplisit | Setiap item penilaian dipetakan kepada CLO tertentu |
 
-Penilaian berasaskan ujian dan peperiksaan akhir tidak berkesan untuk menilai domain pembelajaran psikomotor, afektif dan sosial termasuk kemahiran insaniah. Penilaian terhadap domain pembelajaran sedemikian memerlukan kaedah yang autentik dan secara langsung.
+Ujian dan peperiksaan akhir kurang berkesan untuk menilai domain psikomotor, afektif dan sosial, termasuk kemahiran insaniah. Domain sedemikian memerlukan kaedah yang autentik dan langsung.
+
+Perlu juga diingat bahawa Buku Panduan Pentaksiran IPG tidak menolak rujukan norma sepenuhnya. Ujian rujukan norma membandingkan prestasi pelajar dalam kumpulan yang sama, dengan item disusun daripada aras mudah ke sukar dalam nisbah 20:60:20. Ujian rujukan kriteria pula mengukur pencapaian berbanding standard yang ditetapkan. Kedua-duanya ada peranan; yang membezakan OBA ialah keputusan tentang pencapaian hasil pembelajaran dibuat berdasarkan kriteria.
+
+Ini tidak bermakna peperiksaan tidak sah dalam OBA. Peperiksaan akhir masih boleh digunakan, asalkan setiap soalan dipetakan kepada CLO melalui Jadual Spesifikasi Ujian (lihat bahagian seterusnya).
+
+---
+
+## Kerangka Penilaian OBA: Formatif, Sumatif, Pelan Penilaian Kursus dan JSU
+
+Advisory Note yang sama membahagikan penilaian dalam konteks OBE kepada dua jenis:
+
+- **Penilaian formatif** memantau kemajuan pelajar dan memberi maklum balas untuk menambah baik pembelajaran.
+- **Penilaian sumatif**, sama ada dalam bentuk [penilaian berterusan](/pentaksiran-berterusan/) atau penilaian akhir, mengukur pencapaian pelajar dan menentukan markah serta gred berdasarkan hasil pembelajaran.
+
+Buku Panduan Pentaksiran IPG menghuraikan tiga tujuan pentaksiran yang dilaksanakan melalui kedua-dua bentuk ini:
+
+| Tujuan | Maksud ringkas |
+|---|---|
+| **Pentaksiran untuk pembelajaran** (*assessment for learning*) | Bukti pembelajaran digunakan sepanjang PdP untuk memberi maklum balas dan menambah baik pembelajaran (formatif). |
+| **Pentaksiran sebagai pembelajaran** (*assessment as learning*) | Pelajar memantau dan menilai pembelajaran sendiri melalui pentaksiran kendiri dan rakan sebaya. |
+| **Pentaksiran tentang pembelajaran** (*assessment of learning*) | Bukti pembelajaran digunakan untuk membuat penghakiman berdasarkan standard, untuk pensijilan dan akauntabiliti (sumatif). |
+
+Untuk menterjemahkan prinsip OBA kepada struktur kursus yang terurus, MQA menyebut dua alat perancangan:
+
+| Alat | Peringkat | Fungsi |
+|---|---|---|
+| **Pelan Penilaian Kursus** | Makro (keseluruhan kursus) | Menyenaraikan kaedah penilaian, memetakan setiap tugasan kepada CLO tertentu, dan menetapkan pemberat setiap komponen. Pemberat perlu selaras dengan tahap penekanan dan Masa Pembelajaran Pelajar (MPP) bagi aktiviti tersebut. |
+| **Jadual Spesifikasi Ujian (JSU)** | Mikro (satu instrumen, contohnya peperiksaan akhir) | Memetakan setiap item soalan kepada CLO, topik dan aras taksonomi. Tujuannya memastikan instrumen mempunyai kesahan, kebolehpercayaan dan keseimbangan dari segi kandungan dan tahap kesukaran. |
+
+Advisory Note ini juga menjelaskan fleksibiliti dan autonomi institusi. Contohnya, dalam ringkasan tindakan UPM, fakulti boleh menetapkan pendekatan formatif dan sumatif serta pembahagian markah antara penilaian berterusan dan penilaian akhir mengikut bidang dan tahap pengajian, asalkan pencapaian hasil pembelajaran diukur dengan tepat, telus dan adil. Bagi program di bawah badan profesional, komponen penilaian ditentukan oleh badan profesional berkaitan. Di IPG, padanan bagi alat-alat ini ialah Maklumat Kursus (MK), Jadual Spesifikasi Tugasan (JST) dan JSU, seperti yang diterangkan dalam bahagian [Pelaksanaan OBA di IPG](#pelaksanaan-oba-di-ipg-buku-panduan-pentaksiran-2026).
+
+### Contoh: Dari HPK hingga Gred
+
+Contoh ringkas ini menunjukkan keempat-empat prinsip MQA dalam satu tugasan kursus pendidikan, menggunakan format IPG.
+
+**HPK (contoh):** Merancang rancangan pengajaran harian yang menerapkan strategi pembelajaran aktif berdasarkan standard pembelajaran DSKP. *(C6, HPP3, KKG5)*
+
+Kod dalam kurungan mengikut format Maklumat Kursus IPG: aras taksonomi (C6, mencipta), Hasil Pembelajaran Program yang didokong (HPP3, bergantung kepada pemetaan program), dan sub-atribut Kemahiran Insaniah yang diukur (KKG5, membina pengetahuan baharu yang bermakna dalam dunia sebenar).
+
+**Langkah 1: Hasil pembelajaran sebagai kriteria.** Kata kerja HPK ialah *merancang*, jadi tugasannya mesti meminta pelajar menghasilkan RPH sebenar beserta rasional. Kuiz tentang teori pembelajaran aktif tidak memadai kerana ia hanya mengukur ingatan.
+
+**Langkah 2: Kriteria prestasi.** HPK dipecahkan kepada kriteria berikut:
+
+1. Objektif pembelajaran selari dengan standard pembelajaran dan boleh diukur.
+2. Aktiviti pembelajaran aktif menyokong objektif.
+3. Pentaksiran dalam RPH benar-benar mengukur objektif.
+4. Rasional pemilihan strategi dihujahkan dengan jelas.
+5. Elemen VBE, contohnya **Integriti**: rasional dan refleksi ditulis secara jujur dan autentik, dengan sumber diakui.
+
+Contoh dalam Buku Panduan Pentaksiran IPG memperuntukkan wajaran kecil kepada elemen VBE dalam tugasan (contohnya 5%), dan elemen ESD boleh dinyatakan dalam spesifikasi tanpa dinilai dalam rubrik.
+
+**Langkah 3: Rubrik.** Setiap kriteria diberi deskriptor mengikut skala lima tahap IPG. Contoh bagi kriteria 2:
+
+| Tahap | Deskriptor |
+|---|---|
+| **Amat Cemerlang** | Setiap aktiviti melibatkan murid secara aktif, dikaitkan dengan jelas kepada objektif, dan disesuaikan untuk kepelbagaian kebolehan murid. Peruntukan masa realistik. |
+| **Cemerlang** | Setiap aktiviti aktif dan dikaitkan dengan jelas kepada objektif. Peruntukan masa realistik. |
+| **Kepujian** | Kebanyakan aktiviti aktif dan selari dengan objektif. Satu atau dua kaitan kurang jelas. |
+| **Sederhana** | Ada aktiviti aktif, tetapi sebahagiannya tidak menyokong objektif. |
+| **Lemah** | Aktiviti didominasi syarahan guru atau tidak berkaitan dengan objektif. |
+
+**Langkah 4: Pengesahan pencapaian dan penggredan.** Skor setiap kriteria dijumlahkan mengikut wajaran tugasan dalam Maklumat Kursus (contohnya 30% markah kursus). Skor disahkan melalui penyelarasan dan moderasi, kemudian ditukar kepada gred. Data pencapaian HPK bagi seluruh kumpulan dianalisis untuk penambahbaikan kualiti berterusan (CQI) pada semester berikutnya.
+
+---
+
+## Pelaksanaan OBA di IPG: Buku Panduan Pentaksiran 2026
+
+Bagi pensyarah IPG, rujukan utama pelaksanaan OBA ialah **Buku Panduan Pentaksiran IPG (Kemas Kini Ogos 2026)** terbitan Pusat Peperiksaan dan Penganugerahan IPGM. Buku ini digunakan bagi program perguruan praperkhidmatan dan kursus dalam perkhidmatan, berlandaskan Peraturan-Peraturan Pendidikan (Institut-Institut Pendidikan Guru) 2010 [P.U.(A) 388], dan sejajar dengan keperluan jaminan kualiti MQA dan MQF.
+
+### Istilah MQA dan Padanannya di IPG
+
+| Istilah umum / MQA | Istilah di IPG | Catatan |
+|---|---|---|
+| Course Learning Outcome (CLO) | **Hasil Pembelajaran Kursus (HPK)** | Ditanda dengan aras taksonomi, HPP dan kod Kemahiran Insaniah |
+| Programme Learning Outcome (PLO) | **Hasil Pembelajaran Program (HPP)** | Dipetakan kepada 11 hasil pembelajaran MQF |
+| Maklumat kursus / Pelan Penilaian Kursus | **Maklumat Kursus (MK)** | Menetapkan HPK, kaedah dan wajaran pentaksiran |
+| Penilaian berterusan | **Pentaksiran Berterusan (PB)** | Tugasan sepanjang semester |
+| Spesifikasi tugasan | **Jadual Spesifikasi Tugasan (JST)** | Panduan dalaman pensyarah; tidak diedarkan kepada pelajar |
+| Jadual Spesifikasi Ujian | **Jadual Spesifikasi Ujian (JSU)** | Untuk peperiksaan akhir |
+| Masa Pembelajaran Pelajar (SLT) | **Jam Pembelajaran Pelajar (JPP)** | 1 kredit = 40 jam pembelajaran nosional |
+
+Contoh HPK sebenar daripada buku panduan ini menunjukkan cara pengekodan tersebut: *"Menganalisis ciri-ciri profesional dan akauntabiliti guru ... (C4, A3, HPP2, HPP11, KKG2, KEP6)"*. Satu HPK boleh membawa aras kognitif (C4) dan afektif (A3), dua HPP, serta dua sub-atribut Kemahiran Insaniah (KKG2, menganalisis maklumat; KEP6).
+
+### Kerangka Pentaksiran Berterusan Pembelajaran Bermakna
+
+PB di IPG berpandukan Kerangka Pentaksiran Berterusan Pembelajaran Bermakna, gabungan Model Konseptual Kerja Kursus (2019) dan [Kapasiti Pedagogi Pembelajaran Bermakna (KPPB)](/apa-itu-kppb/). Kerangka ini bertunjangkan kitaran inkuiri kolaboratif dan menyasarkan [Kompetensi Global 6C](/6c-kppb/): sahsiah, kewarganegaraan, kolaboratif, komunikasi, kreativiti dan pemikiran kritis. Elemen 6C dipilih mengikut kesesuaian tugasan.
+
+### Tiga Peringkat Penyediaan PB
+
+Panduan IPG menetapkan tiga peringkat:
+
+1. **Penggubalan JST.** Pensyarah merungkai MK, menentukan tajuk yang merentasi beberapa topik utama, memasukkan elemen KPPB, menyenaraikan HPK yang ditaksir, menentukan objektif PB (mematuhi aras kognitif, afektif, psikomotor, Kemahiran Insaniah dan elemen VBE dalam HPK), menentukan tugasan, dan menetapkan pemberatan markah mengikut MK.
+2. **Penggubalan soalan tugasan.** Tugasan kumpulan dihadkan kepada 2 hingga 3 orang, kecuali aktiviti tertentu seperti drama atau sukan.
+3. **Penggubalan rubrik dan skema pemarkahan.** Rubrik mesti selaras dengan HPK dan JST, mengintegrasikan Kemahiran Insaniah, VBE dan elemen KPPB yang sesuai, dan **disertakan bersama soalan tugasan** sebagai panduan pelajar.
+
+### Tempoh PB dan JPP
+
+Tempoh pelaksanaan PB ialah separuh daripada tempoh kuliah. Contohnya, kuliah 14 minggu memberi tempoh PB 42 hari (14 ÷ 2 × 6 hari), dan kuliah 7 minggu memberi 21 hari. Jam tugasan pula dirancang berdasarkan JPP dalam MK. Antara anggaran JPP pentaksiran dalam panduan ini:
+
+| Jenis pentaksiran | JPP bersemuka | JPP tidak bersemuka |
+|---|---|---|
+| Penulisan 1000 patah perkataan | – | 5–6 jam |
+| Penulisan 2000 patah perkataan | – | 10–12 jam |
+| Ujian | 1 jam | 3 jam |
+| Peperiksaan 2 jam | 2 jam | 6 jam |
+
+### Skala Rubrik Lima Tahap IPG
+
+Panduan ini menyediakan contoh skala yang menukar tahap rubrik kepada julat markah bagi PB dan peperiksaan akhir:
+
+| Tahap | Julat (tugasan 100 markah) |
+|---|---|
+| Amat Cemerlang | 90.0 – 100 |
+| Cemerlang | 75.0 – 89.9 |
+| Kepujian | 60.0 – 74.9 |
+| Sederhana | 50.0 – 59.9 |
+| Lemah | di bawah 50.0 |
+
+Bagi tugasan yang diperuntukkan markah lain, julat yang sama dikira secara berkadar. Panduan ini juga menjelaskan pilihan bilangan tahap: rubrik **3 tahap** untuk kemahiran asas seperti amali ringkas, **4 tahap** untuk tugasan berasaskan kompetensi seperti pengajaran mikro (tiada tahap tengah, jadi pemeriksa tidak cenderung memilih skor sederhana), dan **5 tahap** untuk tugasan kompleks seperti projek penyelidikan, portfolio dan kajian kes.
+
+### JSU untuk Peperiksaan Akhir
+
+JSU disediakan selepas MK digubal dan disahkan. Ia memetakan kandungan, HPK, aras taksonomi (Bloom dan semakan Anderson & Krathwohl, 2001) serta wajaran markah, dan menjadi bukti kesahan kandungan ujian. Di IPG, JSU setiap kursus dibina oleh *resource person* daripada IPG kampus yang dilantik oleh IPGM.
 
 ---
 
 ## Mengapa OBA Relevan dengan Falsafah Pendidikan Negara?
 
-Kembali kepada FPN 1988 yang dibincangkan pada awal artikel ini, perhatikan bahawa falsafah tersebut menekankan **empat domain perkembangan manusia**: intelek, rohani, emosi, dan jasmani.
+Kembali kepada FPN 1988 pada awal artikel ini: falsafah tersebut menekankan perkembangan insan yang seimbang dari segi **intelek, rohani, emosi dan jasmani**.
 
-Sekiranya sistem penilaian hanya mengukur domain kognitif (intelek) melalui peperiksaan bertulis, maka domain-domain lain tidak pernah benar-benar dinilai, dan dengan sendirinya tidak akan diperkembangkan dengan serius dalam proses pembelajaran.
+Sekiranya sistem penilaian hanya mengukur intelek melalui peperiksaan bertulis, dimensi lain tidak pernah benar-benar dinilai, dan dengan sendirinya tidak akan diperkembangkan dengan serius dalam proses pembelajaran.
 
-OBA menyediakan rangka kerja untuk menilai **kesemua domain** ini secara sistematik melalui kepelbagaian kaedah penilaian:
+OBA menyediakan rangka kerja untuk menilai dimensi-dimensi ini secara sistematik melalui kepelbagaian kaedah penilaian:
 
-| Domain FPN | Cara OBA Mengukurnya |
-|---|---|
-| **Intelek** | Ujian bertulis, kuiz, analisis kes — mengukur CLO kognitif |
-| **Kemahiran** | Pembentangan, projek, demonstrasi — mengukur CLO psikomotor |
-| **Emosi & Sosial** | Kerja berkumpulan, refleksi, penilaian rakan sebaya — mengukur CLO afektif |
-| **Etika & Nilai** | Portfolio, jurnal reflektif, pemerhatian — mengukur CLO nilai dan profesionalisme |
+| Dimensi FPN | Contoh hasil pembelajaran | Contoh kaedah OBA |
+|---|---|---|
+| **Intelek** | Menganalisis, menilai dan mencipta | Ujian bertulis, analisis kes, projek |
+| **Rohani** | Nilai, etika dan integriti | Jurnal reflektif, portfolio, pemerhatian amalan |
+| **Emosi** | Pengurusan diri, empati dan kerja berpasukan | Penilaian rakan sebaya, refleksi, kerja berkumpulan |
+| **Jasmani** | Kemahiran praktikal dan psikomotor | Demonstrasi, amali, praktikum |
 
-Ini adalah hubungan langsung antara falsafah pendidikan yang diisytiharkan pada 1988 dengan amalan pentaksiran di institusi pengajian tinggi hari ini.
+MQF Edisi Kedua (2024) sendiri membuat kaitan ini. Ia menyatakan bahawa penekanan semula kepada nilai melalui Pendidikan Berteraskan Nilai (VBE) akan melahirkan graduan yang benar-benar holistik dan seimbang seperti yang dihasratkan oleh Falsafah Pendidikan Kebangsaan.
+
+---
+
+## Asas Perundangan dan Kawal Selia OBA di Malaysia
+
+OBA bukan sekadar pendekatan pilihan pensyarah. Tiada akta yang menyebut "OBA" secara literal, tetapi kewajipannya datang melalui standard yang dikeluarkan oleh MQA di bawah Akta 679, dan dipatuhi oleh institusi yang ditubuhkan di bawah akta-akta lain.
+
+### 1. Akta Agensi Kelayakan Malaysia 2007 (Akta 679)
+
+Akta 679 menubuhkan **Agensi Kelayakan Malaysia (MQA)** sebagai badan yang bertanggungjawab memastikan kualiti pendidikan tinggi di Malaysia. Kerangka Kelayakan Malaysia (MQF) dimandatkan di bawah akta ini sebagai kerangka menyeluruh bagi semua kelayakan pasca menengah. MQA:
+
+- Menetapkan standard dan kriteria akreditasi program
+- Mengeluarkan Kod Amalan Akreditasi Program (COPPA), Standard Program dan Garis Panduan Amalan Baik
+- Menetapkan MQF, yang dibina atas prinsip OBE
+
+Dengan kata lain, OBA ialah **keperluan akreditasi**: program yang ingin mendapat dan mengekalkan akreditasi MQA mesti mematuhi MQF dan COPPA, yang mewajibkan reka bentuk program selari dengan OBE. Institusi swaakreditasi juga tetap terikat dengan MQF dan standard MQA.
+
+### 2. Akta Universiti dan Kolej Universiti 1971 (Akta 30)
+
+Akta 30 ialah akta utama yang menjadi asas penubuhan universiti awam di Malaysia. Dalam konteks OBA, akta ini memberi kuasa kepada Senat universiti dalam hal ehwal akademik, termasuk dasar penilaian dan peperiksaan, yang mesti selari dengan keperluan akreditasi MQA dan MQF.
+
+Akta ini telah dipinda beberapa kali, termasuk pada 2019. Pada September 2026, Menteri Pendidikan Tinggi memaklumkan bahawa cadangan pindaan yang melibatkan 44 seksyen dijangka dibentangkan untuk bacaan kali pertama di Parlimen pada sesi Oktober atau Disember 2026. Bahagian ini akan dikemas kini apabila pindaan tersebut diluluskan.
+
+### 3. Akta Institusi Pendidikan Tinggi Swasta 1996 (Akta 555)
+
+Akta 555 mengawal selia semua institusi pendidikan tinggi swasta (IPTS) di Malaysia. Mana-mana IPTS yang ingin mendapat pengiktirafan dan akreditasi MQA mesti memastikan program dan sistem penilaiannya mematuhi standard yang ditetapkan, termasuk prinsip OBE dan OBA.
+
+### Bagaimana dengan IPG?
+
+Institut Pendidikan Guru (IPG) berada di bawah Kementerian Pendidikan Malaysia, bukan di bawah Akta 30 atau Akta 555. Pentaksiran di IPG berlandaskan Peraturan-Peraturan Pendidikan (Institut-Institut Pendidikan Guru) 2010 [P.U.(A) 388], dan Buku Panduan Pentaksiran IPG menyatakan pelaksanaannya sejajar dengan keperluan jaminan kualiti MQA dan MQF.
+
+IPG juga sedang mematuhi MQF 2.0 (2024). Menurut Buku Panduan Kemahiran Insaniah IPG (Kemas Kini 2026), tempoh transisi pematuhan ialah 1 Ogos 2024 hingga 31 Julai 2026, dan Mesyuarat Senat Institut-institut Pendidikan Guru kali ke-73 (17 Jun 2025) menetapkan penggubalan kurikulum baharu yang mematuhi MQF 2.0 (2024).
 
 ---
 
@@ -240,7 +412,7 @@ Berikut adalah 8 tahap MQF dan kelayakan yang berkaitan:
 
 **Tahap 6 (Ijazah Sarjana Muda)** adalah tahap yang paling relevan kepada pensyarah IPG dan IPTA/IPTS yang mengajar program prasiswazah. Kelayakan pada Tahap 6 ini membawa beban pembelajaran minimum 120 kredit dan menyediakan pelajar untuk pekerjaan dalam kerjaya, pekerjaan, atau bidang profesional tertentu, serta untuk mengikuti pendidikan pascasiswazah. Semua CLO dalam program Ijazah Sarjana Muda mesti menunjukkan pencapaian pada tahap kognitif, kemahiran, dan nilai yang sepadan dengan deskriptor Tahap 6 MQF.
 
-MQF menetapkan bahawa semua program pengajian tinggi perlu mencapai hasil pembelajaran yang distrukturkan mengikut kelompok (kluster) tertentu. Namun penting untuk difahami bahawa **struktur ini telah mengalami semakan** antara edisi MQF pertama (2007) dan edisi kedua (2017/2024).
+MQF menetapkan bahawa semua program pengajian tinggi perlu mencapai hasil pembelajaran yang distrukturkan mengikut kelompok (kluster) tertentu. Namun penting untuk difahami bahawa **struktur ini telah disemak** antara MQF edisi pertama (2007) dan edisi kedua (2017, dikemas kini 2024).
 
 ### MQF Edisi Pertama (2007) — 8 Domain Hasil Pembelajaran
 
@@ -261,7 +433,7 @@ MQF edisi pertama menekankan lapan domain hasil pembelajaran untuk graduan Malay
 
 ### MQF Edisi Kedua (2017) — Dikemas kini 2024: 5 Kluster, 11 Komponen Hasil Pembelajaran
 
-Dalam MQF edisi kedua, lapan domain hasil pembelajaran dalam MQF edisi pertama telah dikumpulkan semula (clustered), diprofil semula dan dikekalkan. Hasilnya, 8 domain tersebut disusun ke dalam **5 kluster** yang mengandungi **11 komponen hasil pembelajaran** yang lebih terperinci:
+Dalam MQF edisi kedua, lapan domain hasil pembelajaran dalam MQF edisi pertama telah dikumpulkan semula (*clustered*), diprofil semula dan dikekalkan. Hasilnya, 8 domain tersebut disusun ke dalam **5 kluster** yang mengandungi **11 komponen hasil pembelajaran** yang lebih terperinci:
 
 ---
 
@@ -338,13 +510,27 @@ Etika dan nilai adalah penting pada peringkat personal, organisasi, kemasyarakat
 | **5. Etika dan Profesionalisme** | Ethics and Professionalism | 1 |
 | | **Jumlah** | **11** |
 
----
+Perbandingan ringkas antara kedua-dua edisi:
+
+| Aspek | MQF 2007 (8 Domain) | MQF 2017/2024 (5 Kluster, 11 Komponen) |
+|---|---|---|
+| **Struktur** | 8 domain berasingan | 5 kluster, 11 komponen terperinci |
+| **Kemahiran Digital** | Tidak dinyatakan secara eksplisit | **Baharu** — Komponen 3d |
+| **Keusahawanan** | Domain 8 berasingan | Komponen 4b dalam Kluster 4 |
+| **Kelestarian (ESD)** | Tiada | **Baharu** dalam MQF 2024 |
+| **Pemetaan PLO** | Kepada 8 domain | Kepada 5 kluster / 11 komponen |
+
+Bagi pensyarah IPG yang mengajar program PISMP atau program lain di bawah MQF, penting untuk memastikan PLO program dan CLO kursus **merujuk kepada 11 komponen MQF 2017/2024**, bukan lagi 8 domain edisi pertama 2007 yang sudah digantikan.
+
+Menurut Advisory Note MQA Bil. 1/2026, MQF melaksanakan pendekatan OBE dengan menetapkan lapan tahap kelayakan dan menghuraikan hasil pembelajaran bagi setiap tahap dalam lima kluster ini.
+
+Implikasi langsung kepada pensyarah: setiap kursus yang diajar perlu mempunyai Hasil Pembelajaran Kursus (CLO) yang **dipetakan kepada sekurang-kurangnya satu kluster** daripada lima kluster MQF ini. Setiap CLO pula perlu dinilai melalui instrumen penilaian yang sesuai — inilah OBA dalam tindakan.
 
 ---
 
 ### Penambahan Baharu MQF 2024 — Kompetensi Teras Kelestarian (ESD)
 
-MQF 2.0 (2024) mewajibkan pengintegrasian Education for Sustainable Development (ESD) dan Values-Based Education (VBE) ke dalam kurikulum pendidikan tinggi.
+MQF Edisi Kedua (2024), yang juga disebut MQF 2.0 (2024), berkuat kuasa mulai 1 Ogos 2024 melalui Pekeliling MQA Bil. 5/2024. Ia mengekalkan struktur kerangka tetapi menekankan empat bidang: Pendidikan Berteraskan Nilai (VBE), laluan pembelajaran fleksibel, Agenda Kelestarian Global, dan harmonisasi MQF dengan kerangka sektoral. Bagi kelestarian, MQF 2024 menyatakan bahawa kompetensi utama Pendidikan untuk Pembangunan Lestari (ESD) *patut* dikaitkan dan diintegrasikan ke dalam lima kluster hasil pembelajaran, dan mengesyorkan IPT memasukkan agenda kelestarian di semua tahap MQF.
 
 UNESCO (2017) telah mengenal pasti lapan kompetensi utama yang diperlukan oleh individu bagi membolehkan kita sebagai masyarakat mencapai Matlamat Pembangunan Lestari (SDGs). UNESCO membayangkan bahawa kompetensi-kompetensi ini akan dibangunkan melalui pendidikan untuk pelajar dari semua peringkat umur, di seluruh dunia.
 
@@ -493,10 +679,10 @@ Terdapat empat tahap kemahiran yang boleh digunakan untuk menentukan tahap pengu
 |---|---|---|
 | **Pemula (Beginner)** | Pengetahuan | Mengingat kembali fakta, istilah, dan konsep asas ESD |
 | **Pertengahan (Intermediate)** | Kefahaman + Aplikasi | Memahami, menerangkan, dan mengaplikasikan pengetahuan ESD |
-| **Lanjutan (Advanced)** | Analisis + Sintesis | Menganalisis, menilai, dan mencipta berdasarkan kefahaman ESD |
+| **Lanjutan (Advanced)** | Analisis + Sintesis | Menganalisis isu kelestarian dan menggabungkan idea daripada pelbagai sumber |
 | **Pakar (Expert)** | Penilaian + Penciptaan | Menilai secara kritis, mensintesis, dan menjana pandangan baharu dalam ESD |
 
-Ini bermakna dalam mereka bentuk CLO berasaskan ESD, pensyarah perlu menentukan pada **tahap mana** pelajar perlu menguasai setiap kompetensi — Pemula untuk kursus pengenalan, Pakar untuk kursus final year atau pasca siswazah.
+Ini bermakna dalam mereka bentuk CLO berasaskan ESD, pensyarah perlu menentukan pada **tahap mana** pelajar perlu menguasai setiap kompetensi: Pemula untuk kursus pengenalan, Pakar untuk kursus tahun akhir atau pascasiswazah.
 
 #### Penjajaran 8 Kompetensi ESD kepada 5 Kluster MQF
 
@@ -510,10 +696,6 @@ Ini bermakna dalam mereka bentuk CLO berasaskan ESD, pensyarah perlu menentukan 
 | **Pemikiran Kritikal** | Kluster 2 + Kluster 3 | Kognitif |
 | **Kesedaran Kendiri** | Kluster 4 (Personal) | Sosio-Emosional |
 | **Penyelesaian Masalah Bersepadu** | Merentas semua kluster | Kognitif + Sosio-Emosional + Tingkah Laku |
-
-
-
-
 
 ### Penambahan Baharu MQF 2024 — Pendidikan Berteraskan Nilai (VBE)
 
@@ -533,13 +715,13 @@ Perbezaan kritikal antara VE dan VBE yang perlu difahami pensyarah:
 | **Matlamat** | Memahami konsep moral dan membuat keputusan etika | Membentuk watak dan menghayati nilai dalam tingkah laku harian |
 | **Pentaksiran** | Berasaskan pengetahuan | Refleksi berterusan, pemerhatian tingkah laku, maklum balas komuniti |
 
-VBE bukan sekadar kefahaman teoritikal; ia tentang mewujudkan persekitaran di mana nilai-nilai itu dihayati, dialami, dicontohi dan diinternalisasikan melalui setiap aspek perjalanan pendidikan.
+VBE bukan sekadar kefahaman teoretikal. Ia tentang mewujudkan persekitaran di mana nilai-nilai itu dihayati, dialami, dicontohi dan diinternalisasikan melalui setiap aspek perjalanan pendidikan.
 
 ---
 
 #### 6 Nilai Teras MQF yang Dicadangkan (MQF Proposed Core Values)
 
-Nilai-nilai teras ini dibangunkan berdasarkan Kebajikan Cardinal dan perbincangan kumpulan fokus, dengan tujuan membimbing perkembangan holistik individu, mempromosikan tingkah laku etika, tanggungjawab sivik dan integriti peribadi.
+Nilai-nilai teras ini dibangunkan berdasarkan empat Kebajikan Kardinal (hikmah, keberanian, kesederhanaan dan keadilan) dan perbincangan kumpulan fokus, dengan tujuan membimbing perkembangan holistik individu, mempromosikan tingkah laku etika, tanggungjawab sivik dan integriti peribadi.
 
 Berikut adalah **definisi rasmi** setiap nilai teras mengikut GVBE 2026:
 
@@ -565,9 +747,9 @@ Keadilan sebagai nilai teras merujuk kepada prinsip keadilan, ekuiti dan kebenar
 
 **3. Integriti (Integrity)**
 
-Integriti sebagai nilai teras merujuk kepada kualiti kejujuran, teguh secara moral dan konsisten dalam prinsip, tingkah laku dan kata-kata seseorang — walaupun tiada yang memerhatikan. Ia melibatkan pematuhan norma etika, bertindak dengan betul atas sebab yang boleh dibenarkan, dan mengekalkan kebolehpercayaan dan kebolehpercayaan dalam mana-mana situasi.
+Integriti sebagai nilai teras merujuk kepada kualiti kejujuran, teguh secara moral dan konsisten dalam prinsip, tingkah laku dan kata-kata seseorang — walaupun tiada yang memerhatikan. Ia melibatkan pematuhan norma etika, bertindak dengan betul atas sebab yang boleh dibenarkan, dan mengekalkan sifat amanah dan boleh diharap dalam apa jua situasi.
 
-*Sub-nilai:* Kejujuran, Tanggungjawab Sosial/Bersama, Kewarganegaraan yang Bertanggungjawab, Akauntabiliti, Kepimpinan, Kerja Berpasukan, Etiket, Kejujuran Intelektual, Ketelusan, Penaakulan Etika, Keterbukaan Perspektif
+*Sub-nilai:* Kejujuran, Tanggungjawab Sosial/Bersama, Kewarganegaraan yang Bertanggungjawab, Akauntabiliti, Kepimpinan, Kerja Berpasukan, Etiket, Kejujuran Intelektual, Ketelusan, Penaakulan Etika, Berbeza Pendapat secara Hormat, Pengambilan Perspektif, Kesedaran Kontekstual
 
 *Penjajaran MQF:* Pengetahuan dan Kefahaman · Kemahiran Kognitif · Kemahiran Interpersonal · Kemahiran Komunikasi · Kemahiran Digital · Kemahiran Numerasi · Kepimpinan, Tanggungjawab dan Autonomi · Kemahiran Personal · Etika dan Profesionalisme
 
@@ -577,7 +759,7 @@ Integriti sebagai nilai teras merujuk kepada kualiti kejujuran, teguh secara mor
 
 Kesyukuran sebagai nilai teras merujuk kepada penghargaan dan pengiktirafan mendalam atas belas kasih, sokongan dan nikmat yang diterima daripada orang lain dan kehidupan. Ia adalah satu sikap dan moral yang mengiktiraf aspek positif kehidupan serta mempromosikan kerendahan hati, kemurahan hati dan keredaan.
 
-*Sub-nilai:* Rasa Hormat, Kesedarantenang (Mindfulness), Kecerdasan Emosi, Kemampanan, Keperimanusiaan, Kepelbagaian, Kesedaran Multikultural, Kepaduan Sosial, Kesabaran, Kesopanan, Keharmonian, Kepekaan Etika
+*Sub-nilai:* Rasa Hormat, Kesedaran Penuh (*Mindfulness*), Kecerdasan Emosi, Kemampanan, Keperimanusiaan, Kepelbagaian, Kesedaran Multikultural, Kepaduan Sosial, Kesabaran, Kesopanan, Keharmonian, Kepekaan Etika
 
 *Penjajaran MQF:* Pengetahuan dan Kefahaman · Kemahiran Interpersonal · Kemahiran Komunikasi · Kepimpinan, Tanggungjawab dan Autonomi · Kemahiran Personal · Etika dan Profesionalisme
 
@@ -597,21 +779,23 @@ Keberanian sebagai nilai teras merujuk kepada kekuatan dalaman dan sikap positif
 
 Altruisme sebagai nilai teras merujuk kepada keprihatinan tanpa mementingkan diri terhadap kesejahteraan orang lain, di mana individu bertindak atas dasar keprihatinan, belas kasih dan kemurahan hati yang tulen, tanpa menjangkakan keuntungan atau ganjaran peribadi. Ia menjelmakan semangat membantu, berkhidmat dan berkorban untuk orang lain, yang sering didorong oleh empati, kasih sayang atau keyakinan moral.
 
-*Sub-nilai:* Kuotien Rohani, Kemurahan Hati, Kepedulian, Kerendahan Hati, Semangat Komuniti, Rasionaliti, Pencarian Kebenaran, Kesedaran Diri dan Sosial, Menyuruh Kebaikan
+*Sub-nilai:* Kecerdasan Rohani, Kemurahan Hati, Kepedulian, Kerendahan Hati, Semangat Komuniti, Rasionaliti, Pencarian Kebenaran, Kesedaran Diri dan Sosial, Menyeru Kebaikan
 
 *Penjajaran MQF:* Pengetahuan dan Kefahaman · Kemahiran Interpersonal · Kemahiran Komunikasi · Kemahiran Digital · Kemahiran Numerasi · Kepimpinan, Tanggungjawab dan Autonomi · Kemahiran Personal · Kemahiran Keusahawanan · Etika dan Profesionalisme
 
 ---
 
-#### Penjajaran 6 Nilai Teras — MQF, FPN, dan Rukun Negara
+#### Penjajaran 6 Nilai Teras — FPK dan Rukun Negara
 
-| Nilai Teras | Penjajaran FPN | Penjajaran Rukun Negara |
+GVBE 2026 merujuk tiga atribut graduan yang diturunkan daripada Falsafah Pendidikan Kebangsaan dalam Akta Pendidikan 1996: berilmu dan berkemahiran dalam bidang, berupaya bekerja bersama dalam industri dan masyarakat, serta berperibadi dan berakhlak baik. Jadual berikut menunjukkan penjajaran yang dicadangkan:
+
+| Nilai Teras | Atribut FPK | Penjajaran Rukun Negara |
 |---|---|---|
 | **Maruah** | Berupaya bekerja bersama dalam industri dan masyarakat | Kepercayaan kepada Tuhan · Kesetiaan kepada Raja dan Negara |
-| **Keadilan** | Berupaya bekerja bersama · Berkepribadian baik | Kepercayaan kepada Tuhan · Kesetiaan kepada Raja dan Negara · Keluhuran Perlembagaan · Kedaulatan Undang-undang |
+| **Keadilan** | Berupaya bekerja bersama · Berperibadi baik | Kepercayaan kepada Tuhan · Kesetiaan kepada Raja dan Negara · Keluhuran Perlembagaan · Kedaulatan Undang-undang |
 | **Integriti** | Berupaya bekerja bersama | Kepercayaan kepada Tuhan · Keluhuran Perlembagaan · Kedaulatan Undang-undang |
-| **Kesyukuran** | Berkepribadian baik | Kepercayaan kepada Tuhan · Kesopanan dan Kesusilaan |
-| **Keberanian** | Berkepribadian baik | Kepercayaan kepada Tuhan · Kesopanan dan Kesusilaan |
+| **Kesyukuran** | Berperibadi baik | Kepercayaan kepada Tuhan · Kesopanan dan Kesusilaan |
+| **Keberanian** | Berperibadi baik | Kepercayaan kepada Tuhan · Kesopanan dan Kesusilaan |
 | **Altruisme** | Berpengetahuan dan berkemahiran | Kepercayaan kepada Tuhan · Kesopanan dan Kesusilaan · Kedaulatan Undang-undang |
 
 ---
@@ -626,52 +810,43 @@ GVBE 2026 membezakan tiga tahap kedalaman pelaksanaan VBE:
 | **Embed (Menyerap)** | Penempatan nilai secara sengaja dalam modul, aktiviti, atau pentaksiran tertentu | Kedalaman sederhana | Mereka bentuk senario kepimpinan yang meneroka "keberanian" secara eksplisit |
 | **Integrate (Mengintegrasikan)** | Penjajaran sistematik nilai merentasi kurikulum, pedagogi, pentaksiran, dan budaya institusi | Mendalam dan holistik | Memetakan "integriti" merentasi hasil pembelajaran, strategi pengajaran, rubrik, dan program kepimpinan pelajar sepanjang semester |
 
-HEPs yang baru mula disarankan bermula dengan **Infuse**, kemudian berkembang ke **Embed**, dan akhirnya mencapai **Integrate** — di mana nilai bukan sahaja diajar, tetapi dihayati sepenuhnya.
+IPT yang baru bermula disarankan memulakan dengan **Infuse**, kemudian berkembang ke **Embed**, dan akhirnya mencapai **Integrate**, iaitu tahap nilai bukan sahaja diajar tetapi dihayati sepenuhnya. IPT yang sudah mempunyai nilai teras institusi sendiri boleh mengekalkannya, asalkan selari dengan FPK dan prinsip Rukun Negara.
 
 ---
 
 #### Penjajaran VBE dengan Kemahiran Insaniah IPG
 
-Bagi pensyarah IPG khususnya: IPGM menerapkan VBE melalui sub-atribut Kemahiran Insaniah. Ini menunjukkan kurikulum IPG telah memenuhi keperluan VBE seperti yang ditekankan dalam MQA sejak Jun 2022. Sehubungan dengan itu, tiada keperluan penjajaran VBE yang baharu kepada kurikulum IPG KPM.
+Bagi pensyarah IPG, rujukannya ialah **Buku Panduan Kemahiran Insaniah IPG (Kemas Kini 2026)**. Buku ini menyatakan bahawa IPGM menerapkan VBE melalui sub-atribut Kemahiran Insaniah, bahawa kurikulum IPG telah memenuhi keperluan VBE sejak semakan Maklumat Kursus yang berkuat kuasa Jun 2022, dan bahawa **tiada keperluan penjajaran VBE baharu** kepada kurikulum IPG KPM.
 
-| Nilai Teras VBE | Komponen Kemahiran Insaniah IPG |
-|---|---|
-| **Maruah** | KAT (Kepimpinan & Autonomi) + KMI (Interpersonal) |
-| **Keadilan** | KEP (Etika & Profesionalisme) |
-| **Integriti** | KMD (Digital) + KKG (Kognitif) |
-| **Kesyukuran** | KMK (Komunikasi) |
-| **Keberanian** | KMP (Personal) |
-| **Altruisme** | KMU (Keusahawanan) + KMN (Numerasi) |
+Kemahiran Insaniah IPG terdiri daripada sembilan kemahiran yang dijajarkan dengan hasil pembelajaran MQF. Setiap kemahiran dipadankan dengan nilai teras VBE seperti berikut:
+
+| Kemahiran Insaniah IPG | Kod | Nilai teras VBE |
+|---|---|---|
+| Kemahiran Kognitif | KKG | Integriti |
+| Kemahiran Interpersonal | KMI | Maruah |
+| Kemahiran Komunikasi | KMK | Kesyukuran |
+| Kemahiran Digital | KMD | Integriti |
+| Kemahiran Numerasi | KMN | Altruisme |
+| Kemahiran Kepimpinan, Autonomi dan Tanggungjawab | KAT | Maruah |
+| Kemahiran Personal | KMP | Keberanian |
+| Kemahiran Keusahawanan | KMU | Altruisme |
+| Kemahiran Etika, Nilai dan Profesionalisme | KEP | Keadilan |
+
+Setiap kemahiran dipecahkan kepada atribut dan sub-atribut berkod (contohnya KKG1 hingga KKG10), dan kod inilah yang ditulis dalam HPK. Buku edisi 2026 turut menyelaraskan skala rubrik sub-atribut dengan Buku Panduan Pentaksiran: Sangat Lemah, Lemah, Memuaskan, Baik dan Sangat Baik kini menjadi **Lemah, Sederhana, Kepujian, Cemerlang dan Amat Cemerlang**.
+
+Buku Panduan Pentaksiran IPG pula menyatakan bahawa VBE dan ESD perlu diintegrasikan dalam lima kluster hasil pembelajaran, dan objektif PB perlu mematuhi elemen VBE yang ditetapkan dalam HPK.
 
 ---
 
 #### Implikasi VBE kepada OBA
 
-Dalam konteks OBA, VBE bermakna instrumen penilaian perlu direka bentuk untuk turut mengukur **nilai dan watak pelajar** — bukan sekadar pengetahuan dan kemahiran teknikal. Ini boleh dilaksanakan melalui:
+Dalam konteks OBA, VBE bermakna instrumen penilaian perlu direka bentuk untuk turut mengukur **nilai dan watak pelajar**, bukan sekadar pengetahuan dan kemahiran teknikal. Ini boleh dilaksanakan melalui:
 
-- **Rubrik holistik** — memasukkan dimensi nilai (integriti dalam tugasan, profesionalisme dalam pembentangan)
-- **Portfolio reflektif** — mendorong pelajar merenungkan nilai dalam amalan profesional mereka
-- **Penilaian rakan sebaya** — menilai dimensi kerjasama, penghargaan, dan keadilan
-- **Pemerhatian amalan** — semasa praktikum atau latihan industri
-- **Jurnal pembelajaran** — refleksi berterusan tentang perkembangan nilai peribadi
-
-
-
-
-
-| Aspek | MQF 2007 (8 Domain) | MQF 2017/2024 (5 Kluster, 11 Komponen) |
-|---|---|---|
-| **Struktur** | 8 domain berasingan | 5 kluster, 11 komponen terperinci |
-| **Kemahiran Digital** | Tidak dinyatakan secara eksplisit | **Baharu** — Komponen 3d |
-| **Keusahawanan** | Domain 8 berasingan | Komponen 4b dalam Kluster 4 |
-| **Kelestarian (ESD)** | Tiada | **Baharu** dalam MQF 2024 |
-| **Pemetaan PLO** | Kepada 8 domain | Kepada 5 kluster / 11 komponen |
-
-Bagi pensyarah IPG yang mengajar program PISMP atau program lain di bawah MQF, penting untuk memastikan PLO program dan CLO kursus **merujuk kepada 11 komponen MQF 2017/2024** bukan lagi 8 domain edisi pertama 2007 yang sudah digantikan.
-
-MQF melaksanakan pendekatan OBE dengan menetapkan lapan tahap kelayakan (Tahap 1 hingga 8) dan menghuraikan hasil pembelajaran yang diharapkan bagi setiap tahap. Hasil pembelajaran ini distrukturkan kepada lima kluster utama.
-
-Implikasi langsung kepada pensyarah: setiap kursus yang diajar perlu mempunyai Hasil Pembelajaran Kursus (CLO) yang **dipetakan kepada sekurang-kurangnya satu kluster** daripada lima kluster MQF ini. Dan setiap CLO perlu dinilai melalui instrumen penilaian yang sesuai — inilah OBA dalam tindakan.
+- **Rubrik holistik**: memasukkan dimensi nilai (integriti dalam tugasan, profesionalisme dalam pembentangan)
+- **Portfolio reflektif**: mendorong pelajar merenungkan nilai dalam amalan profesional mereka
+- **Penilaian rakan sebaya**: menilai dimensi kerjasama, penghargaan, dan keadilan
+- **Pemerhatian amalan**: semasa praktikum atau latihan industri
+- **Jurnal pembelajaran**: refleksi berterusan tentang perkembangan nilai peribadi
 
 ---
 
@@ -694,40 +869,50 @@ Kegagalan dalam aspek-aspek ini boleh menjejaskan status akreditasi program yang
 
 ### Apakah perbezaan antara OBA dan OBE?
 
-OBE (Outcome-Based Education) adalah **pendekatan keseluruhan** sistem pendidikan — merangkumi reka bentuk kurikulum, kaedah pengajaran, dan penilaian, seperti yang digambarkan oleh Spady (1994) sebagai "clearly focusing and organizing everything in an educational system." OBA (Outcome-Based Assessment) adalah **komponen penilaian** dalam sistem OBE — ia memfokuskan khusus kepada bagaimana pencapaian hasil pembelajaran diukur. Driscoll dan Wood (2007) menekankan bahawa OBA yang berkesan memerlukan pensyarah untuk "articulate learning outcomes and evidence of learning that are appropriate for their courses and programs" — ia bukan sekadar menukar format ujian, tetapi mentakrifkan semula apa yang dimaksudkan dengan "bukti pembelajaran." OBA tidak boleh wujud tanpa OBE, tetapi OBE tanpa OBA yang baik akan gagal mencapai matlamatnya.
+OBE (*Outcome-Based Education*) ialah **pendekatan keseluruhan** sistem pendidikan, merangkumi reka bentuk kurikulum, kaedah pengajaran dan penilaian, seperti yang digambarkan oleh Spady (1994) sebagai "clearly focusing and organizing everything in an educational system". OBA (*Outcome-Based Assessment*) ialah **komponen penilaian** dalam sistem OBE, yang memfokuskan bagaimana pencapaian hasil pembelajaran diukur. Driscoll dan Wood (2007) menekankan bahawa OBA yang berkesan memerlukan pensyarah "articulate learning outcomes and evidence of learning that are appropriate for their courses and programs". Ia bukan sekadar menukar format ujian, tetapi mentakrifkan semula apa yang dianggap sebagai bukti pembelajaran. OBA tidak boleh wujud tanpa OBE, dan OBE tanpa OBA yang baik akan gagal mencapai matlamatnya.
 
 ### Adakah OBA wajib di semua institusi pendidikan tinggi Malaysia?
 
-Ya, secara efektifnya. Melalui Akta MQA 2007 (Akta 679) dan keperluan COPPA, semua program yang ingin mendapat akreditasi MQA mesti mengikuti prinsip OBE dan OBA. Ini termasuk IPTA, IPTS, politeknik, kolej vokasional, dan IPG di bawah Kementerian Pendidikan Malaysia.
+Bagi program yang diakreditasi MQA, ya. MQF dimandatkan di bawah Akta 679, dan COPPA mewajibkan semua program direka bentuk dan disampaikan selari dengan OBE dan MQF. Ini meliputi universiti awam, IPTS, politeknik dan kolej komuniti. IPG di bawah Kementerian Pendidikan Malaysia pula melaksanakan pentaksiran mengikut Buku Panduan Pentaksiran IPG, yang sejajar dengan keperluan jaminan kualiti MQA dan MQF.
+
+### Adakah peperiksaan akhir masih dibenarkan dalam OBA?
+
+Ya. Advisory Note MQA Bil. 1/2026 menyebut penilaian sumatif boleh berbentuk penilaian berterusan atau penilaian akhir. Syaratnya, setiap item peperiksaan dipetakan kepada CLO, topik dan aras taksonomi melalui Jadual Spesifikasi Ujian. Yang tidak selari dengan OBA ialah peperiksaan yang dibina tanpa merujuk CLO, atau CLO kemahiran dan nilai yang hanya diuji secara bertulis.
+
+### Apakah beza OBA dengan PBD di sekolah?
+
+Kedua-duanya berasaskan kriteria, iaitu pencapaian dibandingkan dengan standard yang ditetapkan, bukan dengan pelajar lain. [Pentaksiran Bilik Darjah (PBD)](/apa-itu-pbd/) digunakan di sekolah di bawah KPM dan melaporkan Tahap Penguasaan TP1 hingga TP6 berdasarkan DSKP. OBA digunakan di institusi pengajian tinggi di bawah MQF, dengan CLO, rubrik dan gred kursus.
+
+### Apakah HPK, HPP, JST dan JPP di IPG?
+
+Ini istilah IPG bagi konsep OBA. **HPK** (Hasil Pembelajaran Kursus) ialah CLO, **HPP** (Hasil Pembelajaran Program) ialah PLO, **JST** (Jadual Spesifikasi Tugasan) ialah spesifikasi dalaman bagi tugasan pentaksiran berterusan, dan **JPP** (Jam Pembelajaran Pelajar) ialah masa pembelajaran pelajar, dengan 1 kredit bersamaan 40 jam.
 
 ### Mengapa ramai pensyarah masih tidak melaksanakan OBA sepenuhnya?
 
-Banyak kajian menunjukkan tenaga pengajar di IPT Malaysia masih tidak memahami cara melaksanakan pentaksiran berasaskan hasil pembelajaran. MQA juga pernah melaporkan bahawa Proses Penambahbaikan Kualiti Berterusan (CQI) masih belum dilaksanakan sepenuhnya dan tenaga pengajar memerlukan lebih bimbingan dalam melaksanakan pentaksiran kerana tiada mekanisme yang sesuai untuk menyokong pentaksiran dan penilaian CQI.
+Kajian tempatan tentang pelaksanaan OBE, termasuk di kolej vokasional, sering melaporkan bahawa tenaga pengajar memerlukan lebih bimbingan dalam membina instrumen berasaskan hasil dan menjalankan proses penambahbaikan kualiti berterusan (CQI).
 
-Cabaran utama termasuk: kekurangan latihan praktikal, beban kerja pensyarah yang tinggi, dan sistem sokongan institusi yang masih lemah.
+Cabaran utama termasuk kekurangan latihan praktikal, beban kerja pensyarah yang tinggi, dan sistem sokongan institusi yang masih lemah.
 
 ### Apakah hubungan antara OBA dengan FPN 1988?
 
-FPN 1988 menekankan perkembangan manusia yang menyeluruh iaitu intelek, rohani, emosi, dan jasmani. OBA menyediakan mekanisme praktikal untuk **mengukur dan membuktikan** perkembangan menyeluruh ini berlaku, melalui pelbagai kaedah penilaian yang meliputi kesemua domain pembelajaran — bukan hanya kognitif melalui peperiksaan semata-mata.
+FPN 1988 menekankan perkembangan insan yang menyeluruh dari segi intelek, rohani, emosi dan jasmani. OBA menyediakan mekanisme praktikal untuk **mengukur dan membuktikan** perkembangan menyeluruh ini berlaku, melalui pelbagai kaedah penilaian yang meliputi semua domain pembelajaran, bukan hanya kognitif melalui peperiksaan.
 
 ### Apa yang dimaksudkan dengan "penjajaran konstruktif" dalam OBA?
 
-Penjajaran konstruktif bermaksud **keselarasan antara tiga elemen**: Hasil Pembelajaran Kursus (CLO) → Kaedah Pengajaran dan Pembelajaran (P&P) → Kaedah Penilaian. Ketiga-tiga elemen ini mesti sejajar — jika CLO menuntut pelajar "mereka bentuk" sesuatu, maka aktiviti P&P dan penilaian mesti memberi peluang kepada pelajar untuk benar-benar mereka bentuk, bukan hanya menghuraikan atau menghafal tentang reka bentuk.
+Penjajaran konstruktif ialah konsep John Biggs (1996) yang bermaksud **keselarasan antara tiga elemen**: Hasil Pembelajaran Kursus (CLO), aktiviti pengajaran dan pembelajaran (PdP), dan tugasan penilaian. Ketiga-tiga elemen ini mesti sejajar. Jika CLO menuntut pelajar "mereka bentuk" sesuatu, aktiviti PdP dan penilaian mesti memberi peluang kepada pelajar untuk benar-benar mereka bentuk, bukan sekadar menghurai atau menghafal tentang reka bentuk.
 
 ---
 
 ## Kesimpulan
 
-Pentaksiran Berasaskan Hasil (OBA) adalah lebih daripada sekadar pendekatan penilaian baharu adalah pemenuhan amanah yang telah diamanahkan sejak FPN 1988 digubal. Falsafah yang menekankan perkembangan insan yang menyeluruh dan bersepadu memerlukan sistem penilaian yang mampu mengukur keseluruhan dimensi tersebut.
+Pentaksiran Berasaskan Hasil (OBA) lebih daripada sekadar pendekatan penilaian baharu. Ia ialah cara menunaikan amanah yang ditetapkan sejak FPN 1988 digubal. Falsafah yang menekankan perkembangan insan secara menyeluruh dan bersepadu memerlukan sistem penilaian yang mampu mengukur keseluruhan dimensi tersebut.
 
-Didukung oleh tiga akta perundangan utama (Akta 30, Akta 555, dan Akta 679), serta diwajibkan melalui COPPA dan MQF, OBA bukan lagi pilihan bagi pensyarah di institusi pengajian tinggi Malaysia malah ia adalah tanggungjawab profesional dan keperluan institusi.
+Dengan MQF yang dimandatkan di bawah Akta 679, serta COPPA dan Advisory Note MQA Bil. 1/2026 yang memperincikan pelaksanaannya, OBA bukan lagi pilihan bagi pensyarah di institusi pengajian tinggi Malaysia. Ia ialah tanggungjawab profesional dan keperluan akreditasi.
 
-Artikel-artikel seterusnya dalam siri ini akan membincangkan komponen-komponen teknikal OBA secara lebih terperinci iaitu bermula dengan kerangka MQF dan hubungannya dengan hierarki hasil pembelajaran (PEO → PLO → CLO).
-
-> **Baca seterusnya:** [Kerangka Kelayakan Malaysia (MQF) dan OBE — 8 Tahap Kelayakan dan 5 Kluster Hasil Pembelajaran](/mqf-obe-malaysia/) untuk memahami asas kerangka yang mendasari keseluruhan sistem OBA di Malaysia.
+> **Baca juga:** [Maksud Pentaksiran: Definisi KPM dan Beza dengan Penilaian](/definisi-pentaksiran/) · [Pentaksiran Berterusan: Maksud, Jenis dan Instrumen](/pentaksiran-berterusan/) · [Taksonomi Bloom](https://mohdalpianali.com/pendidikan/taksonomi-bloom/)
 
 ---
 
-*Rujukan utama: Spady, W. G. (1994). *Outcome-Based Education: Critical Issues and Answers*. Arlington, VA: American Association of School Administrators. | Driscoll, A., & Wood, S. (2007). *Developing Outcomes-Based Assessment for Learner-Centered Education: A Faculty Introduction*. Sterling, VA: Stylus Publishing (diterbitkan semula oleh Routledge, 2023).*
+*Rujukan utama: Biggs, J. (1996). Enhancing teaching through constructive alignment. *Higher Education, 32*(3), 347–364. | Driscoll, A., & Wood, S. (2007). *Developing Outcomes-Based Assessment for Learner-Centered Education: A Faculty Introduction*. Sterling, VA: Stylus Publishing (diterbitkan semula oleh Routledge). | Malaysian Qualifications Agency. (2024). *Malaysian Qualifications Framework (MQF) Second Edition (2024)*. | Malaysian Qualifications Agency. (2026). *Guidelines on Values-Based Education (VBE)*. | Institut Pendidikan Guru Malaysia. (2026). *Buku Panduan Kemahiran Insaniah Institut Pendidikan Guru (Edisi Kemas Kini 2026)*. | Institut Pendidikan Guru Malaysia. (2026). *Buku Panduan Pentaksiran Institut Pendidikan Guru (Kemas Kini Ogos 2026)*. Pusat Peperiksaan dan Penganugerahan IPGM. | Spady, W. G. (1994). *Outcome-Based Education: Critical Issues and Answers*. Arlington, VA: American Association of School Administrators. | Spady, W. G., & Marshall, K. J. (1991). Beyond traditional outcome-based education. *Educational Leadership, 49*(2), 67–72. | UNESCO. (2017). *Education for Sustainable Development Goals: Learning Objectives*. | Wiggins, G., & McTighe, J. (2005). *Understanding by Design* (ed. ke-2). ASCD.*
 
-*Maklumat dalam artikel ini bersumber daripada: Advisory Note MQA Bil. 1/2026 (28 Januari 2026) — Panduan Prinsip Penilaian Hasil Pembelajaran Pelajar (UPM-CQA); Falsafah Pendidikan Negara 1988 (portal rasmi KPM); Akta Universiti dan Kolej Universiti 1971 (Pindaan 2019); Akta Institusi Pendidikan Tinggi Swasta 1996 (Akta 555); Akta Agensi Kelayakan Malaysia 2007 (Akta 679); Garis Panduan Amalan Baik: Penilaian Pelajar (MQA, 2023); dan kajian "Pelaksanaan Outcome-Based Education di Kolej Vokasional, Malaysia" (ResearchGate, 2019).*
+*Sumber lain: [Advisory Note MQA Bil. 1/2026 (28 Januari 2026): Panduan Prinsip Penilaian Hasil Pembelajaran Pelajar, ringkasan UPM-CQA](https://cqa.upm.edu.my/upload/dokumen/20260219161705Advisory_Note_1_2026_bertarikh_28_Jan_2026.pdf); [MQF Edisi Kedua (2024)](https://www.mqa.gov.my/new/document/2024/MQF%20Second%20Edition%20(2024).pdf); [Guidelines on Values-Based Education (GVBE) 2026](https://www2.mqa.gov.my/qad/v2/2026/Guidelines%20on%20Values-Based%20Education%20(GVBE).pdf); Garis Panduan Amalan Baik: Penilaian Pelajar Edisi Kedua (MQA, 2023); Falsafah Pendidikan Negara 1988 dan Akta Pendidikan 1996 (Akta 550); Akta Universiti dan Kolej Universiti 1971 (Akta 30); Akta Institusi Pendidikan Tinggi Swasta 1996 (Akta 555); Akta Agensi Kelayakan Malaysia 2007 (Akta 679); [Pindaan AUKU libatkan 44 seksyen (Berita RTM, 23 September 2026)](https://berita.rtm.gov.my/?p=700396); dan kajian "Pelaksanaan Outcome-Based Education di Kolej Vokasional, Malaysia" (2019).*
