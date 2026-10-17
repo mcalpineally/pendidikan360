@@ -1,11 +1,12 @@
 ---
-title: "Matriks Pembelajaran Tahun 4 (6–8 Oktober 2026): Jadual, Format dan Cara Keputusan Digunakan"
+title: "Matriks Pembelajaran Tahun 4 (MPT4): Gred, Laporan Keputusan dan Cara Ia Digunakan"
 date: 2026-10-03
+lastmod: 2026-10-17
 url: "/matriks-pembelajaran-tahun-4/"
 draft: false
 categories: ["Pentaksiran"]
 tags: ["Matriks Pembelajaran", "Matriks Pembelajaran Tahun 4", "MPT4", "Lembaga Peperiksaan", "UPSR", "UASA", "PBD", "RPM 2026-2035"]
-description: "Matriks Pembelajaran Tahun 4 diadakan pada 6–8 Oktober 2026 untuk kira-kira 400,000 murid. Jadual, subjek, format kertas, cara pemarkahan, kegunaan keputusan, dan bezanya dengan UPSR, UASA serta PBD."
+description: "Gred Matriks Pembelajaran Tahun 4 (A hingga F), isi laporan keputusan, bila keputusan keluar, status MPT4 di Johor, dan beza gred Matriks dengan TP PBD. Untuk ibu bapa dan guru."
 ShowToc: true
 TocOpen: true
 cover:
@@ -15,13 +16,13 @@ cover:
   relative: true
 ---
 
-**Matriks Pembelajaran Tahun 4** ialah pentaksiran bertulis selaras yang dikendalikan oleh Lembaga Peperiksaan (LP) untuk semua murid Tahun 4. Kali pertama ia diadakan ialah pada **6 hingga 8 Oktober 2026**, melibatkan kira-kira **400,000 murid**. Murid menduduki empat subjek teras, iaitu Bahasa Melayu, Bahasa Inggeris, Matematik dan Sains, serta Bahasa Cina atau Bahasa Tamil bagi murid SJK.
+**Matriks Pembelajaran Tahun 4** ialah pentaksiran bertulis selaras yang dikendalikan oleh Lembaga Peperiksaan (LP) untuk semua murid Tahun 4. Kali pertama ia diadakan ialah pada **6 hingga 8 Oktober 2026**, melibatkan **460,771 murid** menurut Lembaga Peperiksaan. Murid menduduki empat subjek teras, iaitu Bahasa Melayu, Bahasa Inggeris, Matematik dan Sains, serta Bahasa Cina atau Bahasa Tamil bagi murid SJK.
 
 Menurut KPM, keputusannya digunakan untuk mengenal pasti tahap penguasaan murid supaya guru dan sekolah dapat membuat intervensi lebih awal di Tahun 5 dan 6. Ia tidak digunakan untuk menyusun kedudukan murid atau sekolah, dan bukan syarat kemasukan ke sekolah berasrama penuh atau MRSM.
 
-> **Kemas kini 12 Oktober 2026 (Johor):** akibat penutupan sekolah kerana jerebu, Jabatan Pendidikan Negeri Johor menangguhkan pelaksanaan MPT4 dan pentaksiran lain di Johor. Tarikh baharu akan dimaklumkan kemudian ([Portal Berita RTM](https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/pelaksanaan-mpt4-pentaksiran-lain-ditangguhkan-jpnj/)). Senarai sekolah yang ditutup ada dalam [PdPR Jerebu 2026](/platform-permainan-interaktif-pdpr/).
+> **Kemas kini 17 Oktober 2026:** MPT4 telah selesai diadakan di kebanyakan negeri. Di **Johor**, akibat penutupan sekolah kerana jerebu, Jabatan Pendidikan Negeri Johor menangguhkan MPT4 dan pentaksiran lain di seluruh negeri. Tarikh baharu akan ditetapkan bersama Lembaga Peperiksaan dan dimaklumkan kemudian ([Portal Berita RTM](https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/pelaksanaan-mpt4-pentaksiran-lain-ditangguhkan-jpnj/)). Senarai sekolah yang ditutup ada dalam [PdPR Jerebu 2026](/platform-permainan-interaktif-pdpr/).
 
-Artikel ini merumuskan maklumat rasmi yang telah diumumkan oleh KPM dan Lembaga Peperiksaan, supaya ibu bapa dan guru tahu apa yang perlu dijangka minggu ini.
+Artikel ini merumuskan maklumat rasmi KPM dan Lembaga Peperiksaan, termasuk [gred dan isi laporan keputusan](#gred-dan-laporan-keputusan-mpt4) yang akan diterima ibu bapa.
 
 ---
 
@@ -29,14 +30,14 @@ Artikel ini merumuskan maklumat rasmi yang telah diumumkan oleh KPM dan Lembaga 
 
 | Perkara | Butiran |
 |---|---|
-| **Tarikh** | 6–8 Oktober 2026 (Selasa hingga Khamis) |
-| **Siapa** | Semua murid Tahun 4 (kira-kira 400,000 orang) |
+| **Tarikh** | 6–8 Oktober 2026 (Selasa hingga Khamis); Johor ditangguhkan |
+| **Siapa** | Semua murid Tahun 4 (460,771 orang) |
 | **Pentadbir** | Lembaga Peperiksaan, KPM |
 | **Subjek** | Bahasa Melayu, Bahasa Inggeris, Matematik, Sains; Bahasa Cina atau Tamil untuk SJKC dan SJKT |
 | **Masa setiap kertas** | 1 jam 15 minit |
 | **Format** | Soalan objektif dan subjektif dalam satu kertas |
 | **Penanda** | Guru mata pelajaran murid sendiri, menggunakan skema pemarkahan LP |
-| **Keputusan** | Sistem gred dan skor sama seperti UASA; slip keputusan disediakan oleh LP |
+| **Keputusan** | Gred A hingga F seperti UASA, serta tahap penguasaan bagi setiap domain; laporan dicetak dan diedarkan oleh sekolah |
 | **Tujuan** | Intervensi awal, bukan ranking murid atau sekolah |
 
 ---
@@ -101,6 +102,54 @@ Menurut Ab Aziz Mamat, guru menanda kertas murid sendiri kerana dengan cara itu 
 
 ---
 
+## Gred dan Laporan Keputusan MPT4
+
+### Apa yang ada dalam laporan keputusan?
+
+Menurut Pengarah Peperiksaan, Ab Aziz Mamat, laporan keputusan MPT4 mengandungi:
+
+- **gred** bagi setiap mata pelajaran,
+- **tafsiran gred**,
+- **domain mata pelajaran** yang diuji, dan
+- **tahap penguasaan murid bagi setiap domain**.
+
+Maknanya, laporan ini bukan sekadar satu huruf gred. Ia menunjukkan bahagian mana dalam setiap mata pelajaran yang sudah dikuasai dan bahagian mana yang memerlukan bantuan. Sekolah bertanggungjawab mencetak dan mengedarkan laporan kepada murid serta ibu bapa atau penjaga.
+
+### Skala gred
+
+Keputusan MPT4 menggunakan sistem gred yang sama seperti UASA sekolah rendah:
+
+| Gred | Julat markah | Tafsiran |
+|---|---|---|
+| A | 82 – 100 | Cemerlang |
+| B | 66 – 81 | Kepujian |
+| C | 50 – 65 | Baik |
+| D | 35 – 49 | Memuaskan |
+| E | 20 – 34 | Mencapai Tahap Minimum |
+| F | 0 – 19 | Belum Mencapai Tahap Minimum |
+
+Jadual julat markah ini ialah skala gred UASA sekolah rendah seperti yang dilaporkan media dan portal pendidikan. Rujuk laporan rasmi sekolah anak anda sebagai pengesahan akhir.
+
+### Adakah ada markah lulus?
+
+Tidak. MPT4 **bukan peperiksaan lulus atau gagal**, dan bukan pentaksiran berimpak tinggi. Gred E bermaksud murid sudah mencapai tahap minimum, manakala gred F bermaksud murid belum mencapai tahap minimum dan memerlukan intervensi. Pengarah Peperiksaan menasihati ibu bapa supaya tidak memberi tekanan kepada anak untuk mencapai skor tertentu.
+
+### Gred MPT4 dan TP PBD: apa bezanya?
+
+| | Gred MPT4 | Tahap Penguasaan (TP) PBD |
+|---|---|---|
+| Sumber | Satu pentaksiran selaras LP | Pemerhatian dan pentaksiran guru sepanjang tahun |
+| Bentuk | Gred A hingga F, dengan tahap penguasaan bagi setiap domain | TP1 hingga TP6 |
+| Tujuan | Gambaran kebangsaan dan intervensi awal | Pemantauan harian kemajuan murid |
+
+Kedua-duanya saling melengkapi. Gred A dalam MPT4 tidak semestinya bermaksud TP6 dalam PBD, kerana PBD menilai lebih banyak eviden. Lihat [TP1 hingga TP6](/tp1-hingga-tp6/) untuk maksud setiap tahap.
+
+### Bila keputusan keluar?
+
+Tarikh rasmi belum diumumkan. Laporan akan diedarkan melalui sekolah selepas proses penskoran, moderasi dan verifikasi selesai. Bagi Johor, keputusan bergantung pada tarikh baharu MPT4 yang belum diumumkan.
+
+---
+
 ## Untuk Apa Keputusan Digunakan?
 
 KPM dan LP konsisten pada satu mesej: data Matriks Pembelajaran adalah untuk **intervensi**, bukan persaingan.
@@ -138,13 +187,14 @@ Jadi, **Matriks Pembelajaran bukan UPSR yang dikembalikan**. Ia diadakan dua tah
 
 ## Panduan untuk Ibu Bapa
 
-Pentaksiran ini menguji apa yang sudah diajar di sekolah. Persediaan terbaik minggu ini ialah yang mudah:
+Apabila laporan keputusan sampai ke tangan anda:
 
-- **Tidur dan sarapan cukup** pada 6–8 Oktober. Kertas bermula seawal 8.10 pagi.
-- **Semak bekalan:** pensel, pemadam, pembaris. Ikut senarai yang diberi sekolah.
-- **Jangan tambah tekanan.** Terangkan kepada anak bahawa ini untuk membantu guru tahu bahagian mana yang perlu diperkukuh, bukan untuk menentukan "pandai atau tidak".
-- **Lihat contoh item rasmi LP** jika mahu anak biasa dengan bentuk soalan, bukannya membeli set soalan ramalan.
-- **Selepas keputusan keluar**, tanya guru kelas: kemahiran apa yang belum dikuasai, dan apa yang boleh dibuat di rumah. Kertas jawapan yang dipulangkan sangat membantu untuk perbincangan ini.
+- **Lihat tahap penguasaan bagi setiap domain, bukan gred sahaja.** Domain yang lemah menunjukkan kemahiran khusus yang perlu dibantu, contohnya pecahan dalam Matematik atau kefahaman bacaan dalam Bahasa Melayu.
+- **Jangan bandingkan dengan anak orang lain.** Pengarah Peperiksaan menegaskan murid tidak seharusnya dilabel, dihukum atau dibandingkan berdasarkan keputusan ini.
+- **Tanya guru kelas** kemahiran apa yang belum dikuasai dan apa yang boleh dibuat di rumah. Kertas jawapan yang dipulangkan sangat membantu untuk perbincangan ini.
+- **Gred E atau F bukan kegagalan.** Ia petunjuk bahawa anak memerlukan sokongan tambahan di Tahun 5, dan itulah tujuan MPT4.
+
+**Untuk ibu bapa di Johor** yang anaknya belum menduduki MPT4: persediaan terbaik kekal mudah. Pastikan anak cukup tidur dan bersarapan, semak alat tulis mengikut senarai sekolah, dan rujuk contoh item rasmi di portal LP berbanding membeli set soalan ramalan.
 
 ## Panduan untuk Guru
 
@@ -166,7 +216,19 @@ Tidak. Lembaga Peperiksaan menyatakan keputusan Matriks Pembelajaran tidak digun
 
 ### Bila keputusan akan keluar?
 
-Tarikh rasmi belum diumumkan. Semasa pengumuman pada Januari 2026, Menteri Pendidikan menyatakan keputusan dijangka boleh dianalisis sebelum cuti sekolah. Slip keputusan akan diedarkan melalui sekolah.
+Tarikh rasmi belum diumumkan. Semasa pengumuman pada Januari 2026, Menteri Pendidikan menyatakan keputusan dijangka boleh dianalisis sebelum cuti sekolah. Laporan keputusan akan dicetak dan diedarkan oleh sekolah.
+
+### Apakah gred dalam keputusan MPT4?
+
+Gred A (82–100, Cemerlang) hingga F (0–19, Belum Mencapai Tahap Minimum), sama seperti UASA sekolah rendah. Laporan juga menunjukkan tahap penguasaan murid bagi setiap domain mata pelajaran.
+
+### Berapa markah lulus MPT4?
+
+Tiada markah lulus. MPT4 bukan peperiksaan lulus atau gagal. Gred E menunjukkan murid sudah mencapai tahap minimum, dan gred F menunjukkan murid memerlukan intervensi.
+
+### Bila MPT4 di Johor akan diadakan?
+
+Jabatan Pendidikan Negeri Johor menangguhkan MPT4 akibat jerebu. Tarikh baharu akan ditetapkan bersama Lembaga Peperiksaan dan dimaklumkan melalui sekolah.
 
 ### Adakah sekolah akan disusun mengikut ranking?
 
@@ -202,4 +264,8 @@ Jika anda ingin tahu lebih lanjut tentang perbahasan dasar di sebalik Matriks Pe
 - Bernama, [KPM Perkukuh Persiapan Pelaksanaan Matriks Pembelajaran Tahun Empat](https://bernama.com/bm/am/news.php?id=2587009) (28 Julai 2026)
 - Malaysia Tribune, [Pentaksiran Matriks Tahun 4 dilaksana 6-8 Oktober, libat empat subjek teras](https://malaysiatribune.news/pentaksiran-matriks-tahun-4-dilaksana-6-8-oktober-libat-empat-subjek-teras/) (16 Jun 2026)
 - Teach For Malaysia, [What the New Learning Matrix Is and Isn't](https://teachformalaysia.org/making-sense-of-malaysias-key-education-reforms-what-the-new-learning-matrix-is-and-isnt/) (31 Mac 2026)
+- mStar, [Keputusan MPT4 bukan penentu masa depan akademik, asas pemberian sokongan kepada murid](https://www.mstar.com.my/lokal/semasa/2026/10/04/keputusan-mpt4-bukan-penentu-masa-depan-akademik-asas-pemberian-sokongan-kepada-murid) (4 Oktober 2026)
+- Utusan Malaysia, [Matriks Tahun 4 bukan untuk kejar skor](https://www.utusan.com.my/berita/2026/10/matriks-t4-bukan-kejar-skor/) (Oktober 2026), seperti dilaporkan semula oleh [Serv2U Media](https://serv2umedia.net/mpt4-bantu-kesan-jurang-pembelajaran-murid-tahun-4/) (7 Oktober 2026)
+- Malaysia Tribune, [Jerebu: Peperiksaan, pentaksiran MPT4, PKSK di Johor ditangguh, dijadual semula](https://malaysiatribune.news/jerebu-mpt4-pksk-di-johor-ditangguh/) (11 Oktober 2026)
+- Sinar Bestari, [Penjelasan gred markah yang ibu bapa perlu tahu](https://sinarbestari.sinarharian.com.my/buletin/upsa-selesai-ini-penjelasan-gred-markah-yang-ibu-bapa-perlu-tahu) (23 Jun 2025)
 - Portal rasmi Lembaga Peperiksaan: [lp.moe.gov.my](https://lp.moe.gov.my)
