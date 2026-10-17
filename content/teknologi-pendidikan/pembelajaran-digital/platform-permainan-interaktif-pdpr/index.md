@@ -1,6 +1,7 @@
 ---
 title: "PdPR Jerebu 2026: 20 Platform Permainan Interaktif untuk Murid (Percuma dan Berbayar)"
 date: 2026-10-09
+lastmod: 2026-10-17
 url: "/platform-permainan-interaktif-pdpr/"
 draft: false
 categories: ["Teknologi Pendidikan"]
@@ -271,11 +272,43 @@ PhET daripada University of Colorado Boulder menyediakan simulasi Sains dan Mate
 
 ---
 
+## Beza PdPC dan PdPR
+
+Dua istilah ini sering tertukar kerana bunyinya hampir sama.
+
+| | PdPC | PdPR |
+|---|---|---|
+| Maksud | Pembelajaran dan Pemudahcaraan | Pengajaran dan Pembelajaran di Rumah |
+| Lokasi | Bilik darjah di sekolah | Rumah, pusat komuniti atau lokasi lain yang sesuai |
+| Bila digunakan | Persekolahan biasa | Apabila murid tidak dapat hadir ke sekolah, contohnya semasa penutupan akibat jerebu, banjir atau wabak |
+| Fokus | Pendekatan: murid aktif belajar, guru sebagai pemudah cara | Tempat dan mod: PdP diteruskan di luar sekolah |
+| Mod | Bersemuka | Dalam talian, luar talian atau *off-site* |
+
+Ringkasnya, **PdPC ialah pendekatan mengajar**, manakala **PdPR ialah cara PdP diteruskan apabila sekolah ditutup**. Kedua-duanya tidak bertentangan. Guru yang melaksanakan PdPR masih boleh menggunakan pendekatan PdPC: murid aktif, guru membimbing. Platform dalam artikel ini membantu perkara itu berlaku walaupun dari rumah.
+
+Beberapa sumber menulis PdPC sebagai "Pengajaran dan Pemudahcaraan". Kedua-dua bentuk merujuk kepada idea yang sama, iaitu guru berperanan memudahkan pembelajaran murid. PdPC berkait rapat dengan [PAK21 (Pembelajaran Abad Ke-21)](/pak21/).
+
+### Tiga mod PdPR menurut Manual PdPR KPM
+
+Manual PdPR KPM mentakrifkan PdPR sebagai PdP yang dilaksanakan di rumah, atau di pusat komuniti, atau di mana-mana lokasi yang bersesuaian. Ia boleh dilaksanakan dalam tiga mod:
+
+- **Dalam talian:** apabila ada internet dan peranti, contohnya melalui DELIMa, Google Meet atau Microsoft Teams.
+- **Luar talian:** menggunakan peranti tanpa internet, buku teks atau bahan bercetak yang diberi guru.
+- ***Off-site*:** di lokasi seperti pusat komuniti atau pusat pemindahan sementara selepas bencana.
+
+Manual itu juga mencadangkan had masa skrin harian: 1 jam untuk prasekolah, 1 hingga 2 jam untuk sekolah rendah, 2 hingga 3 jam untuk menengah rendah, dan 3 hingga 4 jam untuk menengah atas.
+
+---
+
 ## Soalan Lazim (FAQ)
 
 ### Apakah maksud PdPR?
 
 PdPR ialah singkatan **Pengajaran dan Pembelajaran di Rumah**. Ia digunakan apabila murid tidak dapat hadir ke sekolah, seperti semasa penutupan sekolah akibat jerebu pada Oktober 2026. Guru mengajar dari rumah dan murid belajar dari rumah, sama ada secara langsung atau melalui tugasan.
+
+### Apa beza PdPC dan PdPR?
+
+PdPC (Pembelajaran dan Pemudahcaraan) ialah pendekatan mengajar di bilik darjah yang menjadikan murid aktif dan guru sebagai pemudah cara. PdPR (Pengajaran dan Pembelajaran di Rumah) ialah PdP yang diteruskan di rumah atau lokasi lain apabila murid tidak dapat ke sekolah. Guru boleh menggunakan pendekatan PdPC semasa PdPR.
 
 ### Adakah semua sekolah ditutup akibat jerebu?
 
@@ -312,6 +345,7 @@ PdPR akibat jerebu mungkin hanya beberapa hari, tetapi ia menguji kesediaan yang
 - The Star, [Haze: Schools in four districts in KL and Selangor closed tomorrow](https://www.thestar.com.my/news/nation/2026/10/11/haze-schools-in-four-districts-in-kl-and-selangor-closed-tomorrow) (11 Oktober 2026)
 - Malay Mail, [Fadhlina: Schools closed tomorrow in Johor, Melaka, Negeri Sembilan, Putrajaya as haze worsens](https://www.malaymail.com/news/malaysia/2026/10/12/fadhlina-schools-closed-tomorrow-in-johor-melaka-negeri-sembilan-putrajaya-as-haze-worsens/238832) (12 Oktober 2026)
 - Portal Berita RTM, [Pelaksanaan MPT4, pentaksiran lain ditangguhkan - JPNJ](https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/pelaksanaan-mpt4-pentaksiran-lain-ditangguhkan-jpnj/) (11 Oktober 2026)
+- Kementerian Pendidikan Malaysia, [Manual Pengajaran dan Pembelajaran di Rumah (PdPR) 1.0](https://www.slideshare.net/slideshow/manual-pdpr-10/242557148)
 - Harapan Daily, [Jerebu makin teruk: sekolah ditutup, KPM arah PdPR](https://harapandaily.com/2026/10/09/jerebu-makin-teruk-kawasan-ipu-cecah-180-sekolah-ditutup-kpm-arah-pdpr-dan-bdr/) (9 Oktober 2026)
 - Wordwall, [Price plans](https://wordwall.net/price-plans)
 - Kahoot!, [Player limits](https://support.kahoot.com/hc/en-us/articles/115003072287)
