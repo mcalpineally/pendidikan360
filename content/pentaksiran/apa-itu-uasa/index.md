@@ -1,6 +1,7 @@
 ---
 title: "Apa itu UASA? Maksud, Siapa Terlibat, Tarikh 2026 dan Beza dengan UPSA dan PBD"
 date: 2026-10-20
+lastmod: 2026-10-20
 url: "/apa-itu-uasa/"
 draft: false
 categories: ["Pentaksiran"]
@@ -96,7 +97,7 @@ Perkara penting tentang soalan UASA:
 - **Markah penuh.** Mengikut format Lembaga Peperiksaan bagi mata pelajaran KPM; 100 markah bagi mata pelajaran yang disediakan sekolah.
 - **JSU tidak boleh diselaraskan di peringkat negeri atau daerah.** JPN, PPD, Majlis Pengetua dan Majlis Guru Besar tidak dibenarkan menyediakan instrumen setara. Setiap sekolah menggunakan JSU sendiri.
 
-Guru dibimbing melalui **Modul Perealisasian Item** KPM dan latihan pembinaan item yang wajib diikuti, dan ini dijadikan petunjuk prestasi pengetua dan guru besar.
+Guru dibimbing melalui **Modul Perealisasian Item** KPM dan latihan pembinaan item yang wajib diikuti, dan ini dijadikan petunjuk prestasi pengetua dan guru besar. Cara membina JSU langkah demi langkah, dengan contoh lengkap, ada dalam [JSU UASA](/jsu-uasa/).
 
 ---
 
