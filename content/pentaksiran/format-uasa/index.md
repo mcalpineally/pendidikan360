@@ -1,6 +1,7 @@
 ---
 title: "Format UASA 2026: Semua Mata Pelajaran Tahun 4–6 dan Tingkatan 1–3 (Markah, Masa, Bahagian)"
 date: 2026-10-20
+lastmod: 2026-10-20
 url: "/format-uasa/"
 draft: false
 categories: ["Pentaksiran"]
@@ -260,8 +261,10 @@ Bagi PSV, Pendidikan Muzik dan PJPK, sekolah boleh memilih ujian bertulis atau p
 **Untuk guru:**
 
 - Format ialah asas JSU. Bilangan soalan, jenis item dan markah setiap bahagian dalam JSU sekolah mesti sepadan dengan format ini.
-- Semak nisbah konstruk (50% KBAT) dan aras kesukaran (5:3:2) seperti dalam [JSU UASA](/jsu-uasa/).
+- Semak nisbah konstruk (50% KBAT) dan aras kesukaran (5:3:2) seperti dalam [JSU UASA](/jsu-uasa/), atau gunakan templat Excel percuma di bawah yang menyemaknya secara automatik.
 - Skor mentah ditukar kepada peratus sebelum direkod. Contohnya, 41 daripada 50 markah ialah 82%, iaitu [gred A](/gred-uasa/).
+
+{{< bahan slug="jsu-uasa" segmen="guru" tajuk="Templat JSU UASA (Excel)" teks="Semakan automatik konstruk 50:50 dan aras kesukaran 5:3:2, dengan contoh 100 markah yang sudah diisi." >}}
 
 ---
 

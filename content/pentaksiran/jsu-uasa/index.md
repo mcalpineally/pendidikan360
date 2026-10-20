@@ -141,6 +141,8 @@ Modul Perealisasian Item menetapkan item disusun **dari rendah ke tinggi** dalam
 
 Gabungkan langkah 2 hingga 5 dalam satu jadual: setiap baris ialah satu item, dengan nombor soalan, tajuk, standard pembelajaran, konstruk, aras kesukaran, jenis item dan markah. Selepas lengkap, semak semula tiga jumlah: markah setiap tajuk, nisbah konstruk 50:50 dan nisbah kesukaran 5:3:2.
 
+{{< bahan slug="jsu-uasa" segmen="guru" tajuk="Templat JSU UASA (Excel)" teks="Contoh dalam artikel ini dalam bentuk templat: wajaran tajuk, JSU Pemasangan dengan senarai lungsur, semakan automatik 50:50 dan 5:3:2, serta analisis item." >}}
+
 
 ---
 
@@ -180,6 +182,8 @@ Selepas UASA diperiksa, analisis item membantu panitia mengenal pasti item yang 
 |---|---|---|
 | **Indeks kesukaran (p)** | Bilangan murid menjawab betul ÷ jumlah murid | Di bawah 0.30: sukar. 0.30 hingga 0.80: sederhana. Melebihi 0.80: mudah |
 | **Indeks diskriminasi (D)** | Peratus betul kumpulan atas (27% teratas) tolak peratus betul kumpulan bawah (27% terbawah) | 0.40 ke atas: sangat baik. 0.30 hingga 0.39: baik. 0.20 hingga 0.29: perlu dibaiki. Di bawah 0.20: buang atau tulis semula |
+
+Templat JSU di atas mempunyai tab analisis item yang mengira p dan D secara automatik.
 
 Contoh: 40 murid menjawab satu item, dan 28 menjawab betul. p = 28 ÷ 40 = 0.70, iaitu sederhana. Jika 10 daripada 11 murid kumpulan atas dan 5 daripada 11 murid kumpulan bawah menjawab betul, D = 0.91 − 0.45 = 0.45 (dibundarkan), iaitu sangat baik.
 
