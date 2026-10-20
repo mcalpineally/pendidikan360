@@ -67,7 +67,7 @@ Panduan KPM menetapkan tiga langkah:
 
 Markah penuh setiap kertas bergantung kepada mata pelajaran:
 
-- **Mata pelajaran yang format dan JSU-nya disediakan oleh KPM** (contohnya Bahasa Melayu, Bahasa Inggeris, Matematik, Sains dan Sejarah sekolah rendah): markah penuh mengikut format Lembaga Peperiksaan.
+- **Mata pelajaran yang format dan JSU-nya disediakan oleh KPM** (contohnya Bahasa Melayu, Bahasa Inggeris, Matematik, Sains dan Sejarah sekolah rendah): markah penuh mengikut format, iaitu 50 markah bagi semua mata pelajaran ini di sekolah rendah. Senarai penuh dalam [Format UASA 2026](/format-uasa/).
 - **Mata pelajaran yang format dan JSU-nya disediakan oleh sekolah**: markah penuh ialah 100.
 
 ### Contoh pengiraan

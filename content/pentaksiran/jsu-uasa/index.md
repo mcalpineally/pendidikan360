@@ -1,6 +1,7 @@
 ---
 title: "JSU UASA: Konstruk 50:50, Aras Kesukaran 5:3:2 dan Cara Bina JSU Sekolah (dengan Contoh)"
 date: 2026-10-20
+lastmod: 2026-10-20
 url: "/jsu-uasa/"
 draft: false
 categories: ["Pentaksiran"]
@@ -28,13 +29,13 @@ Artikel ini untuk guru, ketua panitia dan guru kanan mata pelajaran. Ia merumusk
 | Peraturan | Sumber |
 |---|---|
 | **1. Konstruk 50:50.** 50% mengingat dan memahami; 50% mengaplikasi, menganalisis, menilai dan mencipta (KBAT) | Panduan Pengurusan UASA, perkara 8.2 hingga 8.4 |
-| **2. Aras kesukaran Rendah : Sederhana : Tinggi = 5 : 3 : 2** | Format Instrumen UASA Menengah Rendah 2025 (semua mata pelajaran); Modul Perealisasian Item |
+| **2. Aras kesukaran Rendah : Sederhana : Tinggi = 5 : 3 : 2** | Format Instrumen UASA 2025, sekolah rendah dan menengah rendah (semua mata pelajaran kecuali Bahasa Inggeris, yang mengikut aras CEFR); Modul Perealisasian Item |
 | **3. Meliputi semua standard pembelajaran** dalam DSKP | Soalan Lazim UASA, no. 12 |
 | **4. Setiap sekolah guna JSU sendiri.** JSU tidak boleh diselaraskan di peringkat negeri atau daerah, dan JPN, PPD, MPSM dan MGB tidak dibenarkan menyediakan instrumen setara | Soalan Lazim UASA, no. 8 dan 9 |
 | **5. Ikut format KPM jika ada.** KPM menyediakan format dan JSU piawai bagi 7 mata pelajaran sekolah rendah dan 19 menengah rendah; sekolah menyediakannya bagi mata pelajaran lain | Panduan Pengurusan UASA, perkara 6.1 |
 | **6. Markah penuh 100** bagi mata pelajaran yang format dan JSU-nya disediakan sekolah | Soalan Lazim UASA, no. 21 |
 
-Senarai mata pelajaran mengikut siapa yang menyediakan format ada dalam [Apa itu UASA?](/apa-itu-uasa/#mata-pelajaran-uasa-dan-siapa-menyediakan-soalan).
+Senarai mata pelajaran mengikut siapa yang menyediakan format ada dalam [Apa itu UASA?](/apa-itu-uasa/#mata-pelajaran-uasa-dan-siapa-menyediakan-soalan). Format penuh setiap mata pelajaran (bahagian, markah dan masa) ada dalam [Format UASA 2026](/format-uasa/).
 
 ### Konstruk dan aras kesukaran ialah dua perkara berbeza
 
@@ -61,7 +62,7 @@ Mata pelajaran yang mempunyai lebih daripada satu kertas memerlukan JSU berasing
 
 ### Contoh format KPM: Sejarah Tingkatan 1 hingga 3
 
-Untuk gambaran, inilah format Sejarah menengah rendah dalam *Format Instrumen UASA Menengah Rendah 2025*:
+Untuk gambaran, inilah format Sejarah menengah rendah dalam *Format Instrumen UASA Menengah Rendah 2025*. Format semua mata pelajaran lain ada dalam [Format UASA 2026](/format-uasa/).
 
 | Perkara | Format |
 |---|---|
@@ -213,7 +214,7 @@ JSU (Jadual Spesifikasi Ujian) ialah pelan kertas UASA yang dibina berdasarkan s
 
 ### Apakah nisbah aras kesukaran UASA?
 
-Rendah : Sederhana : Tinggi = 5 : 3 : 2. Nisbah ini dinyatakan dalam format semua mata pelajaran UASA menengah rendah 2025 dan dalam Modul Perealisasian Item.
+Rendah : Sederhana : Tinggi = 5 : 3 : 2. Nisbah ini dinyatakan dalam Format Instrumen UASA 2025 bagi semua mata pelajaran sekolah rendah dan menengah rendah, kecuali Bahasa Inggeris. Bagi Bahasa Inggeris, aras kesukaran mengikut tahap CEFR (A1–A2 di sekolah rendah, A2 hingga B1 di menengah rendah).
 
 ### Bolehkah sekolah menggunakan JSU daerah atau negeri?
 

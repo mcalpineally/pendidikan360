@@ -88,6 +88,8 @@ UASA melibatkan **semua mata pelajaran** tahap dua sekolah rendah dan menengah r
 | **Sekolah rendah (Tahun 4–6)** | Bahasa Melayu, Bahasa Inggeris, Matematik, Sains, Sejarah, Bahasa Cina (SJKC), Bahasa Tamil (SJKT) | PJPK, Pendidikan Seni Visual, Pendidikan Islam, Pendidikan Moral, Pendidikan Muzik, Reka Bentuk dan Teknologi, Bahasa Arab, bahasa tambahan seperti Bahasa Tamil, Kadazandusun, Iban, Semai, dan Bahasa Cina di SK |
 | **Menengah rendah (Tingkatan 1–3)** | Bahasa Melayu (Kertas 1 dan 2), Bahasa Inggeris (Pemahaman dan Penulisan), Sejarah, Geografi, Matematik, Sains, Pendidikan Islam, Bahasa Arab, Bahasa Cina, Bahasa Tamil, Bahasa Iban, Bahasa Kadazandusun, Bahasa Semai, Asas Sains Komputer, Reka Bentuk dan Teknologi, Maharat Al-Quran, Usul Al-Din, Al-Syariah, Al-Lughah Al-'Arabiah Al-Mu'asirah | PJPK, Pendidikan Seni Visual, Pendidikan Moral, Pendidikan Muzik |
 
+Format penuh setiap mata pelajaran, termasuk bilangan soalan, markah dan masa, ada dalam [Format UASA 2026](/format-uasa/).
+
 Perkara penting tentang soalan UASA:
 
 - **Ujian bertulis sahaja.** UASA tidak melibatkan ujian lisan atau mendengar bagi mata pelajaran bahasa. Kaedah lain seperti lisan, amali dan projek dinilai melalui PBD berterusan.
