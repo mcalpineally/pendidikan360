@@ -130,7 +130,7 @@ Ketika mengumumkan Matriks Pembelajaran di Dewan Negara, Menteri Pendidikan Fadh
 
 Menteri juga menegaskan bahawa *"bahagian paling penting bermula selepas Matriks Pembelajaran selesai dilaksanakan"* ([Kosmo, 25 September 2026](https://www.kosmo.com.my/2026/09/25/matriks-tahun-4-kesan-murid-perlukan-bantuan-lebih-awal-fadhlina/)), iaitu apabila guru menggunakan data itu untuk membantu murid.
 
-UASA dilaporkan dalam peratus dan gred A hingga F, bukan TP. Julat markah dan maksud setiap gred diterangkan dalam [Gred UASA 2026](/gred-uasa/).
+Maksud, subjek dan tarikh UASA diterangkan dalam [Apa itu UASA?](/apa-itu-uasa/). UASA dilaporkan dalam peratus dan gred A hingga F, bukan TP. Julat markah dan maksud setiap gred diterangkan dalam [Gred UASA 2026](/gred-uasa/).
 
 Ringkasnya: **Matriks Pembelajaran tidak menggantikan PBD dan bukan UPSR yang dikembalikan.** PBD kekal sebagai pentaksiran harian oleh guru. Matriks ialah ukuran selaras pada dua titik sahaja, iaitu Tahun 4 dan Tingkatan 3, untuk membantu perancangan intervensi.
 

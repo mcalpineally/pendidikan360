@@ -1,6 +1,7 @@
 ---
 title: "Gred UASA 2026: Julat Markah A hingga F, Tafsiran dan Adakah Ada Markah Lulus"
 date: 2026-10-20
+lastmod: 2026-10-20
 url: "/gred-uasa/"
 draft: false
 categories: ["Pentaksiran"]
@@ -15,7 +16,7 @@ cover:
   relative: true
 ---
 
-**Gred UASA** ialah cara keputusan Ujian Akhir Sesi Akademik dilaporkan: dalam bentuk **peratus dan gred A hingga F** bagi setiap mata pelajaran. Skala yang sama digunakan untuk murid sekolah rendah (Tahun 4 hingga 6) dan menengah rendah (Tingkatan 1 hingga 3).
+**Gred UASA** ialah cara keputusan [Ujian Akhir Sesi Akademik (UASA)](/apa-itu-uasa/) dilaporkan: dalam bentuk **peratus dan gred A hingga F** bagi setiap mata pelajaran. Skala yang sama digunakan untuk murid sekolah rendah (Tahun 4 hingga 6) dan menengah rendah (Tingkatan 1 hingga 3).
 
 Jadual di bawah diambil daripada *Panduan Pengurusan dan Pentadbiran Ujian Akhir Sesi Akademik* terbitan Kementerian Pendidikan Malaysia (KPM), perkara 11.3.
 
@@ -113,7 +114,7 @@ Menurut panduan dan soalan lazim KPM:
 
 ## Bila Ibu Bapa Menerima Keputusan UASA?
 
-Tiada tarikh keputusan UASA yang seragam di seluruh negara. Jadual UASA disediakan mengikut takwim setiap sekolah, dan tarikh perekodan dalam SPPB dimaklumkan melalui surat makluman KPM setiap tahun.
+Tiada tarikh keputusan UASA yang seragam di seluruh negara. Bagi sesi 2026, KPM menangguhkan sebahagian UASA kerana jerebu dan melanjutkan tarikh akhir pengisian markah UASA ke **28 November 2026** (butiran dalam [Apa itu UASA?](/apa-itu-uasa/#bila-uasa-2026)). Jadual UASA disediakan mengikut takwim setiap sekolah, dan tarikh perekodan dalam SPPB dimaklumkan melalui surat makluman KPM setiap tahun.
 
 Panduan KPM hanya menyatakan bahawa laporan dimuat turun dan dimaklumkan kepada ibu bapa atau penjaga. Sesi persekolahan 2026 berakhir pada **3 Disember** (Kumpulan A) dan **4 Disember** (Kumpulan B), jadi kebanyakan sekolah lazimnya mengedarkan laporan sebelum cuti akhir tahun. Tanya guru kelas untuk tarikh sebenar di sekolah anak anda.
 
