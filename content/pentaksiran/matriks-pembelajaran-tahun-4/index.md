@@ -1,7 +1,7 @@
 ---
 title: "Matriks Pembelajaran Tahun 4 (MPT4): Gred, Laporan Keputusan dan Cara Ia Digunakan"
 date: 2026-10-03
-lastmod: 2026-10-17
+lastmod: 2026-10-20
 url: "/matriks-pembelajaran-tahun-4/"
 draft: false
 categories: ["Pentaksiran"]
@@ -117,7 +117,7 @@ Maknanya, laporan ini bukan sekadar satu huruf gred. Ia menunjukkan bahagian man
 
 ### Skala gred
 
-Keputusan MPT4 menggunakan sistem gred yang sama seperti UASA sekolah rendah:
+Keputusan MPT4 menggunakan sistem gred yang sama seperti [UASA](/gred-uasa/):
 
 | Gred | Julat markah | Tafsiran |
 |---|---|---|
@@ -128,7 +128,7 @@ Keputusan MPT4 menggunakan sistem gred yang sama seperti UASA sekolah rendah:
 | E | 20 – 34 | Mencapai Tahap Minimum |
 | F | 0 – 19 | Belum Mencapai Tahap Minimum |
 
-Jadual julat markah ini ialah skala gred UASA sekolah rendah seperti yang dilaporkan media dan portal pendidikan. Rujuk laporan rasmi sekolah anak anda sebagai pengesahan akhir.
+Julat ini ialah skala gred UASA dalam *Panduan Pengurusan dan Pentadbiran Ujian Akhir Sesi Akademik* KPM (perkara 11.3). Penjelasan lanjut, termasuk kenapa tiada markah lulus, ada dalam [Gred UASA 2026](/gred-uasa/). Rujuk laporan rasmi sekolah anak anda sebagai pengesahan akhir.
 
 ### Adakah ada markah lulus?
 

@@ -1,6 +1,7 @@
 ---
 title: "TP1 hingga TP6: Maksud Tahap Penguasaan PBD dan Cara Guru Menentukannya"
 date: 2026-10-06
+lastmod: 2026-10-20
 url: "/tp1-hingga-tp6/"
 draft: false
 categories: ["Pentaksiran"]
@@ -96,7 +97,7 @@ Bermula sesi 2024, KPM menukar pelaporan **UASA** (Ujian Akhir Sesi Akademik) da
 | Bentuk laporan | TP1 hingga TP6 | Peratus dan gred (sejak 2024) |
 | Kekerapan laporan | Sekurang-kurangnya 2 kali setahun | Akhir sesi |
 
-Jadi, slip keputusan anak mungkin menunjukkan **kedua-duanya**: TP daripada PBD dan peratus/gred daripada UASA. Kedua-duanya mengukur perkara yang berbeza dan tidak semestinya sama.
+Jadi, slip keputusan anak mungkin menunjukkan **kedua-duanya**: TP daripada PBD dan peratus/gred daripada UASA. Kedua-duanya mengukur perkara yang berbeza dan tidak semestinya sama. Julat markah bagi setiap gred UASA ada dalam [Gred UASA 2026](/gred-uasa/).
 
 ## Tindakan susulan mengikut TP
 

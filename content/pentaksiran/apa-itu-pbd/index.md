@@ -1,7 +1,7 @@
 ---
 title: "Pentaksiran Bilik Darjah (PBD): Maksud, Jadual TP1–TP6 dan Beza dengan UASA"
 date: 2026-10-01
-lastmod: 2026-10-17
+lastmod: 2026-10-20
 url: "/apa-itu-pbd/"
 draft: false
 categories: ["Pentaksiran"]
@@ -121,7 +121,7 @@ Inilah punca kekeliruan paling besar pada 2026. Ketiga-tiganya wujud serentak da
 |---|---|---|---|
 | **Nama penuh** | Pentaksiran Bilik Darjah | Ujian Akhir Sesi Akademik | Matriks Pembelajaran Malaysia |
 | **Bila** | Sepanjang tahun | Hujung sesi akademik | Tahun 4: 6–8 Okt 2026. Tingkatan 3: mulai 2027 |
-| **Siapa mentadbir** | Guru di bilik darjah | Sekolah (menggunakan bank soalan KPM) | Lembaga Peperiksaan (selaras seluruh negara) |
+| **Siapa mentadbir** | Guru di bilik darjah | Sekolah (instrumen dibina sendiri berpandukan format dan JSU KPM) | Lembaga Peperiksaan (selaras seluruh negara) |
 | **Peringkat** | Semua tahun dan tingkatan | Tahun 4–6, Tingkatan 1–3 | Tahun 4 dan Tingkatan 3 sahaja |
 | **Subjek** | Semua mata pelajaran | Mata pelajaran bertulis | Tahun 4: BM, BI, Matematik, Sains (serta Bahasa Cina/Tamil di SJK). Tingkatan 3: tambah Sejarah |
 | **Tujuan** | Mengesan perkembangan dan penguasaan murid secara berterusan | Mentaksir penguasaan pada akhir sesi | Mengenal pasti tahap penguasaan lebih awal supaya intervensi lebih berfokus |
@@ -129,6 +129,8 @@ Inilah punca kekeliruan paling besar pada 2026. Ketiga-tiganya wujud serentak da
 Ketika mengumumkan Matriks Pembelajaran di Dewan Negara, Menteri Pendidikan Fadhlina Sidek menyatakan bahawa Matriks Pembelajaran *"membolehkan pencapaian murid dinilai bagi membantu guru, sekolah, dan KPM untuk merangka intervensi yang lebih berfokus dan intensif."*
 
 Menteri juga menegaskan bahawa *"bahagian paling penting bermula selepas Matriks Pembelajaran selesai dilaksanakan"* ([Kosmo, 25 September 2026](https://www.kosmo.com.my/2026/09/25/matriks-tahun-4-kesan-murid-perlukan-bantuan-lebih-awal-fadhlina/)), iaitu apabila guru menggunakan data itu untuk membantu murid.
+
+UASA dilaporkan dalam peratus dan gred A hingga F, bukan TP. Julat markah dan maksud setiap gred diterangkan dalam [Gred UASA 2026](/gred-uasa/).
 
 Ringkasnya: **Matriks Pembelajaran tidak menggantikan PBD dan bukan UPSR yang dikembalikan.** PBD kekal sebagai pentaksiran harian oleh guru. Matriks ialah ukuran selaras pada dua titik sahaja, iaitu Tahun 4 dan Tingkatan 3, untuk membantu perancangan intervensi.
 
