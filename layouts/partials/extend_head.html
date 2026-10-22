@@ -29,3 +29,7 @@
 }
 </script>
 {{- end }}
+{{- /* Halaman tag: nipis dan bersaing dengan artikel dalam carian. Jangan indeks, tetapi ikut pautan. */ -}}
+{{- if or (and (eq .Kind "term") (eq .Data.Plural "tags")) (and (eq .Kind "taxonomy") (eq .Data.Plural "tags")) }}
+<meta name="robots" content="noindex, follow">
+{{- end }}

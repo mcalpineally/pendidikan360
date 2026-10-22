@@ -1,12 +1,12 @@
 ---
 title: "Gred UASA 2026: Julat Markah A hingga F, Tafsiran dan Adakah Ada Markah Lulus"
 date: 2026-10-20
-lastmod: 2026-10-20
+lastmod: 2026-10-22
 url: "/gred-uasa/"
 draft: false
 categories: ["Pentaksiran"]
 tags: ["UASA", "Gred UASA", "Markah UASA", "PBD", "SPPB", "Ibu Bapa"]
-description: "Jadual gred UASA rasmi KPM: A 82–100, B 66–81, C 50–65, D 35–49, E 20–34, F 0–19. Maksud setiap gred, kenapa tiada markah lulus, cara skor ditukar kepada peratus, dan kalkulator gred."
+description: "Gred A UASA bermula pada 82%, jadi 80% ialah gred B. Jadual gred A hingga F rasmi KPM untuk sekolah rendah dan menengah rendah, kenapa tiada markah lulus, dan kalkulator gred."
 ShowToc: true
 TocOpen: true
 cover:
@@ -167,6 +167,14 @@ UASA tidak menggunakan konsep lulus atau gagal. Gred E (20% hingga 34%) bermaksu
 ### Adakah benar markah lulus UASA diturunkan daripada 40% kepada 20%?
 
 Dakwaan ini tular pada Disember 2024. KPM menjelaskan bahawa UASA bukan penentu lulus atau gagal, jadi tiada "markah lulus" yang diturunkan. Julat 20% ialah sempadan antara gred E (mencapai tahap minimum) dan gred F (belum mencapai tahap minimum).
+
+### UASA untuk darjah berapa?
+
+UASA diduduki oleh murid **Tahun (Darjah) 4, 5 dan 6** di sekolah rendah, serta **Tingkatan 1, 2 dan 3** di sekolah menengah. Murid Tahun 1 hingga 3 tidak menduduki UASA. Butiran lanjut dalam [Apa itu UASA?](/apa-itu-uasa/).
+
+### Adakah Tingkatan 4 dan 5 menggunakan gred UASA?
+
+Tidak. Murid Tingkatan 4 dan 5 tidak menduduki UASA, dan skala gred A 82–100 hingga F 0–19 dalam panduan UASA KPM hanya untuk Tahun 4 hingga 6 serta Tingkatan 1 hingga 3. Peperiksaan akhir sesi Tingkatan 4 dan 5 ditadbir oleh sekolah; rujuk slip keputusan sekolah untuk skala gred yang digunakan.
 
 ### Adakah gred UASA berubah pada 2026?
 
