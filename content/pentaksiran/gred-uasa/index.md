@@ -1,7 +1,7 @@
 ---
-title: "Gred UASA 2026: Julat Markah A hingga F, Tafsiran dan Adakah Ada Markah Lulus"
+title: "Gred UASA 2026: Jadual Markah A hingga F, Kalkulator dan Markah Lulus"
 date: 2026-10-20
-lastmod: 2026-10-22
+lastmod: 2026-11-01
 url: "/gred-uasa/"
 draft: false
 categories: ["Pentaksiran"]
