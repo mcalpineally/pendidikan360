@@ -176,7 +176,7 @@ PBD tidak memberi markah atau gred. Keputusannya dalam bentuk **Tahap Penguasaan
 
 ### Berapa kali keputusan PBD dilaporkan kepada ibu bapa?
 
-Pelaporan PBD dibuat pada pertengahan tahun dan akhir tahun, iaitu sekurang-kurangnya dua kali setahun.
+Pelaporan PBD dibuat pada pertengahan tahun dan akhir tahun, iaitu sekurang-kurangnya dua kali setahun. Untuk guru yang sedang menulis laporan, lihat [36 contoh ulasan PBD akhir tahun](/contoh-ulasan-pbd/).
 
 ### Apakah beza Tahap Penguasaan (TP) dengan gred?
 

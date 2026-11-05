@@ -1,7 +1,7 @@
 ---
 title: "TP1 hingga TP6: Maksud Tahap Penguasaan PBD dan Cara Guru Menentukannya"
 date: 2026-10-06
-lastmod: 2026-10-20
+lastmod: 2026-11-05
 url: "/tp1-hingga-tp6/"
 draft: false
 categories: ["Pentaksiran"]
@@ -122,6 +122,8 @@ Ulasan dalam laporan PBD lebih bermakna jika ia menyebut **apa yang murid sudah 
 - **TP6:** "Haziq menghasilkan idea projek sains yang kreatif dan membantu rakan memahami konsep. Teruskan peranan sebagai pembimbing rakan sebaya."
 
 Elakkan ulasan umum seperti "baik" atau "perlu usaha lagi" sahaja. Ibu bapa lebih mudah membantu anak jika tahu kemahiran yang perlu diberi perhatian.
+
+Lima contoh bagi setiap TP, contoh dalam Bahasa Inggeris dan formula menulis ulasan ada dalam [Contoh Ulasan PBD Akhir Tahun](/contoh-ulasan-pbd/).
 
 {{< bahan slug="ulasan-pbd" tajuk="Dapatkan 120 Contoh Ulasan PBD TP1–TP6 (PDF percuma)" teks="20 ulasan bagi setiap TP: umum, bahasa, matematik, serta sains dan mata pelajaran lain. Sedia untuk disalin ke laporan PBD pertengahan dan akhir tahun." >}}
 
