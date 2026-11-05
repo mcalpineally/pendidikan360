@@ -1,7 +1,7 @@
 ---
 title: "Takwim Sekolah 2027 PDF: Jadual Persekolahan dan Cuti Kumpulan A & B"
 date: 2026-10-04
-lastmod: 2026-10-27
+lastmod: 2026-11-05
 url: "/takwim-persekolahan-2027/"
 draft: false
 categories: ["Info Sekolah"]
@@ -69,6 +69,63 @@ Johor kini berada dalam Kumpulan B kerana negeri itu menukar hujung minggu kepad
 | **Cuti Penggal 2** | **28 Ogos – 5 Sep 2027** | 9 hari |
 | Penggal 2, bahagian 2 | 6 Sep – 3 Dis 2027 | 61 hari sekolah |
 | **Cuti Akhir Persekolahan** | **4 – 31 Dis 2027** | 28 hari |
+
+## Minggu persekolahan 2027 (Minggu 1 hingga 44)
+
+Kedua-dua kumpulan mempunyai 44 minggu persekolahan. Jadual di bawah menomborkan setiap minggu mengikut tarikh penggal dalam Kalendar Akademik 2027 KPM. Minggu Kumpulan A bermula hari Ahad dan Kumpulan B hari Isnin, kecuali Minggu 1 yang bermula Isnin, 4 Januari untuk semua.
+
+| Minggu | Kumpulan A | Kumpulan B | Catatan |
+|---|---|---|---|
+| 1 | 4 Jan – 7 Jan | 4 Jan – 8 Jan |  |
+| 2 | 10 Jan – 14 Jan | 11 Jan – 15 Jan |  |
+| 3 | 17 Jan – 21 Jan | 18 Jan – 22 Jan |  |
+| 4 | 24 Jan – 28 Jan | 25 Jan – 29 Jan |  |
+| 5 | 31 Jan – 4 Feb | 1 Feb – 5 Feb | Kumpulan B: cuti tambahan Tahun Baharu Cina (5 Feb) |
+| 6 | 7 Feb – 11 Feb | 8 Feb – 12 Feb | Cuti tambahan Tahun Baharu Cina |
+| 7 | 14 Feb – 18 Feb | 15 Feb – 19 Feb |  |
+| 8 | 21 Feb – 25 Feb | 22 Feb – 26 Feb |  |
+| 9 | 28 Feb – 4 Mac | 1 Mac – 5 Mac |  |
+| **Cuti Penggal 1** | **5 – 13 Mac** | **6 – 14 Mac** | |
+| 10 | 14 Mac – 18 Mac | 15 Mac – 19 Mac | Kumpulan A: cuti tambahan Hari Raya Puasa (14 Mac) |
+| 11 | 21 Mac – 25 Mac | 22 Mac – 26 Mac |  |
+| 12 | 28 Mac – 1 Apr | 29 Mac – 2 Apr |  |
+| 13 | 4 Apr – 8 Apr | 5 Apr – 9 Apr |  |
+| 14 | 11 Apr – 15 Apr | 12 Apr – 16 Apr |  |
+| 15 | 18 Apr – 22 Apr | 19 Apr – 23 Apr |  |
+| 16 | 25 Apr – 29 Apr | 26 Apr – 30 Apr |  |
+| 17 | 2 Mei – 6 Mei | 3 Mei – 7 Mei |  |
+| 18 | 9 Mei – 13 Mei | 10 Mei – 14 Mei |  |
+| 19 | 16 Mei – 20 Mei | 17 Mei – 21 Mei | Cuti tambahan Hari Raya Korban; Kumpulan B juga Hari Wesak |
+| **Cuti Pertengahan Tahun** | **21 Mei – 5 Jun** | **22 Mei – 6 Jun** | |
+| 20 | 6 Jun – 10 Jun | 7 Jun – 11 Jun |  |
+| 21 | 13 Jun – 17 Jun | 14 Jun – 18 Jun |  |
+| 22 | 20 Jun – 24 Jun | 21 Jun – 25 Jun |  |
+| 23 | 27 Jun – 1 Jul | 28 Jun – 2 Jul |  |
+| 24 | 4 Jul – 8 Jul | 5 Jul – 9 Jul |  |
+| 25 | 11 Jul – 15 Jul | 12 Jul – 16 Jul |  |
+| 26 | 18 Jul – 22 Jul | 19 Jul – 23 Jul |  |
+| 27 | 25 Jul – 29 Jul | 26 Jul – 30 Jul |  |
+| 28 | 1 Ogos – 5 Ogos | 2 Ogos – 6 Ogos |  |
+| 29 | 8 Ogos – 12 Ogos | 9 Ogos – 13 Ogos |  |
+| 30 | 15 Ogos – 19 Ogos | 16 Ogos – 20 Ogos |  |
+| 31 | 22 Ogos – 26 Ogos | 23 Ogos – 27 Ogos |  |
+| **Cuti Penggal 2** | **27 Ogos – 4 Sep** | **28 Ogos – 5 Sep** | |
+| 32 | 5 Sep – 9 Sep | 6 Sep – 10 Sep |  |
+| 33 | 12 Sep – 16 Sep | 13 Sep – 17 Sep |  |
+| 34 | 19 Sep – 23 Sep | 20 Sep – 24 Sep |  |
+| 35 | 26 Sep – 30 Sep | 27 Sep – 1 Okt |  |
+| 36 | 3 Okt – 7 Okt | 4 Okt – 8 Okt |  |
+| 37 | 10 Okt – 14 Okt | 11 Okt – 15 Okt |  |
+| 38 | 17 Okt – 21 Okt | 18 Okt – 22 Okt |  |
+| 39 | 24 Okt – 28 Okt | 25 Okt – 29 Okt | Cuti tambahan Deepavali |
+| 40 | 31 Okt – 4 Nov | 1 Nov – 5 Nov |  |
+| 41 | 7 Nov – 11 Nov | 8 Nov – 12 Nov |  |
+| 42 | 14 Nov – 18 Nov | 15 Nov – 19 Nov |  |
+| 43 | 21 Nov – 25 Nov | 22 Nov – 26 Nov |  |
+| 44 | 28 Nov – 2 Dis | 29 Nov – 3 Dis |  |
+| **Cuti Akhir Persekolahan** | **3 – 31 Dis** | **4 – 31 Dis** | |
+
+Lajur catatan hanya menanda cuti tambahan KPM; cuti umum yang jatuh pada hari persekolahan disenaraikan di bahagian seterusnya. Penomboran ini dikira daripada tarikh penggal rasmi. Sesetengah sekolah atau panitia mungkin menggunakan penomboran sendiri dalam Rancangan Pengajaran Tahunan, jadi semak dengan takwim sekolah anda.
 
 ## Cuti tambahan perayaan KPM 2027
 
