@@ -1,0 +1,19 @@
+{{- /* Kotak produk berbayar di kedai.pendidikan360.my. Guna dalam artikel:
+     {{< produk url="https://kedai.pendidikan360.my/p/planner-guru-2027" tajuk="Planner Guru 2027" teks="..." harga="RM19" imej="https://..." butang="Lihat planner" kempen="takwim-2027" >}}
+     Isi dalam (pilihan) = senarai ciri, satu baris setiap ciri. */ -}}
+{{- $u := .Get "url" -}}
+{{- $k := .Get "kempen" | default .Page.File.ContentBaseName -}}
+{{- $href := printf "%s?utm_source=pendidikan360&utm_medium=artikel&utm_campaign=%s" $u ($k | urlize) -}}
+<aside class="p360-produk" aria-label="Produk Pendidikan360">
+  {{- with .Get "imej" }}<a class="p360-produk__img" href="{{ $href }}"><img src="{{ . }}" alt="{{ $.Get "tajuk" }}" width="300" height="300" loading="lazy"></a>{{ end }}
+  <div class="p360-produk__body">
+    <div class="p360-produk__label">Dari Kedai Pendidikan360</div>
+    <strong class="p360-produk__title">{{ .Get "tajuk" }}</strong>
+    {{- with .Get "teks" }}<p class="p360-produk__text">{{ . }}</p>{{ end }}
+    {{- with trim .Inner "\n " }}<ul class="p360-produk__list">{{ range split . "\n" }}{{ with trim . " " }}<li>{{ . }}</li>{{ end }}{{ end }}</ul>{{ end }}
+    <div class="p360-produk__buy">
+      {{- with .Get "harga" }}<span class="p360-produk__price">{{ . }}</span>{{ end }}
+      <a class="p360-produk__btn" href="{{ $href }}">{{ .Get "butang" | default "Lihat produk" }} →</a>
+    </div>
+  </div>
+</aside>

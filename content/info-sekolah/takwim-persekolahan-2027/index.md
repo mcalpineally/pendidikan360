@@ -127,6 +127,12 @@ Kedua-dua kumpulan mempunyai 44 minggu persekolahan. Jadual di bawah menomborkan
 
 Lajur catatan hanya menanda cuti tambahan KPM; cuti umum yang jatuh pada hari persekolahan disenaraikan di bahagian seterusnya. Penomboran ini dikira daripada tarikh penggal rasmi. Sesetengah sekolah atau panitia mungkin menggunakan penomboran sendiri dalam Rancangan Pengajaran Tahunan, jadi semak dengan takwim sekolah anda.
 
+{{< produk url="https://kedai.pendidikan360.my/p/planner-guru-2027" kempen="takwim-2027" tajuk="Planner Guru 2027: jadual ini dalam bentuk planner" teks="PDF A4 70 muka surat, edisi Kumpulan A dan B. Tarikh setiap minggu, hari mengajar dan cuti sudah diisi, jadi anda hanya tulis apa yang hendak diajar." harga="RM19" imej="https://kedai.pendidikan360.my/api/public/products/bf104372-5c5d-482c-a18d-33b0c1dbeba0/image" butang="Lihat Planner Guru 2027" >}}
+Perancangan Tahunan Minggu 1–44, cuti setiap minggu sudah ditanda
+44 halaman mingguan bertarikh, hari cuti sudah dilorek
+Kalendar setahun, 12 kalendar bulanan dan rekod PBD TP1–TP6
+{{< /produk >}}
+
 ## Cuti tambahan perayaan KPM 2027
 
 Selain cuti penggal, KPM memberi cuti tambahan sempena lima perayaan utama. Menurut kenyataan KPM, semua sekolah mesti mematuhi peruntukan ini dan **cuti tambahan tersebut tidak perlu diganti**.
@@ -187,7 +193,7 @@ Sebelum berkongsi, bandingkan infografik dengan dokumen rasmi KPM. Pautannya ada
 
 - **Percutian keluarga Hari Raya:** Hari Raya Puasa (10–11 Mac) jatuh dalam Cuti Penggal 1. Untuk Kumpulan A, cuti bersambung hingga 14 Mac, jadi rancang perjalanan pulang awal.
 - **Cuti berterusan hampir sebulan (Mei–Jun):** Hari Raya Korban, cuti tambahan KPM, Hari Wesak, Cuti Pertengahan Tahun, Awal Muharam dan Hari Keputeraan YDP Agong jatuh berturut-turut. Hasilnya, murid Kumpulan A tidak bersekolah dari **14 Mei hingga 7 Jun**, dan murid Kumpulan B dari **15 Mei hingga 7 Jun**. Kedua-dua kumpulan kembali ke sekolah pada 8 Jun. Ini masa yang sesuai untuk percutian keluarga, tetapi guru perlu merancang supaya murid tidak terlalu lama tanpa pengukuhan pembelajaran.
-- **Rancangan Pengajaran Tahunan (RPT):** Kedua-dua kumpulan mempunyai 44 minggu persekolahan. Minggu yang terlibat dengan cuti tambahan KPM (Februari, Mei dan Oktober) mempunyai hari mengajar yang lebih sedikit. Rancang topik berat di luar minggu tersebut.
+- **Rancangan Pengajaran Tahunan (RPT):** Kedua-dua kumpulan mempunyai 44 minggu persekolahan. Minggu yang terlibat dengan cuti tambahan KPM (Februari, Mei dan Oktober) mempunyai hari mengajar yang lebih sedikit. Rancang topik berat di luar minggu tersebut. [Planner Guru 2027](https://kedai.pendidikan360.my/p/planner-guru-2027?utm_source=pendidikan360&utm_medium=artikel&utm_campaign=takwim-2027-tip) sudah mengisi hari mengajar bagi setiap minggu.
 
 {{< bahan slug="takwim-2027" tajuk="Simpan takwim ini untuk sepanjang tahun" teks="Muat turun versi PDF A4 dan tampal di bilik guru, kelas atau peti sejuk di rumah." >}}
 

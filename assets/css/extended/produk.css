@@ -1,0 +1,18 @@
+/* Kotak produk berbayar (shortcode produk) */
+.p360-produk { margin: 2rem 0; padding: 1.2rem; border-radius: 18px; background: #fffbeb; border: 2px solid #fcc419;
+  display: grid; grid-template-columns: 150px 1fr; gap: 1.2rem; align-items: center; color: #0f172a; }
+.p360-produk__img { box-shadow: none !important; }
+.p360-produk__img img { width: 100%; height: auto; border-radius: 12px; margin: 0; display: block; }
+.p360-produk__label { display: inline-block; background: #0c4a6e; color: #fff; font-weight: 800; font-size: .7rem; letter-spacing: .1em; text-transform: uppercase; padding: 3px 10px; border-radius: 999px; }
+.p360-produk__title { display: block; font-family: "Plus Jakarta Sans", Inter, sans-serif; font-size: 1.2rem; margin: .5rem 0 .25rem; color: #0f172a; }
+.p360-produk__text { margin: 0 0 .5rem; font-size: .95rem; color: #422006; }
+.post-content .p360-produk__list { margin: 0 0 .7rem; padding-left: 1.1rem; font-size: .92rem; color: #422006; }
+.post-content .p360-produk__list li { margin: .15rem 0; }
+.p360-produk__buy { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+.p360-produk__price { font: 800 1.35rem "Plus Jakarta Sans", Inter, sans-serif; }
+.post-content a.p360-produk__btn, .p360-produk__btn { display: inline-block; background: #fcc419; color: #0f172a; box-shadow: 0 6px 16px rgba(252,196,25,.35);
+  font: 800 .98rem "Plus Jakarta Sans", Inter, sans-serif; padding: 11px 18px; border-radius: 12px; text-decoration: none; }
+@media (max-width: 560px) { .p360-produk { grid-template-columns: 1fr; } .p360-produk__img { max-width: 220px; } }
+.dark .p360-produk { background: #2a2414; color: #f8fafc; }
+.dark .p360-produk__title { color: #fff; }
+.dark .p360-produk__text, .dark .post-content .p360-produk__list { color: #fde68a; }
