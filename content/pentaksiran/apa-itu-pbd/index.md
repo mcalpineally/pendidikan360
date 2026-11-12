@@ -113,6 +113,12 @@ Bagi sekolah yang menggunakan pendekatan projek atau aktiviti berkumpulan, kaeda
 
 ---
 
+{{< produk url="https://kedai.pendidikan360.my/p/pakej-guru-2027" kempen="pbd-apa-itu-pbd" tajuk="Pakej PBD Guru: rekod PBD untuk 5 kelas" teks="Rekod TP murid dalam Excel atau Google Sheets. Cadangan TP keseluruhan, status murid dan ulasan dikira automatik." harga="RM19" imej="https://kedai.pendidikan360.my/api/public/products/a85816f4-c92b-432a-ace4-d63f6b4c8b59/image" butang="Lihat Pakej PBD Guru" >}}
+Cadangan TP keseluruhan dan TP terkini dikira automatik
+Ulasan mengikut TP dan mata pelajaran, terus dengan nama murid
+312 ulasan PBD dan 24 cadangan intervensi (PDF)
+{{< /produk >}}
+
 ## PBD, UASA dan Matriks Pembelajaran: Apa Bezanya?
 
 Inilah punca kekeliruan paling besar pada 2026. Ketiga-tiganya wujud serentak dan mempunyai peranan berbeza.

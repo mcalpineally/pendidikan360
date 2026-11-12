@@ -85,6 +85,12 @@ Ramai guru mencari "cara kira TP keseluruhan". Beberapa perkara yang perlu difah
 - **Templat pelaporan dan sistem sekolah boleh membantu merumus**, tetapi semak dahulu cara ia merumus. Ikut ketetapan panitia dan sekolah anda supaya semua guru menggunakan kaedah yang sama.
 - **Beri perhatian kepada bukti terkini.** Jika murid bermula di TP2 tetapi kini tekal di TP4, TP terkini lebih menggambarkan penguasaannya berbanding purata dari awal tahun.
 
+{{< produk url="https://kedai.pendidikan360.my/p/pakej-guru-2027" kempen="pbd-tp1-hingga-tp6" tajuk="Pakej PBD Guru: rekod TP dengan cadangan TP keseluruhan" teks="Isi TP bagi setiap standard dalam Excel atau Google Sheets. Fail ini mencadangkan TP keseluruhan dan menulis ulasan, dan keputusan akhir tetap di tangan anda." harga="RM19" imej="https://kedai.pendidikan360.my/api/public/products/a85816f4-c92b-432a-ace4-d63f6b4c8b59/image" butang="Lihat Pakej PBD Guru" >}}
+Cadangan TP keseluruhan dan TP terkini dikira automatik
+Ulasan mengikut TP dan mata pelajaran, terus dengan nama murid
+312 ulasan PBD dan 24 cadangan intervensi (PDF)
+{{< /produk >}}
+
 ## TP bukan peratus atau markah
 
 Ramai ibu bapa mencari "TP6 berapa markah" atau "peratus TP1 hingga TP6". Jawapan ringkasnya: **TP tidak boleh ditukar terus kepada markah**. TP menerangkan **kualiti penguasaan**, manakala markah mengukur **jumlah jawapan betul** dalam satu ujian.

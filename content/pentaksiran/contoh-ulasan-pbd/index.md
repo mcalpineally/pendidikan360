@@ -122,6 +122,12 @@ Guru Bahasa Inggeris biasanya menulis ulasan dalam bahasa Inggeris. Formula yang
 | TP5 | "Ravi communicates confidently in English in different situations and supports his ideas with reasons." |
 | TP6 | "Sarah writes creatively with original ideas and helps classmates improve their work. She is a role model in class." |
 
+{{< produk url="https://kedai.pendidikan360.my/p/pakej-guru-2027" kempen="pbd-contoh-ulasan-pbd" tajuk="Mahu ulasan keluar sendiri dengan nama murid?" teks="Pakej PBD Guru memilih ulasan mengikut TP dan mata pelajaran untuk setiap murid dalam rekod Excel atau Google Sheets. Termasuk 312 ulasan untuk 7 kategori." harga="RM19" imej="https://kedai.pendidikan360.my/api/public/products/a85816f4-c92b-432a-ace4-d63f6b4c8b59/image" butang="Lihat Pakej PBD Guru" >}}
+312 ulasan: Umum, BM, BI, Matematik, Sains, Pendidikan Islam, Sejarah
+Ulasan automatik dengan nama murid, boleh ditukar dengan satu nombor
+Ulasan sikap dan cadangan intervensi bagi setiap TP
+{{< /produk >}}
+
 ## 5 kesilapan lazim dalam ulasan PBD
 
 | Elakkan | Kenapa | Gantikan dengan |

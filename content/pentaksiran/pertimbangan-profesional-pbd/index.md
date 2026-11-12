@@ -162,6 +162,12 @@ Pertimbangan profesional guru menentukan murid berada pada tahap mana berdasarka
 
 ---
 
+{{< produk url="https://kedai.pendidikan360.my/p/pakej-guru-2027" kempen="pbd-pertimbangan-profesional-pbd" tajuk="Rekod bukti TP sepanjang tahun" teks="Pakej PBD Guru menyimpan TP setiap standard, menunjukkan TP terkini dan purata, dan memberi ruang untuk keputusan pertimbangan profesional anda." harga="RM19" imej="https://kedai.pendidikan360.my/api/public/products/a85816f4-c92b-432a-ace4-d63f6b4c8b59/image" butang="Lihat Pakej PBD Guru" >}}
+TP terkini dan purata dipaparkan sebelah menyebelah
+Lajur khas untuk TP keseluruhan keputusan guru
+Ulasan automatik dan 312 ulasan PBD
+{{< /produk >}}
+
 ## Soalan Lazim (FAQ)
 
 ### Apakah yang dimaksudkan dengan pertimbangan profesional dalam PBD?
