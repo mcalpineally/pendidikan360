@@ -48,6 +48,12 @@ Apabila cuti perayaan, cuti tambahan KPM, cuti umum dan hujung minggu digabungka
 
 **Mengapa 8 Februari penting untuk Kumpulan B:** cuti tambahan KPM untuk Kumpulan B ialah 5 Februari dan 9 hingga 12 Februari, tanpa 8 Februari. Ini kerana Tahun Baharu Cina hari kedua jatuh pada hari Ahad (7 Februari), jadi 8 Februari dijangka menjadi cuti ganti. Di Johor, 8 Februari juga cuti umum negeri (Awal Ramadan). Hasilnya, murid Kumpulan B bercuti seminggu penuh.
 
+{{< produk url="https://kedai.pendidikan360.my/p/planner-guru-2027" kempen="cuti-sekolah-2027" tajuk="Planner Guru 2027: semua cuti ini sudah ditanda" teks="PDF A4 70 muka surat, edisi Kumpulan A dan B. Cuti penggal, cuti tambahan KPM, cuti umum dan cuti negeri sudah ditanda pada setiap halaman." harga="RM19" imej="https://kedai.pendidikan360.my/api/public/products/bf104372-5c5d-482c-a18d-33b0c1dbeba0/image" butang="Lihat Planner Guru 2027" >}}
+Kalendar setahun dan 12 kalendar bulanan berwarna
+Perancangan Tahunan Minggu 1–44 dengan hari mengajar setiap minggu
+44 halaman mingguan bertarikh dan rekod PBD TP1–TP6
+{{< /produk >}}
+
 ## Cuti Umum Negeri 2027 Mengikut Negeri
 
 Jadual di bawah menyenaraikan cuti umum **negeri** sahaja, bersama kesannya pada sekolah. Cuti umum persekutuan seperti Hari Raya Qurban (17 Mei), Hari Wesak (20 Mei), Hari Keputeraan YDP Agong (7 Jun), Hari Malaysia (16 September) dan Hari Deepavali (28 Oktober, kecuali Sarawak) terpakai di semua negeri dan disenaraikan dalam [Takwim Sekolah 2027](/takwim-persekolahan-2027/#cuti-umum-yang-jatuh-pada-hari-persekolahan).
