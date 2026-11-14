@@ -1,7 +1,7 @@
 ---
-title: "Takwim Sekolah 2027 PDF: Jadual Persekolahan dan Cuti Kumpulan A & B"
+title: "Takwim Sekolah 2027: Tarikh Persekolahan, Cuti Penggal dan PDF Kumpulan A & B"
 date: 2026-10-04
-lastmod: 2026-11-05
+lastmod: 2026-11-14
 url: "/takwim-persekolahan-2027/"
 draft: false
 categories: ["Info Sekolah"]
@@ -15,6 +15,14 @@ cover:
   caption: "Takwim persekolahan 2027 berdasarkan Kalendar Akademik Tahun 2027 KPM"
   relative: true
 ---
+
+> **Tarikh penting takwim sekolah 2027**
+> - **Sekolah buka:** Isnin, 4 Januari 2027 (semua negeri)
+> - **Cuti Penggal 1:** 5–13 Mac (Kumpulan A) · 6–14 Mac (Kumpulan B)
+> - **Cuti Pertengahan Tahun:** 21 Mei–5 Jun (A) · 22 Mei–6 Jun (B); murid kembali Selasa, 8 Jun
+> - **Cuti Penggal 2:** 27 Ogos–4 Sep (A) · 28 Ogos–5 Sep (B)
+> - **Cuti Akhir Persekolahan:** 3–31 Dis (A) · 4–31 Dis (B)
+> - **Hari persekolahan:** 201 (A) · 203 (B), dalam 44 minggu
 
 Menurut takwim sekolah 2027 KPM (Kalendar Akademik Tahun 2027), jadual persekolahan 2027 bermula pada **Isnin, 4 Januari 2027** untuk semua negeri. Sekolah Kumpulan A (Kedah, Kelantan dan Terengganu) tamat pada **2 Disember 2027**, manakala Kumpulan B tamat pada **3 Disember 2027**. Tarikh ini diumumkan oleh Kementerian Pendidikan Malaysia (KPM) pada 2 Oktober 2026 melalui Kalendar Akademik Tahun 2027.
 

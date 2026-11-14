@@ -1,12 +1,12 @@
 ---
-title: "Apa itu UASA? Maksud, Siapa Terlibat, Tarikh 2026 dan Beza dengan UPSA dan PBD"
+title: "Maksud UASA (Ujian Akhir Sesi Akademik): Apa itu UASA, Tarikh 2026 dan Beza dengan PBD"
 date: 2026-10-20
-lastmod: 2026-10-20
+lastmod: 2026-11-14
 url: "/apa-itu-uasa/"
 draft: false
 categories: ["Pentaksiran"]
 tags: ["UASA", "Ujian Akhir Sesi Akademik", "UPSA", "PBD", "Pentaksiran Sumatif", "Ibu Bapa", "Jerebu 2026"]
-description: "UASA (Ujian Akhir Sesi Akademik) ialah ujian bertulis akhir sesi dalam PBD untuk Tahun 4–6 dan Tingkatan 1–3. Maksud, subjek, siapa sediakan soalan, tarikh UASA 2026 (termasuk penangguhan jerebu), keputusan, dan beza dengan UPSA, PBD dan Matriks."
+description: "Maksud UASA: Ujian Akhir Sesi Akademik, iaitu ujian bertulis akhir sesi dalam PBD untuk Tahun 4–6 dan Tingkatan 1–3. Maksud, subjek, siapa sediakan soalan, tarikh UASA 2026 (termasuk penangguhan jerebu), keputusan, dan beza dengan UPSA, PBD dan Matriks."
 ShowToc: true
 TocOpen: true
 cover:

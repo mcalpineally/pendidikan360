@@ -1,11 +1,12 @@
 ---
-title: "Cuti Sekolah 2027 Mengikut Negeri: Cuti Penggal, Cuti Perayaan dan Cuti Umum Negeri"
+title: "Cuti Sekolah 2027: Tarikh Cuti Penggal, Raya, Deepavali dan Cuti Negeri (Kumpulan A & B)"
 date: 2026-10-16
+lastmod: 2026-11-14
 url: "/cuti-sekolah-2027/"
 draft: false
 categories: ["Info Sekolah"]
-tags: ["Cuti Sekolah 2027", "Cuti Umum 2027", "Cuti Umum Negeri 2027", "Kumpulan A", "Kumpulan B", "Takwim Sekolah 2027", "Cuti Tambahan KPM"]
-description: "Cuti sekolah 2027 untuk setiap negeri: cuti penggal Kumpulan A dan B, cuti panjang perayaan, dan cuti umum negeri yang jatuh pada hari persekolahan. Berdasarkan data KPM dan JPM."
+tags: ["Cuti Sekolah 2027", "Cuti Perayaan KPM 2027", "Cuti Deepavali 2027", "Cuti Umum 2027", "Cuti Umum Negeri 2027", "Kumpulan A", "Kumpulan B", "Takwim Sekolah 2027", "Cuti Tambahan KPM"]
+description: "Cuti sekolah 2027: cuti penggal 1 pada 5–13 Mac (A) dan 6–14 Mac (B), cuti Hari Raya, Hari Raya Haji dan Deepavali, cuti tambahan KPM, dan cuti umum setiap negeri. Berdasarkan data KPM dan JPM."
 ShowToc: true
 TocOpen: false
 cover:
@@ -53,6 +54,40 @@ Kalendar setahun dan 12 kalendar bulanan berwarna
 Perancangan Tahunan Minggu 1–44 dengan hari mengajar setiap minggu
 44 halaman mingguan bertarikh dan rekod PBD TP1–TP6
 {{< /produk >}}
+
+## Cuti Perayaan 2027: Raya, Deepavali dan Tahun Baharu Cina
+
+Tarikh di bawah menggabungkan cuti umum, **cuti tambahan perayaan KPM** dan hujung minggu. Cuti tambahan KPM tidak perlu diganti pada hari Sabtu.
+
+### Cuti Tahun Baharu Cina 2027
+
+- **Tarikh perayaan:** 6–7 Februari (Sabtu–Ahad)
+- **Cuti tambahan KPM:** Kumpulan A 9–11 Feb (tambah 8 Feb untuk Kelantan dan Terengganu); Kumpulan B 5 dan 9–12 Feb
+- **Murid bercuti:** Kumpulan A 5–13 Feb; Kumpulan B 5–14 Feb
+- **Kembali ke sekolah:** Kumpulan A Ahad, 14 Feb; Kumpulan B Isnin, 15 Feb
+
+### Cuti Hari Raya Puasa 2027
+
+- **Tarikh perayaan:** 10–11 Mac (Rabu–Khamis), tertakluk kepada rukyah
+- **Jatuh dalam Cuti Penggal 1:** Kumpulan A 5–13 Mac; Kumpulan B 6–14 Mac
+- **Cuti tambahan KPM:** 14 Mac untuk Kumpulan A sahaja; tiada untuk Kumpulan B
+- **Kembali ke sekolah:** kedua-dua kumpulan pada Isnin, 15 Mac
+
+### Cuti Hari Raya Haji (Korban) 2027
+
+- **Tarikh perayaan:** 17 Mei (Isnin); hari kedua (18 Mei) cuti umum di Kedah, Kelantan, Perlis dan Terengganu
+- **Cuti tambahan KPM:** Kumpulan A 16 dan 19 Mei (tambah 18 Mei untuk Kedah); Kumpulan B 18–19 Mei
+- **Bersambung dengan Hari Wesak (20 Mei) dan Cuti Pertengahan Tahun**, jadi murid bercuti hampir sebulan: Kumpulan A 14 Mei – 7 Jun; Kumpulan B 15 Mei – 7 Jun
+- **Kembali ke sekolah:** Selasa, 8 Jun (Kumpulan B mungkin Rabu, 9 Jun jika ada cuti ganti Awal Muharam)
+
+### Cuti Deepavali 2027
+
+- **Tarikh perayaan:** 28 Oktober (Khamis); bukan cuti umum di Sarawak
+- **Cuti tambahan KPM:** Kumpulan A 27 Okt; Kumpulan B 27 dan 29 Okt (Sarawak: 28 Okt sahaja)
+- **Murid bercuti:** Kumpulan A 27–30 Okt; Kumpulan B 27–31 Okt
+- **Kembali ke sekolah:** Kumpulan A Ahad, 31 Okt; Kumpulan B Isnin, 1 Nov
+
+Tarikh Hari Raya Puasa, Hari Raya Haji dan Deepavali ditanda "tertakluk kepada perubahan" dalam jadual JPM. Lihat [tarikh yang perlu dipantau](#tarikh-yang-perlu-dipantau).
 
 ## Cuti Umum Negeri 2027 Mengikut Negeri
 
@@ -268,6 +303,14 @@ Sarawak dalam Kumpulan B. Cuti penggalnya sama dengan negeri Kumpulan B lain. Cu
 ### Bila cuti sekolah 2027 di Kedah?
 
 Kedah dalam Kumpulan A, dengan hujung minggu Jumaat dan Sabtu. Selain cuti penggal, sekolah di Kedah bercuti pada Israk dan Mikraj (6 Januari), Awal Ramadan (8 Februari) dan Hari Keputeraan Sultan Kedah (20 Jun).
+
+### Adakah Israk dan Mikraj cuti sekolah 2027?
+
+Ya, di Kedah, Negeri Sembilan, Perlis dan Terengganu. Israk dan Mikraj jatuh pada Rabu, 6 Januari 2027, iaitu hari persekolahan, jadi sekolah di negeri tersebut ditutup. Israk dan Mikraj kedua pada 2027 (26 Disember) jatuh dalam Cuti Akhir Persekolahan.
+
+### Bila cuti Deepavali 2027 untuk sekolah?
+
+Deepavali jatuh pada Khamis, 28 Oktober 2027. Murid Kumpulan A bercuti 27 hingga 30 Oktober, dan Kumpulan B 27 hingga 31 Oktober. Di Sarawak, sekolah bercuti pada 28 Oktober sahaja.
 
 ### Adakah Thaipusam cuti sekolah?
 
