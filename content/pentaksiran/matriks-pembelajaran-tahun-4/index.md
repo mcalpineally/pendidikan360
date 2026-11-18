@@ -24,6 +24,8 @@ Menurut KPM, keputusannya digunakan untuk mengenal pasti tahap penguasaan murid 
 
 Artikel ini merumuskan maklumat rasmi KPM dan Lembaga Peperiksaan, termasuk [gred dan isi laporan keputusan](#gred-dan-laporan-keputusan-mpt4) yang akan diterima ibu bapa.
 
+> 📅 **Sudah keluar: Takwim Sekolah 2027.** Sekolah dibuka pada 4 Januari 2027. Lihat semua tarikh cuti penggal, cuti tambahan KPM dan cuti perayaan untuk Kumpulan A dan B dalam **[Takwim Sekolah 2027](/takwim-persekolahan-2027/)**, atau semak cuti negeri anda dalam [Cuti Sekolah 2027](/cuti-sekolah-2027/).
+
 ---
 
 ## Ringkasan Pantas

@@ -40,6 +40,8 @@ Dua perkara yang sering mengejutkan ibu bapa:
 
 {{< kira-gred-uasa >}}
 
+> 📅 **Sudah keluar: Takwim Sekolah 2027.** Sekolah dibuka pada 4 Januari 2027. Lihat semua tarikh cuti penggal, cuti tambahan KPM dan cuti perayaan untuk Kumpulan A dan B dalam **[Takwim Sekolah 2027](/takwim-persekolahan-2027/)**, atau semak cuti negeri anda dalam [Cuti Sekolah 2027](/cuti-sekolah-2027/).
+
 ---
 
 ## Adakah UASA Ada Markah Lulus?
@@ -146,7 +148,7 @@ Panduan KPM meletakkan tanggungjawab berikut di bawah pengetua atau guru besar, 
 - **Perekodan dalam bentuk peratus** oleh guru mata pelajaran dalam SPPB.
 - **Modifikasi atau moderasi instrumen** untuk Murid Berkeperluan Pendidikan Khas (MBPK) program inklusif penuh dan separa, mengikut kesesuaian murid.
 
-Prinsip pemeriksaan dan moderasi ini sama dengan yang dibincangkan dalam [Moderasi PBD](/moderasi-pbd/).
+Prinsip pemeriksaan dan moderasi ini sama dengan yang dibincangkan dalam [Moderasi PBD](/moderasi-pbd/). Untuk menulis ulasan dalam laporan akhir tahun, lihat [contoh ulasan PBD mengikut TP](/contoh-ulasan-pbd/).
 
 ---
 
