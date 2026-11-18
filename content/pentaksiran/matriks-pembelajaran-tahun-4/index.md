@@ -1,12 +1,12 @@
 ---
 title: "Matriks Pembelajaran Tahun 4 (MPT4): Gred, Laporan Keputusan dan Cara Ia Digunakan"
 date: 2026-10-03
-lastmod: 2026-10-20
+lastmod: 2026-11-18
 url: "/matriks-pembelajaran-tahun-4/"
 draft: false
 categories: ["Pentaksiran"]
 tags: ["Matriks Pembelajaran", "Matriks Pembelajaran Tahun 4", "MPT4", "Lembaga Peperiksaan", "UPSR", "UASA", "PBD", "RPM 2026-2035"]
-description: "Gred Matriks Pembelajaran Tahun 4 (A hingga F), isi laporan keputusan, bila keputusan keluar, status MPT4 di Johor, dan beza gred Matriks dengan TP PBD. Untuk ibu bapa dan guru."
+description: "Keputusan Matriks Pembelajaran Tahun 4 diserahkan 29 November hingga 4 Disember 2026, bercetak atau digital, bersama skrip jawapan. Gred A hingga F, isi laporan, cara semak, status MPT4 di Johor, dan beza gred Matriks dengan TP PBD. Untuk ibu bapa dan guru."
 ShowToc: true
 TocOpen: true
 cover:
@@ -19,6 +19,8 @@ cover:
 **Matriks Pembelajaran Tahun 4** ialah pentaksiran bertulis selaras yang dikendalikan oleh Lembaga Peperiksaan (LP) untuk semua murid Tahun 4. Kali pertama ia diadakan ialah pada **6 hingga 8 Oktober 2026**, melibatkan **460,771 murid** menurut Lembaga Peperiksaan. Murid menduduki empat subjek teras, iaitu Bahasa Melayu, Bahasa Inggeris, Matematik dan Sains, serta Bahasa Cina atau Bahasa Tamil bagi murid SJK.
 
 Menurut KPM, keputusannya digunakan untuk mengenal pasti tahap penguasaan murid supaya guru dan sekolah dapat membuat intervensi lebih awal di Tahun 5 dan 6. Ia tidak digunakan untuk menyusun kedudukan murid atau sekolah, dan bukan syarat kemasukan ke sekolah berasrama penuh atau MRSM.
+
+> **Kemas kini 18 November 2026: pelaporan MPT4 diedarkan 29 November hingga 4 Disember 2026.** Menurut hebahan rasmi Lembaga Peperiksaan di media sosial (dilaporkan oleh [Malaysia Tribune](https://malaysiatribune.news/keputusan-matriks-pembelajaran-tahun-4-bermula-29-november-hingga-4-disember/)), laporan dikeluarkan melalui sistem SBPPA, dicetak oleh sekolah, dan diserahkan kepada ibu bapa dalam bentuk bercetak atau digital bersama slip PBS yang lain. **Skrip jawapan murid juga akan dikembalikan.** Butiran dalam bahagian [bila keputusan keluar dan cara semak](#bila-keputusan-keluar).
 
 > **Kemas kini 17 Oktober 2026:** MPT4 telah selesai diadakan di kebanyakan negeri. Di **Johor**, akibat penutupan sekolah kerana jerebu, Jabatan Pendidikan Negeri Johor menangguhkan MPT4 dan pentaksiran lain di seluruh negeri. Tarikh baharu akan ditetapkan bersama Lembaga Peperiksaan dan dimaklumkan kemudian ([Portal Berita RTM](https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/pelaksanaan-mpt4-pentaksiran-lain-ditangguhkan-jpnj/)). Senarai sekolah yang ditutup ada dalam [PdPR Jerebu 2026](/platform-permainan-interaktif-pdpr/).
 
@@ -39,7 +41,7 @@ Artikel ini merumuskan maklumat rasmi KPM dan Lembaga Peperiksaan, termasuk [gre
 | **Masa setiap kertas** | 1 jam 15 minit |
 | **Format** | Soalan objektif dan subjektif dalam satu kertas |
 | **Penanda** | Guru mata pelajaran murid sendiri, menggunakan skema pemarkahan LP |
-| **Keputusan** | Gred A hingga F seperti UASA, serta tahap penguasaan bagi setiap domain; laporan dicetak dan diedarkan oleh sekolah |
+| **Keputusan** | Diserahkan oleh sekolah pada **29 November – 4 Disember 2026** (bercetak atau digital), bersama skrip jawapan murid; gred A hingga F seperti UASA, serta tahap penguasaan bagi setiap domain |
 | **Tujuan** | Intervensi awal, bukan ranking murid atau sekolah |
 
 ---
@@ -148,7 +150,26 @@ Kedua-duanya saling melengkapi. Gred A dalam MPT4 tidak semestinya bermaksud TP6
 
 ### Bila keputusan keluar?
 
-Tarikh rasmi belum diumumkan. Laporan akan diedarkan melalui sekolah selepas proses penskoran, moderasi dan verifikasi selesai. Bagi Johor, keputusan bergantung pada tarikh baharu MPT4 yang belum diumumkan.
+Lembaga Peperiksaan mengumumkan bahawa **pelaporan Matriks Pembelajaran Tahun 4 dilaksanakan mulai 29 November hingga 4 Disember 2026**, melalui hantaran rasmi di media sosial yang dilaporkan oleh [Malaysia Tribune](https://malaysiatribune.news/keputusan-matriks-pembelajaran-tahun-4-bermula-29-november-hingga-4-disember/). Tempoh ini meliputi satu minggu persekolahan penuh bagi kedua-dua kumpulan:
+
+- **Kumpulan A** (Kedah, Kelantan, Terengganu): bersekolah Ahad hingga Khamis, jadi penyerahan boleh bermula seawal Ahad, 29 November.
+- **Kumpulan B** (negeri lain): bersekolah Isnin hingga Jumaat, jadi penyerahan dalam tempoh 30 November hingga 4 Disember.
+
+Tarikh sebenar anak anda menerima laporan bergantung pada sekolah masing-masing dalam tempoh tersebut. Bagi **Johor**, MPT4 ditangguhkan akibat jerebu, jadi semak dengan sekolah anak anda.
+
+### Cara semak keputusan MPT4
+
+Menurut Lembaga Peperiksaan, proses pelaporan MPT4 berjalan begini:
+
+1. **Laporan dikeluarkan melalui SBPPA.** Lembaga Peperiksaan mengeluarkan laporan melalui Sistem Bersepadu Pengurusan Peperiksaan Awam (SBPPA). Setiausaha Pentaksiran (SUP) di sekolah memuat turun dan mencetaknya.
+2. **Laporan diserahkan kepada ibu bapa.** Sekolah menyerahkan laporan dalam **bentuk bercetak atau digital**, bersama slip pelaporan Pentaksiran Berasaskan Sekolah (PBS) yang lain.
+3. **Skrip jawapan murid (SJM) dikembalikan.** Kertas jawapan anak akan diberikan semula, supaya ibu bapa dapat melihat sendiri bahagian yang dikuasai dan yang perlu dibantu di rumah.
+
+Jadi, ibu bapa **tidak perlu menyemak keputusan di mana-mana portal**. SBPPA ialah sistem untuk sekolah, bukan untuk ibu bapa. Tunggu laporan daripada sekolah, dan hubungi guru kelas jika anak belum menerimanya selepas 4 Disember 2026. Berhati-hati dengan pautan "semak keputusan MPT4" yang tular di media sosial.
+
+**Tip untuk ibu bapa:** gunakan skrip jawapan yang dikembalikan. Duduk bersama anak, lihat soalan yang salah, dan tanya bagaimana dia mendapat jawapannya. Ini lebih berguna daripada gred semata-mata.
+
+Untuk memahami gred dalam laporan, lihat [skala gred](#skala-gred) di atas, yang sama dengan [gred UASA](/gred-uasa/).
 
 ---
 
@@ -216,9 +237,17 @@ Ya. Ia pentaksiran selaras untuk semua murid Tahun 4 dan ditadbir oleh Lembaga P
 
 Tidak. Lembaga Peperiksaan menyatakan keputusan Matriks Pembelajaran tidak digunakan untuk kemasukan ke sekolah berasrama penuh, MRSM atau institusi khusus lain.
 
-### Bila keputusan akan keluar?
+### Bila keputusan Matriks Pembelajaran Tahun 4 keluar?
 
-Tarikh rasmi belum diumumkan. Semasa pengumuman pada Januari 2026, Menteri Pendidikan menyatakan keputusan dijangka boleh dianalisis sebelum cuti sekolah. Laporan keputusan akan dicetak dan diedarkan oleh sekolah.
+Menurut Lembaga Peperiksaan, pelaporan MPT4 dilaksanakan mulai 29 November hingga 4 Disember 2026. Bagi Johor, semak dengan sekolah kerana MPT4 di negeri itu ditangguhkan akibat jerebu.
+
+### Bagaimana cara semak keputusan MPT4?
+
+Tiada semakan dalam talian untuk ibu bapa. Laporan dikeluarkan oleh Lembaga Peperiksaan melalui SBPPA, dicetak oleh Setiausaha Pentaksiran sekolah, dan diserahkan kepada ibu bapa dalam bentuk bercetak atau digital bersama slip PBS yang lain.
+
+### Adakah kertas jawapan MPT4 dikembalikan?
+
+Ya. Lembaga Peperiksaan menyatakan skrip jawapan murid (SJM) dikembalikan kepada murid supaya ibu bapa dapat memahami penguasaan pembelajaran anak dan memberi sokongan di rumah.
 
 ### Apakah gred dalam keputusan MPT4?
 
@@ -270,4 +299,5 @@ Jika anda ingin tahu lebih lanjut tentang perbahasan dasar di sebalik Matriks Pe
 - Utusan Malaysia, [Matriks Tahun 4 bukan untuk kejar skor](https://www.utusan.com.my/berita/2026/10/matriks-t4-bukan-kejar-skor/) (Oktober 2026), seperti dilaporkan semula oleh [Serv2U Media](https://serv2umedia.net/mpt4-bantu-kesan-jurang-pembelajaran-murid-tahun-4/) (7 Oktober 2026)
 - Malaysia Tribune, [Jerebu: Peperiksaan, pentaksiran MPT4, PKSK di Johor ditangguh, dijadual semula](https://malaysiatribune.news/jerebu-mpt4-pksk-di-johor-ditangguh/) (11 Oktober 2026)
 - Sinar Bestari, [Penjelasan gred markah yang ibu bapa perlu tahu](https://sinarbestari.sinarharian.com.my/buletin/upsa-selesai-ini-penjelasan-gred-markah-yang-ibu-bapa-perlu-tahu) (23 Jun 2025)
+- Malaysia Tribune, [Keputusan Matriks Pembelajaran Tahun 4 bermula 29 November hingga 4 Disember](https://malaysiatribune.news/keputusan-matriks-pembelajaran-tahun-4-bermula-29-november-hingga-4-disember/) (17 November 2026), memetik hantaran rasmi Lembaga Peperiksaan di media sosial
 - Portal rasmi Lembaga Peperiksaan: [lp.moe.gov.my](https://lp.moe.gov.my)
